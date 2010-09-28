@@ -339,6 +339,20 @@ function publish_achievements
 {
     git_achievements="$(which git-achievements)"
     git_achievements_dir="$(dirname "${git_achievements}")"
+
+    # Allow outputting to a different dir, since my gh-pages reside in diff repo. 
+    # would seem to make sense? please let me know if I'm missing a way to manage it.
+    if [ "`git config --global achievement.output.dir`" ] ; then
+        git_achievements_dir="`git config --global achievement.output.dir`";
+    fi
+
+    # Change the name used to output your achievements to. 
+    # No file extension, since we output multiple formats
+    git_achievements_filename="index"
+    if [ "`git config --global achievement.output.filename`" ] ; then
+        git_achievements_filename="`git config --global achievement.output.filename`";
+    fi
+
     if [ -L "${git_achievements}" ]; then
       case "$(dirname $(readlink ${git_achievements}))" in
         /*)
