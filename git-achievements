@@ -373,12 +373,12 @@ echo "
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>${user}'s Git Achievements</title>
-<link rel=\"alternate\" type=\"application/rss+xml\" title\"rss feed\" href=\"index.rss\"/>
+<link rel=\"alternate\" type=\"application/rss+xml\" title\"rss feed\" href=\"$git_achievements_filename.rss\"/>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>
 </head>
 <body>
-" > index.html
-    echo "<h2>${user}'s Git Achievements</h2>" >> index.html
+" > $git_achievements_filename.html
+    echo "<h2>${user}'s Git Achievements</h2>" >> $git_achievements_filename.html
 
     # STATS
     cat git-achievements | grep 'unlock_achievement ' | grep -v ' sed ' | grep -v '\${' | sed -e 's/.*unlock_achievement //g' -e 's/^"//g' -e 's/"$//g' -e 's/\$power/X/g' -e 's/\$count/X/g' -e 's/\$hooks/X/g' | sort | awk -F"\" \"" '{ print "<li><div class=\"title\">" $1 "</div><div class=\"info\">" $2 "</div></li>" }' | link_to_git_docs > all.html
@@ -388,21 +388,21 @@ echo "
     levels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | grep Level | sed -e 's/.* //g' -e 's/)//g' | awk '{ t=t+$0 } END { print t }'`
     onelevels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | wc -l`
     let points="${levels}"+"${onelevels}"
-    echo "Unlocked ${unlockedCount}/$total <a href=\"http://github.com/icefox/git-achievements\">Git Achievements</a> for $points points<br>" >> index.html
+    echo "Unlocked ${unlockedCount}/$total <a href=\"http://github.com/icefox/git-achievements\">Git Achievements</a> for $points points<br>" >> $git_achievements_filename.html
 
     unlocked=`cat "${ACHIEVEMENTSLOGFILE}" | grep Unlocked | wc -l`
 
     # Unlocked Achievements
-    echo "<ul>" >> index.html
-    cat "${ACHIEVEMENTSLOGFILE}" | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<li><div class=\"title\">" $0 "</div>"; else printf "  <div class=\"info\">" $0 "</div></li>\n" }' | link_to_git_docs | sort >> index.html
+    echo "<ul>" >> $git_achievements_filename.html
+    cat "${ACHIEVEMENTSLOGFILE}" | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<li><div class=\"title\">" $0 "</div>"; else printf "  <div class=\"info\">" $0 "</div></li>\n" }' | link_to_git_docs | sort >> $git_achievements_filename.html
 
-    echo "</ul>" >> index.html
+    echo "</ul>" >> $git_achievements_filename.html
 
     # Git Commands
-    echo 'Git commands sorted by usage:' >> index.html
-    echo "<pre style=\"text-align: left\">" >> index.html
-    cat  "${ACTIONLOGFILE}" | grep -v Date | awk '{ print $1 }' | sort | uniq -c | sort -nr >> index.html
-    echo "</pre>" >> index.html
+    echo 'Git commands sorted by usage:' >> $git_achievements_filename.html
+    echo "<pre style=\"text-align: left\">" >> $git_achievements_filename.html
+    cat  "${ACTIONLOGFILE}" | grep -v Date | awk '{ print $1 }' | sort | uniq -c | sort -nr >> $git_achievements_filename.html
+    echo "</pre>" >> $git_achievements_filename.html
 
     # Locked Achievements
     echo "<script type=\"text/javascript\">
@@ -414,30 +414,30 @@ function showLocked() {
 <a id=\"showlocked\" href=\"javascript:showLocked()\" >Show locked Achievements</a>
 <div id=\"locked\">
 There are $total Achievements. Some achievements can be leveled up depending on the number of times it is used (Used 2 times = level 1, 4 = level 2, 8 = level 3, 16 = level 4, 32 = level 5, etc)
-<ul>" >> index.html
+<ul>" >> $git_achievements_filename.html
 
-    cat index.html | sed -e 's/Apprentice //g' -e 's/Master //g'> temp.html
+    cat $git_achievements_filename.html | sed -e 's/Apprentice //g' -e 's/Master //g'> temp.html
     cat all.html | while read line ;
     do
         stripedline=`echo $line | sed -e 's/<\/div>.*//g' -e 's/(.*//g' -e 's/Apprentice //g'`
         grep "$stripedline" temp.html > /dev/null
         if [ ! $? -eq 0 ] ; then
-            echo $line >> index.html
+            echo $line >> $git_achievements_filename.html
         fi
     done
-    echo '</ul></div>' >> index.html
+    echo '</ul></div>' >> $git_achievements_filename.html
     rm temp.html
     rm all.html
 
-    echo "</body></html>" >> index.html
+    echo "</body></html>" >> $git_achievements_filename.html
 
     # Update the RSS feed
-    echo '<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>' > index.rss
-    echo "<title>${user}'s Git Achievements</title>" >> index.rss
-    echo "<description></description>" >> index.rss
-    echo "<link></link>" >> index.rss
-    cat "${ACHIEVEMENTSLOGFILE}"  | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<item><title>" $0 "</title>"; else printf "<description>" $0 "</description></item>\n" }' | tail -n 20 | sed '1!G;h;$!d' >> index.rss
-    echo '</channel></rss>' >> index.rss
+    echo '<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>' > $git_achievements_filename.rss
+    echo "<title>${user}'s Git Achievements</title>" >> $git_achievements_filename.rss
+    echo "<description></description>" >> $git_achievements_filename.rss
+    echo "<link></link>" >> $git_achievements_filename.rss
+    cat "${ACHIEVEMENTSLOGFILE}"  | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<item><title>" $0 "</title>"; else printf "<description>" $0 "</description></item>\n" }' | tail -n 20 | sed '1!G;h;$!d' >> $git_achievements_filename.rss
+    echo '</channel></rss>' >> $git_achievements_filename.rss
 
     abortcount=`git status | grep 'Changes to be committed' | wc -l`
     if [ ! $abortcount -eq 0 ] ; then
@@ -451,7 +451,7 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     fi
 
     echo "Adding new achievements and publishing to origin."
-    git add index.html index.rss
+    git add $git_achievements_filename.html $git_achievements_filename.rss
     if [ -z "${1}" ] ; then
         message="Publishing updated achievement"
     else
