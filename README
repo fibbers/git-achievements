@@ -29,6 +29,12 @@ git config --global achievement.upload "true"
 When an achievement is unlocked the index.html file will be overwritten,
 committed and then a 'git push origin' will be executed.
 
+To create the output in a different directory you can use the following:
+git config --global achievement.output.dir ~/Sites/meeech.github.com 
+
+To rename the files output you can set:
+git config --global achievement.output.filename git-stats     
+
 
 Install
 -------
