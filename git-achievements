@@ -89,7 +89,8 @@ function count_command
     # mysys gawk it old and doesn't have the bitwise operation and :( so we have to use perl for now
     export powerof2=`echo 'use Env; $y=$ENV{'count'}; $x=($y & ($y-1)); print "$x\n" ' | perl -`
 
-    if [ ${count} -eq 1 ] ; then
+    # Set a default value of 0. Bug seems to occur when the achievement is unlocked
+    if [ ${count:-0} -eq 1 ] ; then
         powerof2="1"
     fi
     #echo "cmd: $1 powerof2: $powerof2 power: $power count: $count"
