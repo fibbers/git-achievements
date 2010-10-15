@@ -2,8 +2,8 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>[32m[K  14[m[K	[36m[K:[m[K[32m[K  18[m[K	[36m[K:[m[K[32m[K  29[m[K	[36m[K:[m[K                      Apprentice Product Manager (Level 1)</title><description>[32m[K  15[m[K	[36m[K:[m[K[32m[K  19[m[K	[36m[K:[m[K[32m[K  30[m[K	[36m[K:[m[K       Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>[32m[K  10[m[K	[36m[K:[m[K[32m[K  13[m[K	[36m[K:[m[K[32m[K  21[m[K	[36m[K:[m[K                                 Garage Inventor</title><description>[32m[K  11[m[K	[36m[K:[m[K[32m[K  14[m[K	[36m[K:[m[K[32m[K  22[m[K	[36m[K:[m[K                      Used a custom alias for a Git command</description></item>
-<item><title>[32m[K   6[m[K	[36m[K:[m[K[32m[K   8[m[K	[36m[K:[m[K[32m[K  13[m[K	[36m[K:[m[K                           Master Carpenter (Level 10)</title><description>[32m[K   7[m[K	[36m[K:[m[K[32m[K   9[m[K	[36m[K:[m[K[32m[K  14[m[K	[36m[K:[m[K Custom git hooks are installed which help catch issues before they are shared.</description></item>
-<item><title>[32m[K   2[m[K	[36m[K:[m[K[32m[K   3[m[K	[36m[K:[m[K[32m[K   5[m[K	[36m[K:[m[K                                     Student</title><description>[32m[K   3[m[K	[36m[K:[m[K[32m[K   4[m[K	[36m[K:[m[K[32m[K   6[m[K	[36m[K:[m[K       Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
+<item><title>Master Carpenter (Level 10)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
+<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
