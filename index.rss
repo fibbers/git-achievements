@@ -2,6 +2,7 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
