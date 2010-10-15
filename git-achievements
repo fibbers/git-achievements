@@ -37,7 +37,7 @@ function git_achievements_command
             ;;
         * )
             echo "Git Achievements"
-            count=`cat "${ACHIEVEMENTSLOGFILE}" 2> /dev/null | GREP_COLOR= GREP_OPTIONS= grep Unlocked | wc -l`
+            count=`cat "${ACHIEVEMENTSLOGFILE}" 2> /dev/null | grep Unlocked | wc -l`
             echo ""
             echo "You currently have: $count achievements"
             echo ""
@@ -69,7 +69,7 @@ $2
 
 function unlock_achievement()
 {
-    GREP_COLOR= GREP_OPTIONS= grep "$1" "${ACHIEVEMENTSLOGFILE}" > /dev/null 2>/dev/null
+    grep "$1" "${ACHIEVEMENTSLOGFILE}" > /dev/null 2>/dev/null
     if [ $? -eq 0 ] ; then
         return
     fi
@@ -376,7 +376,7 @@ echo "
     let points="${levels}"+"${onelevels}"
     echo "Unlocked ${unlockedCount}/$total <a href=\"http://github.com/icefox/git-achievements\">Git Achievements</a> for $points points<br>" >> index.html
 
-    unlocked=`cat "${ACHIEVEMENTSLOGFILE}" | GREP_COLOR= GREP_OPTIONS= grep Unlocked | wc -l`
+    unlocked=`cat "${ACHIEVEMENTSLOGFILE}" | grep Unlocked | wc -l`
 
     # Unlocked Achievements
     echo "<ul>" >> index.html
@@ -425,7 +425,7 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     cat "${ACHIEVEMENTSLOGFILE}"  | GREP_COLOR= GREP_OPTIONS= grep -ve '^$' | GREP_COLOR= GREP_OPTIONS= grep -v 'Git Achievement Unlocked!' | GREP_COLOR= GREP_OPTIONS= grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<item><title>" $0 "</title>"; else printf "<description>" $0 "</description></item>\n" }' | tail -n 20 | sed '1!G;h;$!d' >> index.rss
     echo '</channel></rss>' >> index.rss
 
-    abortcount=`git status | GREP_COLOR= GREP_OPTIONS= grep 'Changes to be committed' | wc -l`
+    abortcount=`git status | grep 'Changes to be committed' | wc -l`
     if [ ! $abortcount -eq 0 ] ; then
         echo "There are staged changes in the repository, updates let uncommitted"
         return
