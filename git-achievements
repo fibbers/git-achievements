@@ -37,7 +37,7 @@ function git_achievements_command
             ;;
         * )
             echo "Git Achievements"
-            count=`cat "${ACHIEVEMENTSLOGFILE}" 2> /dev/null | grep Unlocked | wc -l`
+            count=`cat "${ACHIEVEMENTSLOGFILE}" 2> /dev/null | GREP_COLOR= GREP_OPTIONS= grep Unlocked | wc -l`
             echo ""
             echo "You currently have: $count achievements"
             echo ""
@@ -69,7 +69,7 @@ $2
 
 function unlock_achievement()
 {
-    grep "$1" "${ACHIEVEMENTSLOGFILE}" > /dev/null 2>/dev/null
+    GREP_COLOR= GREP_OPTIONS= grep "$1" "${ACHIEVEMENTSLOGFILE}" > /dev/null 2>/dev/null
     if [ $? -eq 0 ] ; then
         return
     fi
@@ -135,13 +135,13 @@ function check_for_achievements
 {
     # Anyone know of a cleaner way of checking for hooks?
     gitdir=`git rev-parse --git-dir 2>/dev/null`
-    hooks=`ls -F $gitdir/hooks/ 2>/dev/null | grep -e '\*$' | grep -ve 'sample\*$' | wc -l`
+    hooks=`ls -F $gitdir/hooks/ 2>/dev/null | GREP_COLOR= GREP_OPTIONS= grep -e '\*$' | GREP_COLOR= GREP_OPTIONS= grep -ve 'sample\*$' | wc -l`
     if [ ${hooks} -ge 1 ] ; then
         hcount_unlock_achievement "Carpenter" "Custom git hooks are installed which help catch issues before they are shared." "$hooks"
     fi
 
     # Custom command
-    if [ -e "`git --exec-path`/$1" ] && [ $1 != "achievements" ] && echo "$1" | grep -q -v ^- ; then
+    if [ -e "`git --exec-path`/$1" ] && [ $1 != "achievements" ] && echo "$1" | GREP_COLOR= GREP_OPTIONS= grep -q -v ^- ; then
         unlock_achievement "Inventor ($1)" "Used a command that isn't part of the built in Git command"
     fi
 
@@ -332,7 +332,7 @@ function link_to_git_docs
 }
 
 function clean_logged_achievements() {
-    cat "${ACHIEVEMENTSLOGFILE}" | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g'
+    cat "${ACHIEVEMENTSLOGFILE}" | GREP_COLOR= GREP_OPTIONS= grep -ve '^$' | GREP_COLOR= GREP_OPTIONS= grep -v 'Git Achievement Unlocked!' | GREP_COLOR= GREP_OPTIONS= grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g'
 }
 
 function publish_achievements
@@ -367,27 +367,27 @@ echo "
     echo "<h2>${user}'s Git Achievements</h2>" >> index.html
 
     # STATS
-    cat git-achievements | grep 'unlock_achievement ' | grep -v ' sed ' | grep -v '\${' | sed -e 's/.*unlock_achievement //g' -e 's/^"//g' -e 's/"$//g' -e 's/\$power/X/g' -e 's/\$count/X/g' -e 's/\$hooks/X/g' | sort | awk -F"\" \"" '{ print "<li><div class=\"title\">" $1 "</div><div class=\"info\">" $2 "</div></li>" }' | link_to_git_docs > all.html
+    cat git-achievements | GREP_COLOR= GREP_OPTIONS= grep 'unlock_achievement ' | GREP_COLOR= GREP_OPTIONS= grep -v ' sed ' | GREP_COLOR= GREP_OPTIONS= grep -v '\${' | sed -e 's/.*unlock_achievement //g' -e 's/^"//g' -e 's/"$//g' -e 's/\$power/X/g' -e 's/\$count/X/g' -e 's/\$hooks/X/g' | sort | awk -F"\" \"" '{ print "<li><div class=\"title\">" $1 "</div><div class=\"info\">" $2 "</div></li>" }' | link_to_git_docs > all.html
     total=`cat all.html | wc -l`
 
     unlockedCount=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | sed -e 's/Apprentice //g' -e 's/Master //g' -e 's/(.*//g' | sort | uniq | wc -l`
-    levels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | grep Level | sed -e 's/.* //g' -e 's/)//g' | awk '{ t=t+$0 } END { print t }'`
+    levels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | GREP_COLOR= GREP_OPTIONS= grep Level | sed -e 's/.* //g' -e 's/)//g' | awk '{ t=t+$0 } END { print t }'`
     onelevels=`clean_logged_achievements | awk '{ if (NR % 2 != 0) print $0 }' | wc -l`
     let points="${levels}"+"${onelevels}"
     echo "Unlocked ${unlockedCount}/$total <a href=\"http://github.com/icefox/git-achievements\">Git Achievements</a> for $points points<br>" >> index.html
 
-    unlocked=`cat "${ACHIEVEMENTSLOGFILE}" | grep Unlocked | wc -l`
+    unlocked=`cat "${ACHIEVEMENTSLOGFILE}" | GREP_COLOR= GREP_OPTIONS= grep Unlocked | wc -l`
 
     # Unlocked Achievements
     echo "<ul>" >> index.html
-    cat "${ACHIEVEMENTSLOGFILE}" | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<li><div class=\"title\">" $0 "</div>"; else printf "  <div class=\"info\">" $0 "</div></li>\n" }' | link_to_git_docs | sort >> index.html
+    cat "${ACHIEVEMENTSLOGFILE}" | GREP_COLOR= GREP_OPTIONS= grep -ve '^$' | GREP_COLOR= GREP_OPTIONS= grep -v 'Git Achievement Unlocked!' | GREP_COLOR= GREP_OPTIONS= grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<li><div class=\"title\">" $0 "</div>"; else printf "  <div class=\"info\">" $0 "</div></li>\n" }' | link_to_git_docs | sort >> index.html
 
     echo "</ul>" >> index.html
 
     # Git Commands
     echo 'Git commands sorted by usage:' >> index.html
     echo "<pre style=\"text-align: left\">" >> index.html
-    cat  "${ACTIONLOGFILE}" | grep -v Date | awk '{ print $1 }' | sort | uniq -c | sort -nr >> index.html
+    cat  "${ACTIONLOGFILE}" | GREP_COLOR= GREP_OPTIONS= grep -v Date | awk '{ print $1 }' | sort | uniq -c | sort -nr >> index.html
     echo "</pre>" >> index.html
 
     # Locked Achievements
@@ -406,7 +406,7 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     cat all.html | while read line ;
     do
         stripedline=`echo $line | sed -e 's/<\/div>.*//g' -e 's/(.*//g' -e 's/Apprentice //g'`
-        grep "$stripedline" temp.html > /dev/null
+        GREP_COLOR= GREP_OPTIONS= grep "$stripedline" temp.html > /dev/null
         if [ ! $? -eq 0 ] ; then
             echo $line >> index.html
         fi
@@ -422,10 +422,10 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     echo "<title>${user}'s Git Achievements</title>" >> index.rss
     echo "<description></description>" >> index.rss
     echo "<link></link>" >> index.rss
-    cat "${ACHIEVEMENTSLOGFILE}"  | grep -ve '^$' | grep -v 'Git Achievement Unlocked!' | grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<item><title>" $0 "</title>"; else printf "<description>" $0 "</description></item>\n" }' | tail -n 20 | sed '1!G;h;$!d' >> index.rss
+    cat "${ACHIEVEMENTSLOGFILE}"  | GREP_COLOR= GREP_OPTIONS= grep -ve '^$' | GREP_COLOR= GREP_OPTIONS= grep -v 'Git Achievement Unlocked!' | GREP_COLOR= GREP_OPTIONS= grep -v '*' | sed -e 's/^ *//g'  -e 's/ *$//g' | awk '{ if (NR % 2 != 0) printf "<item><title>" $0 "</title>"; else printf "<description>" $0 "</description></item>\n" }' | tail -n 20 | sed '1!G;h;$!d' >> index.rss
     echo '</channel></rss>' >> index.rss
 
-    abortcount=`git status | grep 'Changes to be committed' | wc -l`
+    abortcount=`git status | GREP_COLOR= GREP_OPTIONS= grep 'Changes to be committed' | wc -l`
     if [ ! $abortcount -eq 0 ] ; then
         echo "There are staged changes in the repository, updates let uncommitted"
         return
