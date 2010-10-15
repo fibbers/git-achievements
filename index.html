@@ -9,44 +9,53 @@
 <body>
 
 <h2>Willem Fibbe's Git Achievements</h2>
-Unlocked 11/48 <a href="http://github.com/icefox/git-achievements">Git Achievements</a> for 14 points<br>
+Unlocked 13/48 <a href="http://github.com/icefox/git-achievements">Git Achievements</a> for 18 points<br>
 <ul>
 <li><div class="title">Apprentice Author (Level 1)</div>  <div class="info">Made 2^Level commits using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-commit.html">git-commit</a>.</div></li>
 <li><div class="title">Apprentice Author (Level 3)</div>  <div class="info">Made 2^Level commits using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-commit.html">git-commit</a>.</div></li>
 <li><div class="title">Apprentice Miller (Level 1)</div>  <div class="info">Add only part of a file to the stage 2 times with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-add.html">git-add</a> -p.</div></li>
 <li><div class="title">Apprentice Presenter (Level 2)</div>  <div class="info">Shows one or more objects (blobs, trees, tags and commits) with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-show.html">git-show</a></div></li>
+<li><div class="title">Apprentice Presenter (Level 3)</div>  <div class="info">Shows one or more objects (blobs, trees, tags and commits) with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-show.html">git-show</a></div></li>
 <li><div class="title">Apprentice Product Manager (Level 1)</div>  <div class="info">Stash the changes in a dirty working directory away with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-stash.html">git-stash</a>.</div></li>
 <li><div class="title">Apprentice Product Manager (Level 2)</div>  <div class="info">Stash the changes in a dirty working directory away with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-stash.html">git-stash</a>.</div></li>
 <li><div class="title">Apprentice Socialite (Level 1)</div>  <div class="info">pushed a branch to a remote repository using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-push.html">git-push</a></div></li>
 <li><div class="title">Apprentice Socialite (Level 2)</div>  <div class="info">pushed a branch to a remote repository using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-push.html">git-push</a></div></li>
 <li><div class="title">Apprentice Stone Mason (Level 1)</div>  <div class="info">Added files to the index area for inclusion in the next commit with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-add.html">git-add</a></div></li>
 <li><div class="title">Apprentice Traveler (Level 1)</div>  <div class="info">Streamed changes between another rcs with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-svn.html">git-svn</a> or <a href="http://www.kernel.org/pub/software/scm/git/docs/git-p4.html">git-p4</a>.</div></li>
+<li><div class="title">Apprentice Traveler (Level 2)</div>  <div class="info">Streamed changes between another rcs with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-svn.html">git-svn</a> or <a href="http://www.kernel.org/pub/software/scm/git/docs/git-p4.html">git-p4</a>.</div></li>
+<li><div class="title">Cherry Picker</div>  <div class="info">Used <a href="http://www.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html">git-cherry-pick</a> to add a sha from another branch into the current branch.</div></li>
 <li><div class="title">Garage Inventor</div>  <div class="info">Used a custom alias for a Git command</div></li>
+<li><div class="title">Master Blacksmith (Level -inf)</div>  <div class="info">Created a branch using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-checkout.html">git-checkout</a> -b.</div></li>
 <li><div class="title">Master Carpenter (Level 10)</div>  <div class="info">Custom <a href="http://www.kernel.org/pub/software/scm/git/docs/githooks.html">git-hooks</a> are installed which help catch issues before they are shared.</div></li>
 <li><div class="title">Master Goldsmith (Level -inf)</div>  <div class="info">Reviewed patches before committing with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-diff.html">git-diff</a> --cached.</div></li>
 <li><div class="title">Student</div>  <div class="info">Accessed the documentation for a command with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-.html">git-</a>[command] --help</div></li>
 </ul>
 Git commands sorted by usage:
 <pre style="text-align: left">
-    376 rev-parse
-    188 symbolic-ref
-     28 st
-     24 --git-dir=.git
-     10 df
+    712 rev-parse
+    356 symbolic-ref
+     57 st
+     56 --git-dir=.git
+     23 co
+     16 br
+     15 df
+      9 help
+      7 show
+      7 push
+      7 ci
+      7 cherry-pick
       5 stash
-      5 help
-      5 ci
+      5 diff
       5 achievements
-      4 push
-      4 diff
-      3 svn
-      3 show
-      2 co
-      2 br
+      4 svn
+      2 reset
       2 add
       1 show-branch
-      1 reset
+      1 pull
+      1 merge
       1 grep
+      1 filter-branch
+      1 fetch
       1 config
       1 bl
 </pre>
@@ -65,10 +74,8 @@ There are 48 Achievements. Some achievements can be leveled up depending on the 
 <li><div class="title">Banker</div><div class="info">Join two or more development histories together with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-merge.html">git-merge</a>.</div></li>
 <li><div class="title">Baptised</div><div class="info">Set global user name using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-config.html">git-config</a>.</div></li>
 <li><div class="title">Beach Lion</div><div class="info">Restricted login shell for GIT-only SSH access with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-shell.html">git-shell</a></div></li>
-<li><div class="title">Blacksmith</div><div class="info">Created a branch using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-checkout.html">git-checkout</a> -b.</div></li>
 <li><div class="title">Butcher</div><div class="info">Performed an interactive rebase using <a href="http://www.kernel.org/pub/software/scm/git/docs/git-rebase.html">git-rebase</a> -i.</div></li>
 <li><div class="title">Caretaker</div><div class="info">Added a .gitignore file to a repository.</div></li>
-<li><div class="title">Cherry Picker</div><div class="info">Used <a href="http://www.kernel.org/pub/software/scm/git/docs/git-cherry-pick.html">git-cherry-pick</a> to add a sha from another branch into the current branch.</div></li>
 <li><div class="title">Chimney Sweeper</div><div class="info">Used <a href="http://www.kernel.org/pub/software/scm/git/docs/git-gc.html">git-gc</a> to run a number of housekeeping tasks on the current repository.</div></li>
 <li><div class="title">Cleaning lady</div><div class="info">Remove untracked files from the working tree with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-clean.html">git-clean</a></div></li>
 <li><div class="title">Collector</div><div class="info">Fetches named heads or tags from another repository with <a href="http://www.kernel.org/pub/software/scm/git/docs/git-fetch.html">git-fetch</a></div></li>
