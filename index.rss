@@ -2,24 +2,6 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Plumber (Level 2)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Apprentice Plumber (Level 1)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Apprentice News Reader (Level 1)</title><description>Show logs with difference each commit introduces with git whatchanged</description></item>
-<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
-<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Let there be light</title><description>Commit without a parent.</description></item>
-<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
-<item><title>Master Blacksmith (Level -inf)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Goldsmith (Level -inf)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 2 times with git add -p.</description></item>
 <item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
