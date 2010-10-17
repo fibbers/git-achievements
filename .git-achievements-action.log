@@ -518,3 +518,47 @@ rev-parse --is-inside-work-tree
 Date: Sun Oct 17 05:32:49 CEST 2010
 svn dcommit
 Date: Sun Oct 17 05:32:52 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:32:55 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:32:55 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:32:55 CEST 2010
+svn log
+Date: Sun Oct 17 05:32:57 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:32:57 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:32:57 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:32:57 CEST 2010
+svn info
+Date: Sun Oct 17 05:33:00 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:33:00 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:33:00 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:33:00 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:33:02 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:33:02 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:33:02 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:33:04 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:33:04 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:33:04 CEST 2010
+svn info
+Date: Sun Oct 17 05:33:09 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:33:09 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:33:09 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:33:09 CEST 2010
+svn log
+Date: Sun Oct 17 05:33:11 CEST 2010
