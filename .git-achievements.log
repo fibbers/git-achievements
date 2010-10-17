@@ -86,3 +86,11 @@ Used git blame to annotates a file with information about how each line changed.
   Used git gc to run a number of housekeeping tasks on the current repository.  
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                         Apprentice Archivist (Level 1)                         
+ Prepare each commit with its patch in one file per commit with git format-patch 
+********************************************************************************
+
