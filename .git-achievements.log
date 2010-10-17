@@ -54,3 +54,11 @@ Used git blame to annotates a file with information about how each line changed.
            Reviewed patches before committing with git diff --cached.           
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                          Apprentice Traveler (Level 1)                          
+          Streamed changes between another rcs with git svn or git p4.          
+********************************************************************************
+
