@@ -224,3 +224,115 @@ rev-parse --is-inside-git-dir
 Date: Sun Oct 17 04:54:22 CEST 2010
 rev-parse --is-inside-work-tree
 Date: Sun Oct 17 04:54:22 CEST 2010
+ci -a
+Date: Sun Oct 17 04:54:50 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:54:50 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:54:50 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:54:50 CEST 2010
+st
+Date: Sun Oct 17 04:54:51 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:54:51 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:54:51 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:54:51 CEST 2010
+push
+Date: Sun Oct 17 04:55:00 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:55:00 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:55:00 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:55:00 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:55:08 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:55:08 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:55:08 CEST 2010
+--git-dir=.git config --get alias.bl
+Date: Sun Oct 17 04:55:11 CEST 2010
+bl git-achievements
+Date: Sun Oct 17 04:55:13 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:55:16 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:55:16 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:55:16 CEST 2010
+st
+Date: Sun Oct 17 04:55:17 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 04:55:17 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 04:55:17 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 04:55:17 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:06:26 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:06:26 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:06:26 CEST 2010
+st
+Date: Sun Oct 17 05:06:28 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:06:28 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:06:28 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:06:28 CEST 2010
+--git-dir=.git config --get alias.df
+Date: Sun Oct 17 05:06:32 CEST 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Oct 17 05:06:32 CEST 2010
+df README
+Date: Sun Oct 17 05:06:33 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:06:33 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:06:33 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:06:33 CEST 2010
+--git-dir=.git config --get alias.df
+Date: Sun Oct 17 05:06:47 CEST 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Oct 17 05:06:47 CEST 2010
+df git-achievements
+Date: Sun Oct 17 05:07:09 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:07:09 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:07:09 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:07:09 CEST 2010
+st
+Date: Sun Oct 17 05:07:10 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:07:10 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:07:11 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:07:11 CEST 2010
+add README git-achievements
+Date: Sun Oct 17 05:07:16 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:07:16 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:07:16 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:07:16 CEST 2010
+st
+Date: Sun Oct 17 05:07:20 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:07:20 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:07:20 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:07:20 CEST 2010
+ci
+Date: Sun Oct 17 05:08:30 CEST 2010
