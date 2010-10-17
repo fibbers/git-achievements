@@ -196,3 +196,59 @@ Date: Sun Oct 17 05:29:17 CEST 2010
 Date: Sun Oct 17 05:29:18 CEST 2010
 bl ietserbij
 Date: Sun Oct 17 05:29:18 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:21 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:21 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:21 CEST 2010
+--git-dir=.git config --get alias.df
+Date: Sun Oct 17 05:29:23 CEST 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Oct 17 05:29:23 CEST 2010
+df ietserbij
+Date: Sun Oct 17 05:29:24 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:24 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:24 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:24 CEST 2010
+diff
+Date: Sun Oct 17 05:29:25 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:25 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:25 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:26 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:30 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:30 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:30 CEST 2010
+--git-dir=.git config --get alias.df
+Date: Sun Oct 17 05:29:31 CEST 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Oct 17 05:29:31 CEST 2010
+df ietserbij
+Date: Sun Oct 17 05:29:31 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:31 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:31 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:31 CEST 2010
+add .
+Date: Sun Oct 17 05:29:34 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:29:34 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:29:34 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:29:34 CEST 2010
+--git-dir=.git config --get alias.df
+Date: Sun Oct 17 05:29:36 CEST 2010
+df --cached
+Date: Sun Oct 17 05:29:36 CEST 2010
