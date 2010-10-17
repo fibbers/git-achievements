@@ -94,3 +94,11 @@ Used git blame to annotates a file with information about how each line changed.
  Prepare each commit with its patch in one file per commit with git format-patch 
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                        Apprentice Stone Mason (Level 2)                        
+   Added files to the index area for inclusion in the next commit with git add   
+********************************************************************************
+
