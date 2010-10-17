@@ -158,3 +158,17 @@ rev-parse --is-inside-work-tree
 Date: Sun Oct 17 05:28:44 CEST 2010
 init
 Date: Sun Oct 17 05:28:49 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:28:52 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:28:52 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:28:52 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:28:54 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:28:54 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:28:54 CEST 2010
+add ietserbij
+Date: Sun Oct 17 05:28:56 CEST 2010
