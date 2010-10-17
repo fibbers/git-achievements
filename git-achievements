@@ -464,6 +464,14 @@ There are $total Achievements. Some achievements can be leveled up depending on 
 
 ACTIONLOGFILE="$HOME/.git-achievements-action.log"
 ACHIEVEMENTSLOGFILE="$HOME/.git-achievements.log"
+# Change the place of the log-file possibly to the repo itself,
+# so that progress can be shared between multiple locations/computers
+# of where the repo is cloned.
+if [ -n "`git config --global achievement.logfile`" ] ; then
+	logfile="`git config --global achievement.logfile`"
+	ACTIONLOGFILE="$logfile-action.log"
+	ACHIEVEMENTSLOGFILE="$logfile.log"
+fi
 
 if [ ! "$1" = "achievements" ] ; then
     git "$@"
