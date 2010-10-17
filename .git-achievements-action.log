@@ -880,3 +880,57 @@ rev-parse --is-inside-work-tree
 Date: Sun Oct 17 05:37:22 CEST 2010
 add nieuw
 Date: Sun Oct 17 05:37:25 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:27 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:27 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:27 CEST 2010
+ci
+Date: Sun Oct 17 05:37:30 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:30 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:30 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:30 CEST 2010
+reset --hard HEAD^
+Date: Sun Oct 17 05:37:36 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:36 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:36 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:36 CEST 2010
+st
+Date: Sun Oct 17 05:37:37 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:37 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:37 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:37 CEST 2010
+lg
+Date: Sun Oct 17 05:37:39 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:39 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:39 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:39 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:40 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:40 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:40 CEST 2010
+add bla
+Date: Sun Oct 17 05:37:42 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:37:42 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:37:42 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:37:42 CEST 2010
+ci
+Date: Sun Oct 17 05:37:45 CEST 2010
