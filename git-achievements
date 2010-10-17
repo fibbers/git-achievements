@@ -472,8 +472,9 @@ ACHIEVEMENTSLOGFILE="$HOME/.git-achievements.log"
 # so that progress can be shared between multiple locations/computers
 # of where the repo is cloned.
 if [ "`git config --global achievement.shareprogress`" = "true" ] ; then
-	ACTIONLOGFILE=".git-achievements-action.log"
-	ACHIEVEMENTSLOGFILE=".git-achievements.log"
+	dir=`dirname $0`
+	ACTIONLOGFILE="$dir/.git-achievements-action.log"
+	ACHIEVEMENTSLOGFILE="$dir/.git-achievements.log"
 fi
 
 if [ ! "$1" = "achievements" ] ; then
