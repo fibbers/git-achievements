@@ -35,6 +35,19 @@ git config --global achievement.output.dir ~/Sites/meeech.github.com
 To rename the files output you can set:
 git config --global achievement.output.filename git-stats     
 
+To share your git achievements with multiple clones of your git-achievements
+repository (e.g. one clone at work and one clone at home, but sharing progress),
+set the logfile to locate inside your cloned repository, e.g.:
+git config --global git-achievement.logfile /home/fibbers/git-achievements/.git-achievements
+
+git-achievement will then create 2 files where your progress is kept:
+/home/fibbers/git-achievements/.git-achievements-action.log and
+/home/fibbers/git-achievements/.git-achievements.log
+
+Which you have to add once to the repo and then each time you publish your
+achievements, the progress is also pushed and thus shared between your clones
+when you pull from github.
+
 
 Install
 -------
