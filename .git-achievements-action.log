@@ -1128,3 +1128,67 @@ rev-parse --is-inside-work-tree
 Date: Sun Oct 17 05:39:49 CEST 2010
 gc
 Date: Sun Oct 17 05:39:49 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:53 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:53 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:53 CEST 2010
+gc
+Date: Sun Oct 17 05:39:58 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:58 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:58 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:58 CEST 2010
+gc
+Date: Sun Oct 17 05:39:58 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:58 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:58 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:58 CEST 2010
+gc
+Date: Sun Oct 17 05:39:59 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:59 CEST 2010
+gc
+Date: Sun Oct 17 05:39:59 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:59 CEST 2010
+gc
+Date: Sun Oct 17 05:39:59 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:59 CEST 2010
+gc
+Date: Sun Oct 17 05:39:59 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:39:59 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:39:59 CEST 2010
+gc
+Date: Sun Oct 17 05:40:00 CEST 2010
+symbolic-ref HEAD
+Date: Sun Oct 17 05:40:00 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Sun Oct 17 05:40:00 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Sun Oct 17 05:40:00 CEST 2010
+gc
+Date: Sun Oct 17 05:40:00 CEST 2010
