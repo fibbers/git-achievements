@@ -7100,3 +7100,63 @@ rev-parse --is-inside-work-tree
 Date: Thu Oct 28 10:02:29 CEST 2010
 stash pop
 Date: Thu Oct 28 10:02:32 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:07:06 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:07:06 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:07:06 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:07:52 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:07:52 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:07:52 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:07:57 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:07:57 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:07:57 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:08:21 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:08:21 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:08:21 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:08:28 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:08:28 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:08:28 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:08:35 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:08:35 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:08:35 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:08:51 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:08:51 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:08:51 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:08:55 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:08:55 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:08:55 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:09:26 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:09:26 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:09:26 CEST 2010
+symbolic-ref HEAD
+Date: Thu Oct 28 10:09:29 CEST 2010
+rev-parse --is-inside-git-dir
+Date: Thu Oct 28 10:09:29 CEST 2010
+rev-parse --is-inside-work-tree
+Date: Thu Oct 28 10:09:29 CEST 2010
