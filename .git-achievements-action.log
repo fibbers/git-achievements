@@ -12024,3 +12024,71 @@ rev-parse --is-inside-work-tree
 Date: Fri Nov 12 01:58:44 CET 2010
 add --patch
 Date: Fri Nov 12 01:58:50 CET 2010
+st
+Date: Fri Nov 12 09:55:34 CET 2010
+push
+Date: Fri Nov 12 09:55:52 CET 2010
+pull
+Date: Fri Nov 12 09:55:58 CET 2010
+st
+Date: Fri Nov 12 09:55:59 CET 2010
+df
+Date: Fri Nov 12 09:56:01 CET 2010
+st
+Date: Fri Nov 12 09:56:08 CET 2010
+st
+Date: Fri Nov 12 11:31:50 CET 2010
+st
+Date: Fri Nov 12 11:31:58 CET 2010
+df
+Date: Fri Nov 12 11:32:01 CET 2010
+df
+Date: Fri Nov 12 11:41:37 CET 2010
+st
+Date: Fri Nov 12 11:41:41 CET 2010
+add --patch
+Date: Fri Nov 12 11:42:52 CET 2010
+st
+Date: Fri Nov 12 11:42:55 CET 2010
+--git-dir=.git config --get alias.df
+Date: Fri Nov 12 11:42:56 CET 2010
+df --cached
+Date: Fri Nov 12 11:42:57 CET 2010
+ci
+Date: Fri Nov 12 11:43:24 CET 2010
+st
+Date: Fri Nov 12 11:43:30 CET 2010
+df
+Date: Fri Nov 12 11:43:35 CET 2010
+st
+Date: Fri Nov 12 11:43:36 CET 2010
+df
+Date: Fri Nov 12 11:43:41 CET 2010
+df
+Date: Fri Nov 12 11:44:53 CET 2010
+add --patch
+Date: Fri Nov 12 11:45:18 CET 2010
+st
+Date: Fri Nov 12 11:45:20 CET 2010
+df
+Date: Fri Nov 12 11:45:24 CET 2010
+--git-dir=.git config --get alias.df
+Date: Fri Nov 12 11:45:26 CET 2010
+df --cached
+Date: Fri Nov 12 11:45:26 CET 2010
+ci
+Date: Fri Nov 12 11:48:50 CET 2010
+st
+Date: Fri Nov 12 11:48:55 CET 2010
+df
+Date: Fri Nov 12 11:53:02 CET 2010
+st
+Date: Fri Nov 12 11:53:03 CET 2010
+stash
+Date: Fri Nov 12 11:53:14 CET 2010
+svn dcommit --dry-run
+Date: Fri Nov 12 11:53:15 CET 2010
+svn dcommit
+Date: Fri Nov 12 11:53:28 CET 2010
+stash pop
+Date: Fri Nov 12 11:53:34 CET 2010
