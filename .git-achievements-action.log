@@ -12092,3 +12092,19 @@ svn dcommit
 Date: Fri Nov 12 11:53:28 CET 2010
 stash pop
 Date: Fri Nov 12 11:53:34 CET 2010
+df
+Date: Fri Nov 12 12:19:40 CET 2010
+st
+Date: Fri Nov 12 12:19:41 CET 2010
+df
+Date: Fri Nov 12 12:20:43 CET 2010
+st
+Date: Fri Nov 12 12:20:52 CET 2010
+ci -a
+Date: Fri Nov 12 12:39:23 CET 2010
+st
+Date: Fri Nov 12 12:39:59 CET 2010
+st
+Date: Fri Nov 12 12:45:59 CET 2010
+co -b testje
+Date: Fri Nov 12 16:33:38 CET 2010
