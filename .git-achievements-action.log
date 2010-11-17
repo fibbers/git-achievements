@@ -13594,3 +13594,13 @@ stash show -p
 Date: Wed Nov 17 16:12:53 CET 2010
 stash drop
 Date: Wed Nov 17 16:12:56 CET 2010
+st
+Date: Wed Nov 17 16:13:40 CET 2010
+st
+Date: Wed Nov 17 16:14:10 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 17 16:14:12 CET 2010
+--git-dir=.git config --get alias.ci
+Date: Wed Nov 17 16:14:18 CET 2010
+ci --amend
+Date: Wed Nov 17 16:14:31 CET 2010
