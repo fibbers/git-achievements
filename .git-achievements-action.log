@@ -13604,3 +13604,41 @@ Date: Wed Nov 17 16:14:12 CET 2010
 Date: Wed Nov 17 16:14:18 CET 2010
 ci --amend
 Date: Wed Nov 17 16:14:31 CET 2010
+st
+Date: Wed Nov 17 16:14:52 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 17 16:14:57 CET 2010
+svn dcommit
+Date: Wed Nov 17 16:15:04 CET 2010
+stash list
+Date: Wed Nov 17 16:15:28 CET 2010
+stash show
+Date: Wed Nov 17 16:15:31 CET 2010
+stash show -p
+Date: Wed Nov 17 16:15:37 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:15:38 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:15:39 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:15:40 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:15:40 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:15:41 CET 2010
+stash show stash@{1}
+Date: Wed Nov 17 16:15:42 CET 2010
+stash show stash@{1} -p
+Date: Wed Nov 17 16:16:27 CET 2010
+stash show -p
+Date: Wed Nov 17 16:17:12 CET 2010
+stash show stash@{2} -p
+Date: Wed Nov 17 16:18:08 CET 2010
+stash show stash@{3} -p
+Date: Wed Nov 17 16:18:28 CET 2010
+stash show stash@{4} -p
+Date: Wed Nov 17 16:18:38 CET 2010
+stash show stash@{5} -p
+Date: Wed Nov 17 16:18:42 CET 2010
+stash show stash@{6} -p
+Date: Wed Nov 17 16:18:58 CET 2010
