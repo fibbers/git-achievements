@@ -286,3 +286,11 @@ Used git blame to annotates a file with information about how each line changed.
        Stash the changes in a dirty working directory away with git stash.       
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                              Stone Mason (Level 5)                              
+   Added files to the index area for inclusion in the next commit with git add   
+********************************************************************************
+

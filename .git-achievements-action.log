@@ -13642,3 +13642,89 @@ stash show stash@{5} -p
 Date: Wed Nov 17 16:18:42 CET 2010
 stash show stash@{6} -p
 Date: Wed Nov 17 16:18:58 CET 2010
+stash show stash@{7} -p
+Date: Wed Nov 17 16:19:26 CET 2010
+stash show stash@{8} -p
+Date: Wed Nov 17 16:19:33 CET 2010
+stash show stash@{9} -p
+Date: Wed Nov 17 16:19:48 CET 2010
+stash show stash@{10} -p
+Date: Wed Nov 17 16:20:04 CET 2010
+stash show stash@{11} -p
+Date: Wed Nov 17 16:20:09 CET 2010
+stash show stash@{12} -p
+Date: Wed Nov 17 16:20:14 CET 2010
+stash show stash@{13} -p
+Date: Wed Nov 17 16:20:17 CET 2010
+stash show stash@{14} -p
+Date: Wed Nov 17 16:20:21 CET 2010
+stash show stash@{144} -p
+Date: Wed Nov 17 16:20:24 CET 2010
+stash list
+Date: Wed Nov 17 16:20:27 CET 2010
+stash show stash@{5} -p
+Date: Wed Nov 17 16:20:36 CET 2010
+stash show stash@{2} -p
+Date: Wed Nov 17 16:20:40 CET 2010
+stash show stash@{3} -p
+Date: Wed Nov 17 16:20:43 CET 2010
+stash show stash@{1} -p
+Date: Wed Nov 17 16:20:47 CET 2010
+stash show stash@{2} -p
+Date: Wed Nov 17 16:21:45 CET 2010
+st
+Date: Wed Nov 17 16:21:52 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:22:00 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 16:22:01 CET 2010
+st
+Date: Wed Nov 17 16:22:16 CET 2010
+st
+Date: Wed Nov 17 16:22:58 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:23:31 CET 2010
+df --cached
+Date: Wed Nov 17 16:30:02 CET 2010
+st
+Date: Wed Nov 17 16:30:04 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:09 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:09 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:09 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:09 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:12 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:12 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:12 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:12 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:13 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:13 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:13 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:13 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:15 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:15 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:16 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:16 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 16:30:16 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 16:30:16 CET 2010
+df java-src/nl/base/rela/entities/TemplateExample.java
+Date: Wed Nov 17 16:30:18 CET 2010
+add java-src/nl/base/rela/entities/TemplateExample.java
+Date: Wed Nov 17 16:30:45 CET 2010
