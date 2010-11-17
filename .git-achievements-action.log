@@ -13572,3 +13572,25 @@ svn dcommit --dry-run
 Date: Wed Nov 17 16:06:01 CET 2010
 svn dcommit
 Date: Wed Nov 17 16:06:09 CET 2010
+st
+Date: Wed Nov 17 16:07:21 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 17 16:07:24 CET 2010
+stash list
+Date: Wed Nov 17 16:08:31 CET 2010
+stash show
+Date: Wed Nov 17 16:08:33 CET 2010
+st
+Date: Wed Nov 17 16:12:29 CET 2010
+df
+Date: Wed Nov 17 16:12:29 CET 2010
+stash show -p
+Date: Wed Nov 17 16:12:33 CET 2010
+st
+Date: Wed Nov 17 16:12:40 CET 2010
+ci -a
+Date: Wed Nov 17 16:12:49 CET 2010
+stash show -p
+Date: Wed Nov 17 16:12:53 CET 2010
+stash drop
+Date: Wed Nov 17 16:12:56 CET 2010
