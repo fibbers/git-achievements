@@ -13232,3 +13232,255 @@ df
 Date: Wed Nov 17 11:43:02 CET 2010
 ci -a
 Date: Wed Nov 17 11:44:01 CET 2010
+help -a
+Date: Wed Nov 17 11:52:06 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Nov 17 11:52:06 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Nov 17 11:52:07 CET 2010
+achievements
+Date: Wed Nov 17 11:52:08 CET 2010
+achievements -l
+Date: Wed Nov 17 11:52:11 CET 2010
+achievements -l
+Date: Wed Nov 17 11:52:15 CET 2010
+achievements -l
+Date: Wed Nov 17 11:52:17 CET 2010
+st
+Date: Wed Nov 17 11:53:05 CET 2010
+st
+Date: Wed Nov 17 11:53:13 CET 2010
+df
+Date: Wed Nov 17 11:53:14 CET 2010
+st
+Date: Wed Nov 17 11:53:18 CET 2010
+st
+Date: Wed Nov 17 11:53:31 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 17 11:53:33 CET 2010
+svn dcommit
+Date: Wed Nov 17 11:53:45 CET 2010
+st
+Date: Wed Nov 17 11:54:53 CET 2010
+stash list
+Date: Wed Nov 17 11:55:11 CET 2010
+stash show
+Date: Wed Nov 17 11:55:44 CET 2010
+stash show -p
+Date: Wed Nov 17 11:56:12 CET 2010
+st
+Date: Wed Nov 17 11:56:23 CET 2010
+st
+Date: Wed Nov 17 11:57:37 CET 2010
+stash show
+Date: Wed Nov 17 11:57:44 CET 2010
+st
+Date: Wed Nov 17 12:12:20 CET 2010
+df
+Date: Wed Nov 17 12:13:17 CET 2010
+df
+Date: Wed Nov 17 12:14:00 CET 2010
+df
+Date: Wed Nov 17 12:14:14 CET 2010
+st
+Date: Wed Nov 17 12:14:15 CET 2010
+add gwt-project/
+Date: Wed Nov 17 12:14:19 CET 2010
+st
+Date: Wed Nov 17 12:14:21 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 12:14:22 CET 2010
+df --cached
+Date: Wed Nov 17 12:18:40 CET 2010
+st
+Date: Wed Nov 17 12:44:56 CET 2010
+df
+Date: Wed Nov 17 12:45:00 CET 2010
+st
+Date: Wed Nov 17 12:45:01 CET 2010
+add .
+Date: Wed Nov 17 12:45:06 CET 2010
+st
+Date: Wed Nov 17 12:45:08 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 12:45:12 CET 2010
+reset HEAD web/
+Date: Wed Nov 17 12:45:14 CET 2010
+st
+Date: Wed Nov 17 12:45:15 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 12:45:16 CET 2010
+df --cached
+Date: Wed Nov 17 12:45:45 CET 2010
+stash show -p
+Date: Wed Nov 17 12:47:19 CET 2010
+st
+Date: Wed Nov 17 13:18:25 CET 2010
+st
+Date: Wed Nov 17 13:19:14 CET 2010
+st
+Date: Wed Nov 17 13:19:30 CET 2010
+st
+Date: Wed Nov 17 13:19:58 CET 2010
+help -a
+Date: Wed Nov 17 13:20:03 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Nov 17 13:20:03 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:20:04 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:20:04 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:20:08 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:20:08 CET 2010
+st
+Date: Wed Nov 17 13:20:32 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:20:41 CET 2010
+st
+Date: Wed Nov 17 13:20:53 CET 2010
+st
+Date: Wed Nov 17 13:34:25 CET 2010
+st
+Date: Wed Nov 17 13:35:44 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:35:54 CET 2010
+st
+Date: Wed Nov 17 13:35:58 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:36:00 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:36:00 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:36:06 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:36:06 CET 2010
+df gwt-project/.classpath
+Date: Wed Nov 17 13:36:06 CET 2010
+df gwt-project/.classpath
+Date: Wed Nov 17 13:37:00 CET 2010
+st
+Date: Wed Nov 17 13:37:02 CET 2010
+st
+Date: Wed Nov 17 13:39:14 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:39:19 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:39:19 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:39:30 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:39:30 CET 2010
+df gwt-project/.classpath
+Date: Wed Nov 17 13:39:30 CET 2010
+co gwt-project/.classpath
+Date: Wed Nov 17 13:39:35 CET 2010
+st
+Date: Wed Nov 17 13:39:37 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:39:40 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:39:40 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:39:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:39:41 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:39:41 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:40:10 CET 2010
+st
+Date: Wed Nov 17 13:40:26 CET 2010
+st
+Date: Wed Nov 17 13:40:37 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:40:40 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:40:40 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:40:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:40:41 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:40:42 CET 2010
+st
+Date: Wed Nov 17 13:40:50 CET 2010
+st
+Date: Wed Nov 17 13:41:01 CET 2010
+st
+Date: Wed Nov 17 13:41:02 CET 2010
+st
+Date: Wed Nov 17 13:41:22 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:41:26 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:41:26 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:41:26 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:41:26 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:41:27 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:41:48 CET 2010
+df gwt-project/.project
+Date: Wed Nov 17 13:42:09 CET 2010
+st
+Date: Wed Nov 17 13:42:10 CET 2010
+st
+Date: Wed Nov 17 13:45:05 CET 2010
+st
+Date: Wed Nov 17 13:45:59 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:46:01 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:46:01 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 13:46:03 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 13:46:03 CET 2010
+df gwt-project/. gwt-project/.. gwt-project/.classpath gwt-project/.project gwt-project/.settings
+Date: Wed Nov 17 13:46:19 CET 2010
+st
+Date: Wed Nov 17 13:46:21 CET 2010
+st
+Date: Wed Nov 17 13:46:36 CET 2010
+st
+Date: Wed Nov 17 13:46:50 CET 2010
+st
+Date: Wed Nov 17 14:09:18 CET 2010
+df
+Date: Wed Nov 17 14:09:43 CET 2010
+st
+Date: Wed Nov 17 14:09:44 CET 2010
+df
+Date: Wed Nov 17 14:10:17 CET 2010
+st
+Date: Wed Nov 17 14:10:44 CET 2010
+add gwt-project/src/
+Date: Wed Nov 17 14:10:51 CET 2010
+st
+Date: Wed Nov 17 14:10:53 CET 2010
+df
+Date: Wed Nov 17 14:10:54 CET 2010
+st
+Date: Wed Nov 17 14:10:57 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 14:10:59 CET 2010
+df --cached
+Date: Wed Nov 17 14:11:44 CET 2010
+st
+Date: Wed Nov 17 14:11:45 CET 2010
+add gwt-project/src/
+Date: Wed Nov 17 14:11:47 CET 2010
+st
+Date: Wed Nov 17 14:11:48 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 14:11:49 CET 2010
+df --cached
+Date: Wed Nov 17 14:15:47 CET 2010
+st
+Date: Wed Nov 17 14:15:48 CET 2010
+ci
+Date: Wed Nov 17 14:19:21 CET 2010
