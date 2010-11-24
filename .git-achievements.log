@@ -318,3 +318,11 @@ Used git blame to annotates a file with information about how each line changed.
  Prepare each commit with its patch in one file per commit with git format-patch 
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                               Traveler (Level 5)                               
+          Streamed changes between another rcs with git svn or git p4.          
+********************************************************************************
+
