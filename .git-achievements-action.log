@@ -13886,3 +13886,461 @@ stash drop stash@{3}
 Date: Wed Nov 17 18:03:26 CET 2010
 stash show stash@{3}
 Date: Wed Nov 17 18:03:29 CET 2010
+stash drop stash@{3}
+Date: Wed Nov 17 18:03:39 CET 2010
+stash show stash@{3}
+Date: Wed Nov 17 18:03:42 CET 2010
+stash drop stash@{3}
+Date: Wed Nov 17 18:03:45 CET 2010
+stash show stash@{3}
+Date: Wed Nov 17 18:03:47 CET 2010
+stash drop stash@{3}
+Date: Wed Nov 17 18:03:50 CET 2010
+stash show stash@{3}
+Date: Wed Nov 17 18:03:51 CET 2010
+stash list
+Date: Wed Nov 17 18:03:55 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 18:03:59 CET 2010
+--git-dir=.git stash list
+Date: Wed Nov 17 18:04:00 CET 2010
+stash show stash@{4}
+Date: Wed Nov 17 18:04:00 CET 2010
+stash show stash@{5}
+Date: Wed Nov 17 18:04:03 CET 2010
+st
+Date: Wed Nov 17 18:06:23 CET 2010
+df
+Date: Wed Nov 17 18:06:25 CET 2010
+ci -a
+Date: Wed Nov 17 18:07:59 CET 2010
+st
+Date: Wed Nov 17 18:08:16 CET 2010
+st
+Date: Wed Nov 17 18:09:39 CET 2010
+svn dcommit
+Date: Wed Nov 17 18:09:44 CET 2010
+st
+Date: Wed Nov 17 18:13:35 CET 2010
+st
+Date: Wed Nov 17 18:13:41 CET 2010
+stash pop
+Date: Wed Nov 17 18:13:45 CET 2010
+add --patch
+Date: Wed Nov 17 18:14:03 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:09 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:09 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:09 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:09 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:11 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:11 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:12 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:12 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:13 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:13 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:14:14 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:14:14 CET 2010
+df
+Date: Wed Nov 17 18:17:25 CET 2010
+add --patch
+Date: Wed Nov 17 18:17:29 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:34 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:34 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:34 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:34 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:35 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:35 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:36 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:36 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:37 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:37 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Nov 17 18:17:37 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:17:38 CET 2010
+co java-src/nl/base/dnsmail/entities/DomainHTMLViewData.java
+Date: Wed Nov 17 18:17:39 CET 2010
+st
+Date: Wed Nov 17 18:17:40 CET 2010
+add --patch
+Date: Wed Nov 17 18:17:49 CET 2010
+st
+Date: Wed Nov 17 18:17:51 CET 2010
+st
+Date: Wed Nov 17 18:17:53 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 17 18:18:00 CET 2010
+df --cached
+Date: Wed Nov 17 18:18:00 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:18:09 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 17 18:18:09 CET 2010
+st
+Date: Wed Nov 17 18:18:13 CET 2010
+st
+Date: Wed Nov 17 18:18:16 CET 2010
+st
+Date: Wed Nov 17 18:18:20 CET 2010
+st
+Date: Wed Nov 17 18:18:22 CET 2010
+--git-dir=.git config --get alias.st
+Date: Wed Nov 17 18:18:25 CET 2010
+st
+Date: Wed Nov 17 18:29:13 CET 2010
+stash
+Date: Wed Nov 17 18:29:18 CET 2010
+st
+Date: Wed Nov 24 09:12:38 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:08 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:08 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:19 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:20 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:20 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:20 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:21 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:21 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 10:41:22 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:41:22 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:50:55 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:50:56 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:28 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:28 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:29 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:30 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:32 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:32 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:39 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 10:54:48 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:00:06 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:00:07 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:00:07 CET 2010
+lg --author=willem --since=2010-10-29
+Date: Wed Nov 24 11:11:18 CET 2010
+st
+Date: Wed Nov 24 11:11:29 CET 2010
+st
+Date: Wed Nov 24 11:23:05 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 11:23:26 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:23:26 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:23:26 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 11:23:26 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:23:26 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:23:26 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 11:23:29 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:23:29 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:23:29 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Nov 24 11:23:29 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 11:23:29 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:23:29 CET 2010
+st
+Date: Wed Nov 24 11:24:47 CET 2010
+stash list
+Date: Wed Nov 24 11:24:49 CET 2010
+stash show
+Date: Wed Nov 24 11:24:54 CET 2010
+stash show -p
+Date: Wed Nov 24 11:25:00 CET 2010
+st
+Date: Wed Nov 24 11:25:04 CET 2010
+stash apply
+Date: Wed Nov 24 11:25:08 CET 2010
+df
+Date: Wed Nov 24 11:26:39 CET 2010
+st
+Date: Wed Nov 24 11:26:42 CET 2010
+df
+Date: Wed Nov 24 11:30:41 CET 2010
+stash list
+Date: Wed Nov 24 11:30:46 CET 2010
+stash show
+Date: Wed Nov 24 11:30:51 CET 2010
+st
+Date: Wed Nov 24 11:30:52 CET 2010
+co .
+Date: Wed Nov 24 11:30:53 CET 2010
+st
+Date: Wed Nov 24 11:30:54 CET 2010
+stash apply
+Date: Wed Nov 24 11:31:06 CET 2010
+add java-src/nl/base/rela/intranet/KlantenIntranetHTMLViewdata.java
+Date: Wed Nov 24 11:33:09 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:33:10 CET 2010
+df --cached
+Date: Wed Nov 24 11:33:10 CET 2010
+add java-src/nl/base/rela/intranet/KlantenIntranetHTMLViewdata.java
+Date: Wed Nov 24 11:33:18 CET 2010
+df --cached
+Date: Wed Nov 24 11:33:19 CET 2010
+st
+Date: Wed Nov 24 11:33:38 CET 2010
+st
+Date: Wed Nov 24 11:33:47 CET 2010
+df
+Date: Wed Nov 24 11:35:48 CET 2010
+add java-src/nl/base/rela/tasks/TaskHTMLViewData.java
+Date: Wed Nov 24 11:35:56 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:36:00 CET 2010
+df --cached java-src/nl/base/rela/tasks/TaskHTMLViewData.java
+Date: Wed Nov 24 11:36:01 CET 2010
+df
+Date: Wed Nov 24 11:36:13 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:52:55 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:52:55 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:52:55 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:52:55 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:52:56 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:52:56 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:52:58 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:52:58 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:52:59 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:52:59 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:53:01 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:53:01 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 11:53:04 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Nov 24 11:53:04 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 11:53:04 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 11:56:28 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 11:56:57 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 11:57:24 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 11:58:36 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 12:00:20 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 12:16:23 CET 2010
+st
+Date: Wed Nov 24 12:17:02 CET 2010
+st
+Date: Wed Nov 24 12:17:06 CET 2010
+st
+Date: Wed Nov 24 12:17:10 CET 2010
+st
+Date: Wed Nov 24 12:17:14 CET 2010
+st
+Date: Wed Nov 24 12:17:19 CET 2010
+st
+Date: Wed Nov 24 12:17:23 CET 2010
+st
+Date: Wed Nov 24 12:17:37 CET 2010
+df java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 12:17:41 CET 2010
+add java-src/nl/base/servlets/objects/OperationRunner.java
+Date: Wed Nov 24 12:18:00 CET 2010
+st
+Date: Wed Nov 24 12:18:02 CET 2010
+st
+Date: Wed Nov 24 12:18:06 CET 2010
+ci
+Date: Wed Nov 24 12:20:20 CET 2010
+--git-dir=.git config --get alias.ci
+Date: Wed Nov 24 12:20:35 CET 2010
+ci --amend
+Date: Wed Nov 24 12:20:48 CET 2010
+stash show
+Date: Wed Nov 24 12:21:03 CET 2010
+st
+Date: Wed Nov 24 12:21:05 CET 2010
+help -a
+Date: Wed Nov 24 12:21:16 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Nov 24 12:21:16 CET 2010
+stash drop
+Date: Wed Nov 24 12:21:19 CET 2010
+stash
+Date: Wed Nov 24 12:21:24 CET 2010
+st
+Date: Wed Nov 24 12:21:25 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 24 12:21:30 CET 2010
+svn dcommit
+Date: Wed Nov 24 12:22:06 CET 2010
+stash apply
+Date: Wed Nov 24 12:22:12 CET 2010
+df
+Date: Wed Nov 24 12:22:24 CET 2010
+add java-src/nl/base/rela/intranet/KlantenIntranetHTMLViewdata.java
+Date: Wed Nov 24 12:22:27 CET 2010
+st
+Date: Wed Nov 24 12:22:31 CET 2010
+st
+Date: Wed Nov 24 12:22:34 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 12:22:36 CET 2010
+df --cached
+Date: Wed Nov 24 12:22:37 CET 2010
+df
+Date: Wed Nov 24 12:22:45 CET 2010
+add java-src/nl/base/rela/tasks/TaskHTMLViewData.java
+Date: Wed Nov 24 12:22:48 CET 2010
+df
+Date: Wed Nov 24 12:22:52 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 12:22:53 CET 2010
+df --cached
+Date: Wed Nov 24 12:22:53 CET 2010
+df
+Date: Wed Nov 24 12:25:02 CET 2010
+df
+Date: Wed Nov 24 12:26:27 CET 2010
+co java-src/nl/base/servlets/objects/operations/AbstractIFrameOperation.java
+Date: Wed Nov 24 12:26:31 CET 2010
+df
+Date: Wed Nov 24 12:31:13 CET 2010
+co java-src/nl/base/servlets/objects/search/JavascriptArrayDispatcher.java
+Date: Wed Nov 24 12:31:17 CET 2010
+df
+Date: Wed Nov 24 12:31:51 CET 2010
+co java-src/nl/base/servlets/objects/search/SearchGridDispatcher.java
+Date: Wed Nov 24 12:31:54 CET 2010
+df
+Date: Wed Nov 24 12:34:40 CET 2010
+add java-src/nl/base/sessionrights/SessionRightsUtils.java
+Date: Wed Nov 24 12:34:43 CET 2010
+df
+Date: Wed Nov 24 12:35:22 CET 2010
+df
+Date: Wed Nov 24 12:35:28 CET 2010
+df
+Date: Wed Nov 24 12:54:51 CET 2010
+st
+Date: Wed Nov 24 12:54:59 CET 2010
+st
+Date: Wed Nov 24 12:55:18 CET 2010
+add java-src/nl/base/jsp/Javascript.java
+Date: Wed Nov 24 12:55:28 CET 2010
+st
+Date: Wed Nov 24 12:55:31 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 12:55:33 CET 2010
+df --cached
+Date: Wed Nov 24 12:56:11 CET 2010
+add java-src/nl/base/jsp/Javascript.java
+Date: Wed Nov 24 12:56:48 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 12:56:50 CET 2010
+df --cached
+Date: Wed Nov 24 12:56:58 CET 2010
+st
+Date: Wed Nov 24 12:56:59 CET 2010
+st
+Date: Wed Nov 24 12:57:02 CET 2010
+ci
+Date: Wed Nov 24 12:59:11 CET 2010
+stash show
+Date: Wed Nov 24 12:59:26 CET 2010
+st
+Date: Wed Nov 24 12:59:28 CET 2010
+stash drop
+Date: Wed Nov 24 12:59:33 CET 2010
+st
+Date: Wed Nov 24 12:59:34 CET 2010
+stash
+Date: Wed Nov 24 12:59:38 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 24 12:59:43 CET 2010
+svn dcommit
+Date: Wed Nov 24 12:59:53 CET 2010
+st
+Date: Wed Nov 24 12:59:55 CET 2010
+stash apply
+Date: Wed Nov 24 13:00:00 CET 2010
+st
+Date: Wed Nov 24 13:00:43 CET 2010
+df
+Date: Wed Nov 24 13:02:31 CET 2010
+add java-src/nl/base/rela/intranet/KlantenIntranetHTMLViewdata.java
+Date: Wed Nov 24 13:02:34 CET 2010
+df
+Date: Wed Nov 24 13:02:43 CET 2010
+add java-src/nl/base/rela/tasks/TaskHTMLViewData.java
+Date: Wed Nov 24 13:02:47 CET 2010
+df
+Date: Wed Nov 24 13:03:27 CET 2010
+add java-src/nl/base/sessionrights/SessionRightsUtils.java
+Date: Wed Nov 24 13:03:36 CET 2010
+df
+Date: Wed Nov 24 13:03:49 CET 2010
+add java-src/nl/realworks/broker/HouseUtils.java
+Date: Wed Nov 24 13:04:21 CET 2010
