@@ -14344,3 +14344,281 @@ df
 Date: Wed Nov 24 13:03:49 CET 2010
 add java-src/nl/realworks/broker/HouseUtils.java
 Date: Wed Nov 24 13:04:21 CET 2010
+st
+Date: Wed Nov 24 13:04:31 CET 2010
+df
+Date: Wed Nov 24 13:06:04 CET 2010
+df java-src/nl/realworks/broker/entities/AlvObjectHTMLViewData.java
+Date: Wed Nov 24 13:06:07 CET 2010
+add java-src/nl/realworks/broker/entities/AlvObjectHTMLViewData.java
+Date: Wed Nov 24 13:06:15 CET 2010
+df
+Date: Wed Nov 24 13:06:57 CET 2010
+df java-src/nl/realworks/broker/entities/BogObjectHTMLViewData.java
+Date: Wed Nov 24 13:07:01 CET 2010
+add java-src/nl/realworks/broker/entities/BogObjectHTMLViewData.java
+Date: Wed Nov 24 13:07:11 CET 2010
+st
+Date: Wed Nov 24 13:29:33 CET 2010
+df
+Date: Wed Nov 24 13:30:56 CET 2010
+df java-src/nl/realworks/broker/entities/BrokerObjectHTMLViewData.java
+Date: Wed Nov 24 13:31:05 CET 2010
+df java-src/nl/realworks/broker/entities/BrokerObjectHTMLViewData.java
+Date: Wed Nov 24 13:31:27 CET 2010
+add java-src/nl/realworks/broker/entities/BrokerObjectHTMLViewData.java
+Date: Wed Nov 24 13:31:29 CET 2010
+df
+Date: Wed Nov 24 13:32:28 CET 2010
+df java-src/nl/realworks/broker/entities/QueueRef.java
+Date: Wed Nov 24 13:32:31 CET 2010
+df java-src/nl/realworks/broker/entities/QueueRef.java
+Date: Wed Nov 24 13:32:57 CET 2010
+add java-src/nl/realworks/broker/entities/QueueRef.java
+Date: Wed Nov 24 13:33:24 CET 2010
+df
+Date: Wed Nov 24 13:33:56 CET 2010
+df java-src/nl/realworks/broker/entities/TiaraMedia.java
+Date: Wed Nov 24 13:33:58 CET 2010
+df java-src/nl/realworks/broker/entities/TiaraMedia.java
+Date: Wed Nov 24 13:34:12 CET 2010
+add java-src/nl/realworks/broker/entities/TiaraMedia.java
+Date: Wed Nov 24 13:34:27 CET 2010
+df
+Date: Wed Nov 24 13:35:18 CET 2010
+df java-src/nl/realworks/broker/nieuwbouw/entities/BouwNummer.java
+Date: Wed Nov 24 13:35:20 CET 2010
+df java-src/nl/realworks/broker/nieuwbouw/entities/BouwNummer.java
+Date: Wed Nov 24 13:35:27 CET 2010
+add java-src/nl/realworks/broker/nieuwbouw/entities/BouwNummer.java
+Date: Wed Nov 24 13:35:38 CET 2010
+df
+Date: Wed Nov 24 13:36:46 CET 2010
+df java-src/nl/realworks/broker/nieuwbouw/entities/NieuwBouwUtils.java
+Date: Wed Nov 24 13:36:48 CET 2010
+add java-src/nl/realworks/broker/nieuwbouw/entities/NieuwBouwUtils.java
+Date: Wed Nov 24 13:37:00 CET 2010
+df
+Date: Wed Nov 24 13:37:43 CET 2010
+df
+Date: Wed Nov 24 13:38:29 CET 2010
+df
+Date: Wed Nov 24 13:38:37 CET 2010
+df java-src/nl/realworks/cbo/entities/CBO.java
+Date: Wed Nov 24 13:38:39 CET 2010
+st
+Date: Wed Nov 24 13:38:58 CET 2010
+pull
+Date: Wed Nov 24 13:39:02 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 13:39:22 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 13:39:30 CET 2010
+df --color-words java-src/nl/realworks/cbo/entities/CBO.java
+Date: Wed Nov 24 13:39:30 CET 2010
+df java-src/nl/realworks/cbo/entities/CBO.java
+Date: Wed Nov 24 13:39:43 CET 2010
+add java-src/nl/realworks/cbo/entities/CBO.java
+Date: Wed Nov 24 13:40:01 CET 2010
+df
+Date: Wed Nov 24 13:40:49 CET 2010
+df java-src/nl/realworks/tiara/tgw/entities/MarktpositieObjectHTMLViewData.java
+Date: Wed Nov 24 13:40:54 CET 2010
+add java-src/nl/realworks/tiara/tgw/entities/MarktpositieObjectHTMLViewData.java
+Date: Wed Nov 24 13:41:01 CET 2010
+df
+Date: Wed Nov 24 13:41:30 CET 2010
+df java-src/nl/realworks/uitwisseling/entities/ExchangeObject.java
+Date: Wed Nov 24 13:41:37 CET 2010
+add java-src/nl/realworks/uitwisseling/entities/ExchangeObject.java
+Date: Wed Nov 24 13:41:43 CET 2010
+df
+Date: Wed Nov 24 13:42:16 CET 2010
+df java-src/nl/realworks/uitwisseling/entities/ExchangeObjectHTMLViewData.java
+Date: Wed Nov 24 13:42:20 CET 2010
+add java-src/nl/realworks/uitwisseling/entities/ExchangeObjectHTMLViewData.java
+Date: Wed Nov 24 13:42:26 CET 2010
+df
+Date: Wed Nov 24 13:43:09 CET 2010
+df java-src/nl/realworks/veiling/entities/MakelaarHTMLViewData.java
+Date: Wed Nov 24 13:43:11 CET 2010
+add java-src/nl/realworks/veiling/entities/MakelaarHTMLViewData.java
+Date: Wed Nov 24 13:43:25 CET 2010
+df
+Date: Wed Nov 24 13:44:30 CET 2010
+df java-src/nl/realworks/veiling/entities/VeilingAdminHTMLViewData.java
+Date: Wed Nov 24 13:44:31 CET 2010
+add java-src/nl/realworks/veiling/entities/VeilingAdminHTMLViewData.java
+Date: Wed Nov 24 13:44:47 CET 2010
+df
+Date: Wed Nov 24 13:47:37 CET 2010
+df java-src/nl/realworks/veiling/entities/VeilingRegistratieHtmlViewData.java
+Date: Wed Nov 24 13:48:02 CET 2010
+add java-src/nl/realworks/veiling/entities/VeilingRegistratieHtmlViewData.java
+Date: Wed Nov 24 13:48:04 CET 2010
+df
+Date: Wed Nov 24 13:49:07 CET 2010
+df web/WEB-INF/jsp/forms/admin/btwafdracht.checkbtwscreen.jsp
+Date: Wed Nov 24 13:49:09 CET 2010
+add web/WEB-INF/jsp/forms/admin/btwafdracht.checkbtwscreen.jsp
+Date: Wed Nov 24 13:49:16 CET 2010
+df
+Date: Wed Nov 24 13:50:39 CET 2010
+df web/WEB-INF/jsp/forms/admin/cashbank.maintenancescreen.jsp
+Date: Wed Nov 24 13:50:41 CET 2010
+df
+Date: Wed Nov 24 13:51:25 CET 2010
+df web/WEB-INF/jsp/forms/admin/incominginvoice.crediteurenkaart.jsp
+Date: Wed Nov 24 13:51:27 CET 2010
+add web/WEB-INF/jsp/forms/admin/incominginvoice.crediteurenkaart.jsp
+Date: Wed Nov 24 13:51:32 CET 2010
+df
+Date: Wed Nov 24 13:51:49 CET 2010
+df web/WEB-INF/jsp/forms/admin/memorial.maintenancescreen.jsp
+Date: Wed Nov 24 13:51:50 CET 2010
+df
+Date: Wed Nov 24 13:52:22 CET 2010
+df web/WEB-INF/jsp/forms/admin/openincominginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:52:24 CET 2010
+df web/WEB-INF/jsp/forms/admin/openincominginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:52:34 CET 2010
+add web/WEB-INF/jsp/forms/admin/openincominginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:52:42 CET 2010
+df
+Date: Wed Nov 24 13:53:07 CET 2010
+df
+Date: Wed Nov 24 13:53:49 CET 2010
+df web/WEB-INF/jsp/forms/admin/openoutgoinginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:53:51 CET 2010
+df web/WEB-INF/jsp/forms/admin/openoutgoinginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:54:01 CET 2010
+add web/WEB-INF/jsp/forms/admin/openoutgoinginvoice.searchscreen.jsp
+Date: Wed Nov 24 13:54:07 CET 2010
+df
+Date: Wed Nov 24 13:54:36 CET 2010
+df web/WEB-INF/jsp/forms/admin/outgoinginvoice.debiteurenkaart.jsp
+Date: Wed Nov 24 13:54:37 CET 2010
+add web/WEB-INF/jsp/forms/admin/outgoinginvoice.debiteurenkaart.jsp
+Date: Wed Nov 24 13:54:47 CET 2010
+df
+Date: Wed Nov 24 13:55:07 CET 2010
+df web/WEB-INF/jsp/forms/admin/outgoinginvoice.maintenancescreen.jsp
+Date: Wed Nov 24 13:55:09 CET 2010
+df
+Date: Wed Nov 24 13:55:51 CET 2010
+df web/WEB-INF/jsp/forms/admin/outgoinginvoice.openoutgoinginvoices.jsp
+Date: Wed Nov 24 13:55:52 CET 2010
+add web/WEB-INF/jsp/forms/admin/outgoinginvoice.openoutgoinginvoices.jsp
+Date: Wed Nov 24 13:56:08 CET 2010
+df
+Date: Wed Nov 24 13:56:35 CET 2010
+df web/WEB-INF/jsp/forms/admin/periodiekjournal.searchscreen.jsp
+Date: Wed Nov 24 13:56:39 CET 2010
+df web/WEB-INF/jsp/forms/admin/periodiekjournal.searchscreen.jsp
+Date: Wed Nov 24 13:57:00 CET 2010
+add web/WEB-INF/jsp/forms/admin/periodiekjournal.searchscreen.jsp
+Date: Wed Nov 24 13:57:02 CET 2010
+df
+Date: Wed Nov 24 13:57:42 CET 2010
+df web/WEB-INF/jsp/forms/admin/projectinvoice.searchscreen.jsp
+Date: Wed Nov 24 13:57:58 CET 2010
+add web/WEB-INF/jsp/forms/admin/projectinvoice.searchscreen.jsp
+Date: Wed Nov 24 13:58:01 CET 2010
+df
+Date: Wed Nov 24 13:58:29 CET 2010
+df web/WEB-INF/jsp/forms/advocatuur/incasso.searchscreen.jsp
+Date: Wed Nov 24 13:58:34 CET 2010
+add web/WEB-INF/jsp/forms/advocatuur/incasso.searchscreen.jsp
+Date: Wed Nov 24 13:58:44 CET 2010
+df
+Date: Wed Nov 24 14:02:39 CET 2010
+st
+Date: Wed Nov 24 14:02:40 CET 2010
+df
+Date: Wed Nov 24 14:15:54 CET 2010
+df
+Date: Wed Nov 24 14:17:59 CET 2010
+df web/WEB-INF/jsp/forms/boguitwisseling/exchangeaogobject.searchscreen.jsp
+Date: Wed Nov 24 14:18:03 CET 2010
+add web/WEB-INF/jsp/forms/boguitwisseling/exchangeaogobject.searchscreen.jsp
+Date: Wed Nov 24 14:18:07 CET 2010
+df
+Date: Wed Nov 24 14:19:56 CET 2010
+df
+Date: Wed Nov 24 14:20:05 CET 2010
+add web/WEB-INF/jsp/forms/boguitwisseling/jspf/bog-grid.jspf web/WEB-INF/jsp/forms/boguitwisseling/searchresult.searchscreen.jsp
+Date: Wed Nov 24 14:20:22 CET 2010
+df
+Date: Wed Nov 24 14:20:28 CET 2010
+df
+Date: Wed Nov 24 14:20:38 CET 2010
+add web/WEB-INF/jsp/forms/boguitwisseling/jspf/bog-grid.jspf web/WEB-INF/jsp/forms/boguitwisseling/searchresult.searchscreen.jsp
+Date: Wed Nov 24 14:20:39 CET 2010
+df
+Date: Wed Nov 24 14:20:42 CET 2010
+add web/WEB-INF/jsp/forms/boguitwisseling/jspf/bog-grid.jspf
+Date: Wed Nov 24 14:20:47 CET 2010
+df
+Date: Wed Nov 24 14:20:50 CET 2010
+add web/WEB-INF/jsp/forms/broker/bogobject.searchscreen.jsp
+Date: Wed Nov 24 14:21:13 CET 2010
+df
+Date: Wed Nov 24 14:23:18 CET 2010
+df
+Date: Wed Nov 24 14:23:25 CET 2010
+add web/WEB-INF/jsp/forms/broker/huurcomplex.searchscreen.jsp web/WEB-INF/jsp/forms/broker/jspf/complexbeheer/units-grid.jspf web/WEB-INF/jsp/forms/broker/jspf/complexbeheer/woningtype-grid.jspf web/WEB-INF/jsp/forms/broker/jspf/nieuwbouw/bouwnummer-grid.jspf
+Date: Wed Nov 24 14:23:52 CET 2010
+df
+Date: Wed Nov 24 14:27:23 CET 2010
+df
+Date: Wed Nov 24 14:27:33 CET 2010
+add web/WEB-INF/jsp/forms/broker/jspf/nieuwbouw/bouwtype-grid.jspf web/WEB-INF/jsp/forms/broker/jspf/searchscreengrid.jspf web/WEB-INF/jsp/forms/broker/jspf/wonen/searchscreengrid.jspf
+Date: Wed Nov 24 14:27:53 CET 2010
+df
+Date: Wed Nov 24 14:27:56 CET 2010
+df
+Date: Wed Nov 24 14:30:21 CET 2010
+add web/WEB-INF/jsp/forms/broker/nieuwbouw.searchscreen.jsp web/WEB-INF/jsp/forms/broker/taxatie.searchscreen.jsp web/WEB-INF/jsp/forms/broker/vgmobject.searchscreen.jsp
+Date: Wed Nov 24 14:30:46 CET 2010
+df
+Date: Wed Nov 24 14:30:51 CET 2010
+add web/WEB-INF/jsp/forms/houwersholtackers/rapport.maintenancescreen.jsp
+Date: Wed Nov 24 14:30:59 CET 2010
+df
+Date: Wed Nov 24 14:32:52 CET 2010
+df
+Date: Wed Nov 24 14:32:54 CET 2010
+add web/WEB-INF/jsp/forms/rela/duplicatefinder.filterduplicate.jsp web/WEB-INF/jsp/forms/uitwisseling/housegrid.jspf web/WEB-INF/jsp/forms/uitwisseling/nieuwbouw.searchscreen.jsp
+Date: Wed Nov 24 14:33:17 CET 2010
+df
+Date: Wed Nov 24 14:33:20 CET 2010
+df
+Date: Wed Nov 24 14:39:09 CET 2010
+df
+Date: Wed Nov 24 14:40:14 CET 2010
+df
+Date: Wed Nov 24 14:40:18 CET 2010
+add web/WEB-INF/jsp/forms/veiling/makelaar.searchscreen.jsp web/WEB-INF/jsp/forms/veiling/veilingadmin.searchscreen.jsp
+Date: Wed Nov 24 14:40:33 CET 2010
+st
+Date: Wed Nov 24 14:40:35 CET 2010
+df
+Date: Wed Nov 24 14:40:38 CET 2010
+--git-dir=.git config --get alias.df
+Date: Wed Nov 24 14:40:39 CET 2010
+df --cached
+Date: Wed Nov 24 14:41:45 CET 2010
+df --cached
+Date: Wed Nov 24 14:41:52 CET 2010
+st
+Date: Wed Nov 24 14:41:53 CET 2010
+ci
+Date: Wed Nov 24 14:43:57 CET 2010
+st
+Date: Wed Nov 24 14:44:06 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 24 14:44:09 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Nov 24 14:44:36 CET 2010
+format-patch -1
+Date: Wed Nov 24 14:44:39 CET 2010
