@@ -14824,3 +14824,143 @@ rev-parse --git-dir
 Date: Wed Nov 24 16:42:38 CET 2010
 svn dcommit --dry-run
 Date: Wed Nov 24 16:42:43 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 16:42:53 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 16:43:09 CET 2010
+st
+Date: Wed Nov 24 16:43:16 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 16:43:16 CET 2010
+svn rebase
+Date: Wed Nov 24 16:43:28 CET 2010
+svn dcommit --dry-run
+Date: Wed Nov 24 16:43:38 CET 2010
+st
+Date: Wed Nov 24 16:43:40 CET 2010
+svn dcommit -e
+Date: Wed Nov 24 16:44:29 CET 2010
+st
+Date: Wed Nov 24 16:44:32 CET 2010
+stash pop
+Date: Wed Nov 24 16:44:36 CET 2010
+df
+Date: Wed Nov 24 17:02:18 CET 2010
+stash
+Date: Wed Nov 24 17:02:47 CET 2010
+svn rebase
+Date: Wed Nov 24 17:02:51 CET 2010
+stash pop
+Date: Wed Nov 24 17:04:49 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:37 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:37 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:39 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:41 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:42 CET 2010
+st
+Date: Wed Nov 24 17:14:45 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:45 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:14:59 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:15:03 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:15:15 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:15:16 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:15:20 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:15:22 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 24 17:32:03 CET 2010
+df
+Date: Wed Nov 24 17:39:35 CET 2010
+st
+Date: Wed Nov 24 17:40:13 CET 2010
+st
+Date: Wed Nov 24 17:42:40 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:41:35 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:41:35 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:41:40 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:41:40 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:41:44 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:10 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:14 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:38 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:39 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:40 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:43:57 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:35 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:36 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:37 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:38 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:50 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:50 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:44:53 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:45:02 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:45:10 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:45:20 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:45:21 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:45:23 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 08:46:00 CET 2010
+st
+Date: Thu Dec  2 09:10:58 CET 2010
+df
+Date: Thu Dec  2 09:11:07 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:40:55 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:41:00 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:41:02 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:41:03 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:42:21 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:42:33 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:42:35 CET 2010
+help -a
+Date: Thu Dec  2 09:50:14 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:50:14 CET 2010
+--git-dir=/home/willem/.git config --get-regexp alias\..*
+Date: Thu Dec  2 09:50:14 CET 2010
+rev-parse --git-dir
+Date: Thu Dec  2 09:50:22 CET 2010
+svn find-rev r1000
+Date: Thu Dec  2 09:50:29 CET 2010
+blame web/pub/js/classes/base-crm-utils.js
+Date: Thu Dec  2 09:52:53 CET 2010
