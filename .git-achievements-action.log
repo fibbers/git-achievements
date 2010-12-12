@@ -13138,3 +13138,149 @@ rev-parse --git-dir
 Date: Tue Nov 16 23:20:08 CET 2010
 push
 Date: Tue Nov 16 23:20:12 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:20:23 CET 2010
+help -a
+Date: Tue Nov 16 23:20:40 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:20:40 CET 2010
+--git-dir=/home/willem/Documents/Studie/Master Software Engineering/Requirements Engineering/willem/.git config --get-regexp alias\..*
+Date: Tue Nov 16 23:20:40 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:20:42 CET 2010
+achievements
+Date: Tue Nov 16 23:20:44 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:20:44 CET 2010
+achievements -l
+Date: Tue Nov 16 23:21:14 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:21:14 CET 2010
+achievements -l
+Date: Tue Nov 16 23:21:28 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:21:28 CET 2010
+achievements -l
+Date: Tue Nov 16 23:21:32 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:21:32 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:40:53 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:40:58 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:41:27 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:41:28 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:41:55 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:41:56 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:49:49 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:49:51 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:26:39 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:26:41 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:27:21 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:27:22 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:27:32 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:27:33 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:40:39 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:40:40 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:48:58 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:48:58 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:49:12 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:49:46 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:49:48 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:04 CET 2010
+st
+Date: Tue Nov 16 23:53:06 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:06 CET 2010
+df
+Date: Tue Nov 16 23:53:11 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:11 CET 2010
+st
+Date: Tue Nov 16 23:53:12 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:12 CET 2010
+add -f assignment1.pdf
+Date: Tue Nov 16 23:53:18 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:18 CET 2010
+st
+Date: Tue Nov 16 23:53:19 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:19 CET 2010
+ci -a
+Date: Tue Nov 16 23:53:30 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:30 CET 2010
+st
+Date: Tue Nov 16 23:53:31 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:31 CET 2010
+push
+Date: Tue Nov 16 23:53:34 CET 2010
+rev-parse --git-dir
+Date: Tue Nov 16 23:53:34 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:53:48 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:53:49 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:54:08 CET 2010
+st
+Date: Wed Nov 17 00:54:10 CET 2010
+rev-parse --git-dir
+Date: Wed Nov 17 00:54:10 CET 2010
+clone http://landman-houdt.nl.eu.org/cgit/cgit.cgi/requirements-defensie.git
+Date: Sun Dec 12 15:38:36 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 15:53:07 CET 2010
+st
+Date: Sun Dec 12 15:53:10 CET 2010
+pull
+Date: Sun Dec 12 15:53:12 CET 2010
+st
+Date: Sun Dec 12 15:54:30 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 15:54:31 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 15:54:41 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 15:54:46 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 15:54:46 CET 2010
+st
+Date: Sun Dec 12 15:54:49 CET 2010
+pull
+Date: Sun Dec 12 15:54:51 CET 2010
+st
+Date: Sun Dec 12 15:55:18 CET 2010
+df
+Date: Sun Dec 12 15:55:20 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 12 15:55:21 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 12 15:55:22 CET 2010
+df --color-words
+Date: Sun Dec 12 15:55:25 CET 2010
+ci -a
+Date: Sun Dec 12 15:55:35 CET 2010
