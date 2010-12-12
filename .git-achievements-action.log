@@ -13133,6 +13133,20 @@ Date: Tue Nov 16 23:20:07 CET 2010
 rev-parse --git-dir
 Date: Tue Nov 16 23:20:07 CET 2010
 st
+Date: Fri Nov 12 12:45:59 CET 2010
+co -b testje
+Date: Fri Nov 12 16:33:38 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Fri Nov 12 16:34:05 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Fri Nov 12 16:34:05 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Fri Nov 12 16:34:06 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Fri Nov 12 16:34:06 CET 2010
+st
+Date: Fri Nov 12 17:57:17 CET 2010
+st
 Date: Tue Nov 16 23:20:08 CET 2010
 rev-parse --git-dir
 Date: Tue Nov 16 23:20:08 CET 2010
