@@ -13298,3 +13298,371 @@ df --color-words
 Date: Sun Dec 12 15:55:25 CET 2010
 ci -a
 Date: Sun Dec 12 15:55:35 CET 2010
+st
+Date: Sun Dec 12 16:00:15 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:15 CET 2010
+df
+Date: Sun Dec 12 16:00:24 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:24 CET 2010
+pull
+Date: Sun Dec 12 16:00:31 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:31 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:36 CET 2010
+st
+Date: Sun Dec 12 16:00:37 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:37 CET 2010
+df
+Date: Sun Dec 12 16:00:39 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:39 CET 2010
+add /home/willem/.gitconfig
+Date: Sun Dec 12 16:00:51 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:51 CET 2010
+st
+Date: Sun Dec 12 16:00:52 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:52 CET 2010
+df
+Date: Sun Dec 12 16:00:53 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:53 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:55 CET 2010
+--git-dir=/home/willem/.git config --get alias.df
+Date: Sun Dec 12 16:00:55 CET 2010
+df --cached
+Date: Sun Dec 12 16:00:55 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:00:55 CET 2010
+ci
+Date: Sun Dec 12 16:01:04 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:01:04 CET 2010
+st
+Date: Sun Dec 12 16:01:05 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:01:05 CET 2010
+push
+Date: Sun Dec 12 16:01:07 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:01:07 CET 2010
+st
+Date: Sun Dec 12 16:01:55 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:01 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:01 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:05 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:07 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:10 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:11 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:17 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:18 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:19 CET 2010
+clone git@git.fibbe.nl:shared/software_engineering/requirements/willem.git
+Date: Sun Dec 12 16:02:34 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:34 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:02:35 CET 2010
+st
+Date: Sun Dec 12 16:02:37 CET 2010
+st
+Date: Sun Dec 12 16:03:43 CET 2010
+st
+Date: Sun Dec 12 16:03:51 CET 2010
+add .
+Date: Sun Dec 12 16:03:53 CET 2010
+st
+Date: Sun Dec 12 16:03:53 CET 2010
+ci
+Date: Sun Dec 12 16:04:15 CET 2010
+st
+Date: Sun Dec 12 16:04:16 CET 2010
+push
+Date: Sun Dec 12 16:04:18 CET 2010
+st
+Date: Sun Dec 12 16:04:19 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 12 16:04:29 CET 2010
+pull ../willem/ master
+Date: Sun Dec 12 16:04:31 CET 2010
+st
+Date: Sun Dec 12 16:04:34 CET 2010
+lg
+Date: Sun Dec 12 16:04:45 CET 2010
+st
+Date: Sun Dec 12 16:04:46 CET 2010
+st
+Date: Sun Dec 12 16:04:53 CET 2010
+push
+Date: Sun Dec 12 16:04:55 CET 2010
+st
+Date: Sun Dec 12 16:04:56 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:08:44 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:08:47 CET 2010
+clone git@git.fibbe.nl:shared/software_engineering/requirements/davy.git
+Date: Sun Dec 12 16:09:11 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:11 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:14 CET 2010
+st
+Date: Sun Dec 12 16:09:19 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:20 CET 2010
+clone git@git.fibbe.nl:shared/software_engineering/requirements/wietse.git
+Date: Sun Dec 12 16:09:26 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:26 CET 2010
+clone git@git.fibbe.nl:shared/software_engineering/requirements/lennart.git
+Date: Sun Dec 12 16:09:31 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:31 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:09:32 CET 2010
+st
+Date: Sun Dec 12 16:19:00 CET 2010
+df
+Date: Sun Dec 12 16:19:00 CET 2010
+ci -a
+Date: Sun Dec 12 16:19:10 CET 2010
+push
+Date: Sun Dec 12 16:19:12 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 16:28:04 CET 2010
+st
+Date: Sun Dec 12 16:28:08 CET 2010
+pull
+Date: Sun Dec 12 16:28:10 CET 2010
+pull
+Date: Sun Dec 12 16:28:33 CET 2010
+st
+Date: Sun Dec 12 16:28:50 CET 2010
+df
+Date: Sun Dec 12 16:28:51 CET 2010
+ci -a
+Date: Sun Dec 12 16:29:01 CET 2010
+push
+Date: Sun Dec 12 16:29:03 CET 2010
+st
+Date: Sun Dec 12 16:29:05 CET 2010
+st
+Date: Sun Dec 12 16:29:11 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 12 16:29:19 CET 2010
+--git-dir=../results//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 12 16:29:20 CET 2010
+pull ../results/ master
+Date: Sun Dec 12 16:29:21 CET 2010
+st
+Date: Sun Dec 12 16:29:22 CET 2010
+lg
+Date: Sun Dec 12 16:29:56 CET 2010
+push
+Date: Sun Dec 12 16:29:58 CET 2010
+pull
+Date: Sun Dec 12 16:30:02 CET 2010
+st
+Date: Sun Dec 12 16:43:57 CET 2010
+add .
+Date: Sun Dec 12 16:43:59 CET 2010
+st
+Date: Sun Dec 12 16:44:00 CET 2010
+ci
+Date: Sun Dec 12 16:44:23 CET 2010
+push
+Date: Sun Dec 12 16:44:25 CET 2010
+st
+Date: Sun Dec 12 16:44:29 CET 2010
+pull
+Date: Sun Dec 12 16:44:31 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 12 16:44:34 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 12 16:44:35 CET 2010
+--git-dir=../willem//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 12 16:44:36 CET 2010
+pull ../willem/ master
+Date: Sun Dec 12 16:44:36 CET 2010
+st
+Date: Sun Dec 12 16:44:39 CET 2010
+push
+Date: Sun Dec 12 16:44:41 CET 2010
+st
+Date: Sun Dec 12 19:49:07 CET 2010
+pull
+Date: Sun Dec 12 19:49:09 CET 2010
+st
+Date: Sun Dec 12 19:49:13 CET 2010
+pull
+Date: Sun Dec 12 19:49:15 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 12 19:49:17 CET 2010
+--git-dir=../results//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 12 19:49:18 CET 2010
+pull ../results/ master
+Date: Sun Dec 12 19:49:18 CET 2010
+st
+Date: Sun Dec 12 19:49:19 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:58:50 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:58:51 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:07 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:28 CET 2010
+st
+Date: Sun Dec 12 20:59:29 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:29 CET 2010
+add wietse.pub
+Date: Sun Dec 12 20:59:33 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:34 CET 2010
+st
+Date: Sun Dec 12 20:59:35 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:35 CET 2010
+ci
+Date: Sun Dec 12 20:59:43 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:43 CET 2010
+push
+Date: Sun Dec 12 20:59:47 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:47 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 20:59:48 CET 2010
+st
+Date: Sun Dec 12 20:59:58 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:11 CET 2010
+help -a
+Date: Sun Dec 12 21:43:13 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:13 CET 2010
+--git-dir=/home/willem/.git config --get-regexp alias\..*
+Date: Sun Dec 12 21:43:13 CET 2010
+reset
+Date: Sun Dec 12 21:43:13 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:13 CET 2010
+st
+Date: Sun Dec 12 21:43:19 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:19 CET 2010
+help reset
+Date: Sun Dec 12 21:43:49 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:49 CET 2010
+st
+Date: Sun Dec 12 21:43:50 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:50 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:54 CET 2010
+df
+Date: Sun Dec 12 21:43:56 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 12 21:43:56 CET 2010
+st
+Date: Sun Dec 12 21:44:00 CET 2010
+pull
+Date: Sun Dec 12 21:44:02 CET 2010
+st
+Date: Sun Dec 12 21:44:04 CET 2010
+pull
+Date: Sun Dec 12 21:44:06 CET 2010
+st
+Date: Sun Dec 12 21:44:15 CET 2010
+pull
+Date: Sun Dec 12 21:44:18 CET 2010
+st
+Date: Sun Dec 12 21:44:19 CET 2010
+push
+Date: Sun Dec 12 21:44:24 CET 2010
+st
+Date: Sun Dec 12 22:26:49 CET 2010
+st
+Date: Sun Dec 12 22:27:04 CET 2010
+add .
+Date: Sun Dec 12 22:27:07 CET 2010
+st
+Date: Sun Dec 12 22:27:08 CET 2010
+ci
+Date: Sun Dec 12 22:27:13 CET 2010
+push
+Date: Sun Dec 12 22:27:17 CET 2010
+help clone
+Date: Sun Dec 12 22:49:04 CET 2010
+clone -v git@git.fibbe.nl:shared/software_engineering/requirements/results.git
+Date: Sun Dec 12 22:49:16 CET 2010
+clone -vv git@git.fibbe.nl:shared/software_engineering/requirements/results.git
+Date: Sun Dec 12 22:49:26 CET 2010
+clone -vvv git@git.fibbe.nl:shared/software_engineering/requirements/results.git
+Date: Sun Dec 12 22:49:34 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 22:29:22 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 22:29:22 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 22:29:25 CET 2010
+st
+Date: Mon Dec 13 22:29:29 CET 2010
+pull
+Date: Mon Dec 13 22:29:39 CET 2010
+st
+Date: Mon Dec 13 22:29:43 CET 2010
+pull
+Date: Mon Dec 13 22:29:46 CET 2010
+st
+Date: Mon Dec 13 22:29:49 CET 2010
+pull
+Date: Mon Dec 13 22:29:52 CET 2010
+st
+Date: Mon Dec 13 22:29:55 CET 2010
+st
+Date: Mon Dec 13 22:30:01 CET 2010
+st
+Date: Mon Dec 13 22:30:36 CET 2010
+reset --soft HEAD^
+Date: Mon Dec 13 22:30:49 CET 2010
+st
+Date: Mon Dec 13 22:30:51 CET 2010
+df
+Date: Mon Dec 13 22:30:52 CET 2010
+add .
+Date: Mon Dec 13 22:30:56 CET 2010
+st
+Date: Mon Dec 13 22:30:57 CET 2010
+--git-dir=.git config --get alias.df
+Date: Mon Dec 13 22:30:59 CET 2010
+df --cached
+Date: Mon Dec 13 22:31:01 CET 2010
+df --cached
+Date: Mon Dec 13 22:31:03 CET 2010
+ci
+Date: Mon Dec 13 22:31:15 CET 2010
+st
+Date: Mon Dec 13 22:31:16 CET 2010
+st
+Date: Mon Dec 13 22:31:28 CET 2010
+merge HEAD
+Date: Mon Dec 13 22:31:51 CET 2010
