@@ -270,3 +270,11 @@ Used git blame to annotates a file with information about how each line changed.
        Stash the changes in a dirty working directory away with git stash.       
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                         Apprentice Archivist (Level 2)                         
+ Prepare each commit with its patch in one file per commit with git format-patch 
+********************************************************************************
+
