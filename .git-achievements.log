@@ -258,80 +258,8 @@ Used git blame to annotates a file with information about how each line changed.
 ********************************************************************************
                             Git Achievement Unlocked!                            
 
-                               Traveler (Level 4)                               
-          Streamed changes between another rcs with git svn or git p4.          
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                            Product Manager (Level 4)                            
-       Stash the changes in a dirty working directory away with git stash.       
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                         Master Seamstress (Level -inf)                         
-                    amended a commit with git commit --amend.                    
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                            Product Manager (Level 5)                            
-       Stash the changes in a dirty working directory away with git stash.       
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                              Stone Mason (Level 5)                              
-   Added files to the index area for inclusion in the next commit with git add   
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                            Product Manager (Level 6)                            
-       Stash the changes in a dirty working directory away with git stash.       
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                              Stone Mason (Level 6)                              
-   Added files to the index area for inclusion in the next commit with git add   
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                         Apprentice Archivist (Level 2)                         
- Prepare each commit with its patch in one file per commit with git format-patch 
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                               Traveler (Level 5)                               
-          Streamed changes between another rcs with git svn or git p4.          
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                        Apprentice Investigator (Level 2)                        
-Used git blame to annotates a file with information about how each line changed.
+                           Apprentice Banker (Level 1)                           
+         Join two or more development histories together with git merge.         
 ********************************************************************************
 
 
