@@ -286,3 +286,11 @@ Used git blame to annotates a file with information about how each line changed.
                     amended a commit with git commit --amend.                    
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                               Traveler (Level 5)                               
+          Streamed changes between another rcs with git svn or git p4.          
+********************************************************************************
+
