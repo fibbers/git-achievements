@@ -14561,3 +14561,31 @@ Date: Sat Dec 18 17:23:03 CET 2010
 st
 Date: Sat Dec 18 17:31:37 CET 2010
 add .bash_aliases
+st
+Date: Sat Dec 18 17:37:41 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sat Dec 18 17:37:43 CET 2010
+df --cached
+Date: Sat Dec 18 17:37:43 CET 2010
+add -f vmail-contacts.txt
+Date: Sat Dec 18 17:37:50 CET 2010
+st
+Date: Sat Dec 18 17:37:57 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sat Dec 18 17:37:59 CET 2010
+df --cached
+Date: Sat Dec 18 17:38:09 CET 2010
+add -f .vmailrc
+Date: Sat Dec 18 17:38:13 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sat Dec 18 17:38:15 CET 2010
+df --cached
+Date: Sat Dec 18 17:38:18 CET 2010
+st
+Date: Sat Dec 18 17:38:19 CET 2010
+ci
+Date: Sat Dec 18 17:38:44 CET 2010
+st
+Date: Sat Dec 18 17:38:45 CET 2010
+push
+Date: Sat Dec 18 17:38:47 CET 2010

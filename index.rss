@@ -2,11 +2,12 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Traveler (Level 5)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Master Seamstress (Level -inf)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Archivist (Level 2)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -21,9 +22,4 @@
 <item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Investigator (Level 4)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Chimney Sweeper (Level 5)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 </channel></rss>
