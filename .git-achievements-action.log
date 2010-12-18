@@ -13666,3 +13666,51 @@ st
 Date: Mon Dec 13 22:31:28 CET 2010
 merge HEAD
 Date: Mon Dec 13 22:31:51 CET 2010
+st
+Date: Mon Dec 13 22:32:08 CET 2010
+st
+Date: Mon Dec 13 22:32:22 CET 2010
+reset --hard HEAD^
+Date: Mon Dec 13 22:32:28 CET 2010
+st
+Date: Mon Dec 13 22:32:30 CET 2010
+pull
+Date: Mon Dec 13 22:32:33 CET 2010
+st
+Date: Mon Dec 13 22:32:34 CET 2010
+st
+Date: Mon Dec 13 22:32:39 CET 2010
+df
+Date: Mon Dec 13 22:32:43 CET 2010
+ci -a
+Date: Mon Dec 13 22:33:01 CET 2010
+push
+Date: Mon Dec 13 22:33:03 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 22:56:30 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 22:56:43 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 23:50:21 CET 2010
+rev-parse --git-dir
+Date: Mon Dec 13 23:50:24 CET 2010
+st
+Date: Mon Dec 13 23:51:24 CET 2010
+df
+Date: Mon Dec 13 23:51:41 CET 2010
+df
+Date: Mon Dec 13 23:51:49 CET 2010
+ci -a
+Date: Mon Dec 13 23:52:00 CET 2010
+st
+Date: Mon Dec 13 23:52:01 CET 2010
+push
+Date: Mon Dec 13 23:52:03 CET 2010
+st
+Date: Sat Dec 18 17:18:36 CET 2010
+pull
+Date: Sat Dec 18 17:23:03 CET 2010
+st
+Date: Sat Dec 18 17:31:37 CET 2010
+add .bash_aliases
+Date: Sat Dec 18 17:31:43 CET 2010

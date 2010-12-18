@@ -262,3 +262,11 @@ Used git blame to annotates a file with information about how each line changed.
          Join two or more development histories together with git merge.         
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                              Stone Mason (Level 5)                              
+   Added files to the index area for inclusion in the next commit with git add   
+********************************************************************************
+
