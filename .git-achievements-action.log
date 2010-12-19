@@ -14589,3 +14589,161 @@ st
 Date: Sat Dec 18 17:38:45 CET 2010
 push
 Date: Sat Dec 18 17:38:47 CET 2010
+st
+Date: Sat Dec 18 17:38:53 CET 2010
+help -a
+Date: Sun Dec 19 14:54:34 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 14:54:34 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 14:54:34 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 14:54:38 CET 2010
+--git-dir=.git config --get alias.bl
+Date: Sun Dec 19 14:54:38 CET 2010
+--git-dir=.git config --get alias.bl
+Date: Sun Dec 19 14:54:38 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 14:54:42 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 14:54:42 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 19 14:54:49 CET 2010
+rev-parse --git-dir
+Date: Sun Dec 19 14:54:49 CET 2010
+st
+Date: Sun Dec 19 14:54:52 CET 2010
+pull
+Date: Sun Dec 19 14:54:57 CET 2010
+st
+Date: Sun Dec 19 14:55:04 CET 2010
+pull
+Date: Sun Dec 19 14:55:06 CET 2010
+st
+Date: Sun Dec 19 14:55:12 CET 2010
+pull
+Date: Sun Dec 19 14:55:14 CET 2010
+st
+Date: Sun Dec 19 14:56:31 CET 2010
+pull
+Date: Sun Dec 19 14:56:34 CET 2010
+pull
+Date: Sun Dec 19 15:01:36 CET 2010
+st
+Date: Sun Dec 19 15:03:38 CET 2010
+pull
+Date: Sun Dec 19 15:03:41 CET 2010
+st
+Date: Sun Dec 19 15:06:35 CET 2010
+st
+Date: Sun Dec 19 18:10:03 CET 2010
+st
+Date: Sun Dec 19 18:10:18 CET 2010
+st
+Date: Sun Dec 19 18:15:58 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 18:16:00 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 19 18:16:00 CET 2010
+df experiences.tex
+Date: Sun Dec 19 18:16:01 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 18:16:06 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 18:16:09 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 18:16:10 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 18:16:11 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 19 18:16:11 CET 2010
+df --color-words experiences.tex
+Date: Sun Dec 19 18:16:11 CET 2010
+st
+Date: Sun Dec 19 18:16:15 CET 2010
+add experiences.tex
+Date: Sun Dec 19 18:16:17 CET 2010
+add bad.png confused.png confused2.png good.png
+Date: Sun Dec 19 18:16:28 CET 2010
+st
+Date: Sun Dec 19 18:16:29 CET 2010
+ci
+Date: Sun Dec 19 18:16:48 CET 2010
+st
+Date: Sun Dec 19 18:16:49 CET 2010
+pull
+Date: Sun Dec 19 18:29:42 CET 2010
+st
+Date: Sun Dec 19 21:36:55 CET 2010
+st
+Date: Sun Dec 19 21:59:59 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 22:00:01 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 19 22:00:01 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 22:00:02 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 19 22:00:02 CET 2010
+df final.tex
+Date: Sun Dec 19 22:00:03 CET 2010
+add final.tex
+Date: Sun Dec 19 22:00:09 CET 2010
+ci
+Date: Sun Dec 19 22:00:30 CET 2010
+st
+Date: Sun Dec 19 22:00:31 CET 2010
+df
+Date: Sun Dec 19 22:00:35 CET 2010
+st
+Date: Sun Dec 19 22:00:37 CET 2010
+add gesprek_wietse.txt sollicitatie_luchtmacht.tex
+Date: Sun Dec 19 22:00:43 CET 2010
+st
+Date: Sun Dec 19 22:00:44 CET 2010
+ci
+Date: Sun Dec 19 22:01:38 CET 2010
+st
+Date: Sun Dec 19 22:01:39 CET 2010
+st
+Date: Sun Dec 19 22:08:33 CET 2010
+df
+Date: Sun Dec 19 22:08:34 CET 2010
+ci -a
+Date: Sun Dec 19 22:08:48 CET 2010
+st
+Date: Sun Dec 19 22:08:49 CET 2010
+push
+Date: Sun Dec 19 22:08:56 CET 2010
+st
+Date: Sun Dec 19 22:08:59 CET 2010
+--git-dir=.git config --get-regexp remote\..*\.url
+Date: Sun Dec 19 22:09:09 CET 2010
+--git-dir=../willem//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Sun Dec 19 22:09:10 CET 2010
+pull ../willem/ master
+Date: Sun Dec 19 22:09:10 CET 2010
+st
+Date: Sun Dec 19 22:09:12 CET 2010
+st
+Date: Sun Dec 19 22:09:36 CET 2010
+push
+Date: Sun Dec 19 22:09:39 CET 2010
+st
+Date: Sun Dec 19 22:09:42 CET 2010
+st
+Date: Sun Dec 19 22:09:50 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 22:13:33 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 22:13:35 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 22:13:35 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 22:13:35 CET 2010
+--git-dir=.git config --get-regexp alias\..*
+Date: Sun Dec 19 22:13:36 CET 2010
+wd
+Date: Sun Dec 19 22:13:37 CET 2010
+ci -a
+Date: Sun Dec 19 22:13:51 CET 2010
