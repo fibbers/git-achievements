@@ -16346,3 +16346,77 @@ pull ../willem/ master
 Date: Tue Dec 14 12:00:26 CET 2010
 push
 Date: Tue Dec 14 12:00:32 CET 2010
+--git-dir=.git config --get alias.df
+Date: Tue Dec 14 12:50:18 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec 14 12:50:18 CET 2010
+df experiences.tex
+Date: Tue Dec 14 12:50:19 CET 2010
+ci experiences.tex
+Date: Tue Dec 14 12:51:01 CET 2010
+--git-dir=.git config --list
+Date: Tue Dec 14 12:51:07 CET 2010
+--git-dir=../willem//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec 14 12:51:08 CET 2010
+pull ../willem/ master
+Date: Tue Dec 14 12:51:08 CET 2010
+push
+Date: Tue Dec 14 12:51:20 CET 2010
+df
+Date: Tue Dec 14 12:54:05 CET 2010
+df
+Date: Tue Dec 14 12:54:09 CET 2010
+ci -a
+Date: Tue Dec 14 12:54:34 CET 2010
+--git-dir=.git config --list
+Date: Tue Dec 14 12:54:39 CET 2010
+--git-dir=../willem//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec 14 12:54:40 CET 2010
+pull ../willem/ master
+Date: Tue Dec 14 12:54:40 CET 2010
+push
+Date: Tue Dec 14 12:55:13 CET 2010
+df
+Date: Tue Dec 14 13:00:26 CET 2010
+ci -a
+Date: Tue Dec 14 13:00:52 CET 2010
+df
+Date: Sat Dec 18 18:54:45 CET 2010
+df
+Date: Sun Dec 19 15:00:12 CET 2010
+add sollicitatie_luchtmacht.tex
+Date: Sun Dec 19 15:00:36 CET 2010
+st
+Date: Sun Dec 19 15:00:40 CET 2010
+df
+Date: Sun Dec 19 15:00:41 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 15:00:44 CET 2010
+df --cached
+Date: Sun Dec 19 15:00:44 CET 2010
+st
+Date: Sun Dec 19 15:00:47 CET 2010
+--git-dir=.git config --get alias.df
+Date: Sun Dec 19 15:00:54 CET 2010
+df --cached
+Date: Sun Dec 19 15:00:55 CET 2010
+ci
+Date: Sun Dec 19 15:01:13 CET 2010
+push
+Date: Sun Dec 19 15:01:18 CET 2010
+pull
+Date: Mon Dec 20 10:19:14 CET 2010
+pull
+Date: Mon Dec 20 10:19:24 CET 2010
+--git-dir=.git config --list
+Date: Mon Dec 20 10:19:41 CET 2010
+--git-dir=../lennart//.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Dec 20 10:19:42 CET 2010
+pull ../lennart/ master
+Date: Mon Dec 20 10:19:45 CET 2010
+push
+Date: Mon Dec 20 10:20:07 CET 2010
+df
+Date: Mon Dec 20 12:37:46 CET 2010
+ci -a
+Date: Mon Dec 20 12:39:30 CET 2010
