@@ -258,32 +258,8 @@ Used git blame to annotates a file with information about how each line changed.
 ********************************************************************************
                             Git Achievement Unlocked!                            
 
-                               Traveler (Level 4)                               
-          Streamed changes between another rcs with git svn or git p4.          
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                            Product Manager (Level 4)                            
-       Stash the changes in a dirty working directory away with git stash.       
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                         Master Seamstress (Level -inf)                         
-                    amended a commit with git commit --amend.                    
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                            Product Manager (Level 5)                            
-       Stash the changes in a dirty working directory away with git stash.       
+                           Apprentice Banker (Level 1)                           
+         Join two or more development histories together with git merge.         
 ********************************************************************************
 
 
@@ -298,16 +274,8 @@ Used git blame to annotates a file with information about how each line changed.
 ********************************************************************************
                             Git Achievement Unlocked!                            
 
-                            Product Manager (Level 6)                            
+                        Master Product Manager (Level 7)                        
        Stash the changes in a dirty working directory away with git stash.       
-********************************************************************************
-
-
-********************************************************************************
-                            Git Achievement Unlocked!                            
-
-                              Stone Mason (Level 6)                              
-   Added files to the index area for inclusion in the next commit with git add   
 ********************************************************************************
 
 
@@ -322,8 +290,32 @@ Used git blame to annotates a file with information about how each line changed.
 ********************************************************************************
                             Git Achievement Unlocked!                            
 
+                         Master Seamstress (Level -inf)                         
+                    amended a commit with git commit --amend.                    
+********************************************************************************
+
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
                                Traveler (Level 5)                               
           Streamed changes between another rcs with git svn or git p4.          
+********************************************************************************
+
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                               Socialite (Level 5)                               
+              pushed a branch to a remote repository using git push              
+********************************************************************************
+
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                Author (Level 6)                                
+                     Made 2^Level commits using git commit.                     
 ********************************************************************************
 
 
