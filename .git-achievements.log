@@ -350,3 +350,11 @@ Used git blame to annotates a file with information about how each line changed.
     Shows one or more objects (blobs, trees, tags and commits) with git show    
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                          Apprentice Butcher (Level 1)                          
+              Performed an interactive rebase using git rebase -i.              
+********************************************************************************
+

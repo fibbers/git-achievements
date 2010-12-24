@@ -18017,3 +18017,285 @@ Date: Wed Dec 22 16:59:10 CET 2010
 Date: Wed Dec 22 16:59:11 CET 2010
 show 4ef1b67d
 Date: Wed Dec 22 17:00:29 CET 2010
+show 4df07e7d
+Date: Wed Dec 22 17:01:56 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:02:00 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:02:00 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:02:00 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:02:00 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:02:00 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:02:00 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:02:03 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:02:03 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:02:03 CET 2010
+lg java-src/nl/base/htmlng/Document.java
+Date: Wed Dec 22 17:06:44 CET 2010
+st
+Date: Wed Dec 22 17:06:46 CET 2010
+df
+Date: Wed Dec 22 17:07:42 CET 2010
+st
+Date: Wed Dec 22 17:26:04 CET 2010
+df
+Date: Wed Dec 22 17:26:36 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:39 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:39 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:39 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:39 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:42 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:42 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:43 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:43 CET 2010
+co java-src/nl/base/htmlng/gwt/GridGwt.java
+Date: Wed Dec 22 17:26:44 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:48 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:48 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:26:51 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:26:52 CET 2010
+co java-src/nl/base/htmlng/Head.java
+Date: Wed Dec 22 17:26:53 CET 2010
+st
+Date: Wed Dec 22 17:26:54 CET 2010
+df
+Date: Wed Dec 22 17:27:01 CET 2010
+st
+Date: Wed Dec 22 17:28:31 CET 2010
+df
+Date: Wed Dec 22 17:28:37 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:41 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:44 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:44 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:28:46 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:28:46 CET 2010
+co gwt-project/src/nl/base/gwt/client/CRMClient.java
+Date: Wed Dec 22 17:28:48 CET 2010
+st
+Date: Wed Dec 22 17:28:49 CET 2010
+df
+Date: Wed Dec 22 17:29:15 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:35 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:36 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:40 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:40 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:40 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:40 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:40 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:40 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:41 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:41 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:41 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:41 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:41 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:42 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:42 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:42 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:42 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:42 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:42 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:43 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:43 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:43 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:43 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:44 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:44 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:44 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:44 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:44 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:44 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:29:45 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:29:45 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:29:45 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:21 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:21 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:21 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:21 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:21 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:21 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:22 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:22 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:22 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:22 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:22 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:22 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:22 CET 2010
+--git-dir=.git config --get alias.lg
+Date: Wed Dec 22 17:30:24 CET 2010
+rev-parse --git-dir
+Date: Wed Dec 22 17:30:24 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:30:24 CET 2010
+st
+Date: Wed Dec 22 17:30:56 CET 2010
+st
+Date: Wed Dec 22 17:31:24 CET 2010
+df
+Date: Wed Dec 22 17:31:42 CET 2010
+st
+Date: Wed Dec 22 17:31:43 CET 2010
+--git-dir=.git config --get alias.co
+Date: Wed Dec 22 17:31:45 CET 2010
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec 22 17:31:45 CET 2010
+co gwt-project/
+Date: Wed Dec 22 17:31:49 CET 2010
+st
+Date: Wed Dec 22 17:31:50 CET 2010
+df
+Date: Wed Dec 22 17:31:51 CET 2010
+st
+Date: Wed Dec 22 17:32:59 CET 2010
+ci -a
+Date: Wed Dec 22 17:35:34 CET 2010
+svn dcommit --dry-run
+Date: Wed Dec 22 17:36:44 CET 2010
+st
+Date: Fri Dec 24 11:06:10 CET 2010
+lg gwt-project/src/nl/base/gwt/client/CRMClient.java
+Date: Fri Dec 24 11:08:17 CET 2010
+st
+Date: Fri Dec 24 11:37:32 CET 2010
+df
+Date: Fri Dec 24 11:37:34 CET 2010
+st
+Date: Fri Dec 24 11:40:40 CET 2010
+stash
+Date: Fri Dec 24 11:40:48 CET 2010
+st
+Date: Fri Dec 24 11:40:51 CET 2010
+revert 6e3568622381f4a66b8bcf2ff295aa3126ac11e0
+Date: Fri Dec 24 11:42:06 CET 2010
+st
+Date: Fri Dec 24 11:42:08 CET 2010
+st
+Date: Fri Dec 24 11:42:23 CET 2010
+svn dcommit --dry-run
+Date: Fri Dec 24 11:42:26 CET 2010
+rebase -i HEAD~2
+Date: Fri Dec 24 11:43:02 CET 2010
+rebase -i HEAD~2
+Date: Fri Dec 24 11:45:04 CET 2010
