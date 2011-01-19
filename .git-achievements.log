@@ -390,3 +390,11 @@ Used git blame to annotates a file with information about how each line changed.
                     Investigate the commit log using git log.                    
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                  Cherry Picker                                  
+ Used git cherry-pick to add a sha from another branch into the current branch. 
+********************************************************************************
+
