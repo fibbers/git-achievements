@@ -398,3 +398,11 @@ Used git blame to annotates a file with information about how each line changed.
  Used git cherry-pick to add a sha from another branch into the current branch. 
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                            Master Traveler (Level 7)                            
+          Streamed changes between another rcs with git svn or git p4.          
+********************************************************************************
+
