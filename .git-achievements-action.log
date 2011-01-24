@@ -23628,3 +23628,23 @@ svn dcommit --dry-run
 Date: Mon Jan 24 11:20:10 CET 2011
 rebase -i HEAD~2
 Date: Mon Jan 24 11:20:28 CET 2011
+rebase -i HEAD~2
+Date: Mon Jan 24 11:21:20 CET 2011
+svn dcommit --dry-run
+Date: Mon Jan 24 11:21:29 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Mon Jan 24 11:21:38 CET 2011
+rebase --continue
+Date: Mon Jan 24 11:21:47 CET 2011
+st
+Date: Mon Jan 24 11:21:49 CET 2011
+svn dcommit --dry-run
+Date: Mon Jan 24 11:21:55 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Mon Jan 24 11:22:02 CET 2011
+format-patch -1
+Date: Mon Jan 24 11:22:04 CET 2011
+rebase -i HEAD~2
+Date: Mon Jan 24 11:22:26 CET 2011
+format-patch -1
+Date: Mon Jan 24 11:22:30 CET 2011
