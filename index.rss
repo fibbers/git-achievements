@@ -2,6 +2,7 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Traveler (Level 8)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -21,5 +22,4 @@
 <item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Traveler (Level 5)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 </channel></rss>

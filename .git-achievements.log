@@ -454,3 +454,11 @@ Used git blame to annotates a file with information about how each line changed.
           Streamed changes between another rcs with git svn or git p4.          
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                Butcher (Level 4)                                
+              Performed an interactive rebase using git rebase -i.              
+********************************************************************************
+
