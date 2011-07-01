@@ -32480,3 +32480,815 @@ co master
 Date: Fri Jun 17 15:29:28 CEST 2011
 merge columnwidth
 Date: Fri Jun 17 15:29:28 CEST 2011
+st
+Date: Fri Jun 17 15:29:37 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:41 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:41 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:42 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:42 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:49 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:49 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:49 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:49 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:50 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:50 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Jun 17 15:29:51 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Jun 17 15:29:51 CEST 2011
+br -d columnwidth
+Date: Fri Jun 17 15:29:51 CEST 2011
+svn dcommit --dry-run
+Date: Fri Jun 17 15:29:55 CEST 2011
+svn rebase
+Date: Fri Jun 17 15:30:00 CEST 2011
+br
+Date: Fri Jun 17 15:31:39 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 15:31:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 15:31:42 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 15:31:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 15:31:42 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 15:31:43 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 15:31:43 CEST 2011
+co -b sorttype
+Date: Fri Jun 17 15:32:12 CEST 2011
+st
+Date: Fri Jun 17 17:16:54 CEST 2011
+df
+Date: Fri Jun 17 17:17:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:17:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:23:32 CEST 2011
+st
+Date: Fri Jun 17 17:23:33 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:23:33 CEST 2011
+df
+Date: Fri Jun 17 17:24:22 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:24:22 CEST 2011
+st
+Date: Fri Jun 17 17:24:38 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:24:38 CEST 2011
+add --patch
+Date: Fri Jun 17 17:26:25 CEST 2011
+st
+Date: Fri Jun 17 17:27:01 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 17 17:27:03 CEST 2011
+df --cached
+Date: Fri Jun 17 17:27:17 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 17 17:27:49 CEST 2011
+df --cached
+Date: Fri Jun 17 17:27:50 CEST 2011
+df --cached
+Date: Fri Jun 17 17:27:57 CEST 2011
+ci
+Date: Fri Jun 17 17:29:28 CEST 2011
+--git-dir=.git config --get alias.ci
+Date: Fri Jun 17 17:29:38 CEST 2011
+ci --amend
+Date: Fri Jun 17 17:30:19 CEST 2011
+stash
+Date: Fri Jun 17 17:30:29 CEST 2011
+svn dcommit --dry-run
+Date: Fri Jun 17 17:30:31 CEST 2011
+svn dcommit
+Date: Fri Jun 17 17:30:42 CEST 2011
+st
+Date: Fri Jun 17 17:31:14 CEST 2011
+stash pop
+Date: Fri Jun 17 17:31:19 CEST 2011
+df
+Date: Fri Jun 17 17:31:25 CEST 2011
+stash
+Date: Fri Jun 17 17:31:27 CEST 2011
+revert HEAD^
+Date: Fri Jun 17 17:31:41 CEST 2011
+st
+Date: Fri Jun 17 17:31:43 CEST 2011
+reset --hard HEAD^
+Date: Fri Jun 17 17:31:51 CEST 2011
+st
+Date: Fri Jun 17 17:31:52 CEST 2011
+svn rebase
+Date: Fri Jun 17 17:31:58 CEST 2011
+revert 8ba7c6960bfc4a6ae2bd9f2344fc9fdb03d8527a
+Date: Fri Jun 17 17:32:18 CEST 2011
+st
+Date: Fri Jun 17 17:32:20 CEST 2011
+reset --hard HEAD^
+Date: Fri Jun 17 17:32:27 CEST 2011
+st
+Date: Fri Jun 17 17:32:28 CEST 2011
+stash pop
+Date: Fri Jun 17 17:32:35 CEST 2011
+add --patch
+Date: Fri Jun 17 17:32:49 CEST 2011
+st
+Date: Fri Jun 17 17:32:51 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 17 17:32:54 CEST 2011
+df --cached
+Date: Fri Jun 17 17:32:54 CEST 2011
+ci
+Date: Fri Jun 17 17:33:11 CEST 2011
+st
+Date: Fri Jun 17 17:33:16 CEST 2011
+stash
+Date: Fri Jun 17 17:33:18 CEST 2011
+svn dcommit --dry-run
+Date: Fri Jun 17 17:33:23 CEST 2011
+svn dcommit
+Date: Fri Jun 17 17:33:27 CEST 2011
+stash pop
+Date: Fri Jun 17 17:33:37 CEST 2011
+df
+Date: Fri Jun 17 17:33:48 CEST 2011
+st
+Date: Fri Jun 17 17:33:53 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 17:33:55 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:33:55 CEST 2011
+co java-src/
+Date: Fri Jun 17 17:33:57 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 17:33:59 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:33:59 CEST 2011
+co web/
+Date: Fri Jun 17 17:34:01 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 17:34:03 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:34:03 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 17 17:34:03 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:34:04 CEST 2011
+co gwt-project/src/
+Date: Fri Jun 17 17:34:04 CEST 2011
+st
+Date: Fri Jun 17 17:34:05 CEST 2011
+df
+Date: Fri Jun 17 17:34:06 CEST 2011
+st
+Date: Fri Jun 17 17:46:21 CEST 2011
+df
+Date: Fri Jun 17 17:46:36 CEST 2011
+add --patch
+Date: Fri Jun 17 17:46:47 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 17 17:46:49 CEST 2011
+df --cached
+Date: Fri Jun 17 17:46:50 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:11 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:11 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:15 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:15 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:15 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:16 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:19 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:19 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:47:20 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:47:20 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:47:20 CEST 2011
+ci
+Date: Fri Jun 17 17:49:42 CEST 2011
+st
+Date: Fri Jun 17 17:49:48 CEST 2011
+df
+Date: Fri Jun 17 17:49:52 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Fri Jun 17 17:49:55 CEST 2011
+svnci
+Date: Fri Jun 17 17:50:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:45 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:45 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:46 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:46 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:46 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:46 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:46 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:46 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:46 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:47 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:47 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:47 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:47 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:47 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:47 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:48 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:48 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:48 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:51 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:51 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:51 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:52 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:52 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:52 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 17:59:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 17:59:53 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 17 17:59:53 CEST 2011
+lg web/WEB-INF/jsp/forms/cms/listtype.maintenancescreen2.jsp
+Date: Fri Jun 17 18:00:20 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 17 18:00:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 17 18:00:31 CEST 2011
+lg --full-diff web/WEB-INF/jsp/forms/cms/listtype.maintenancescreen2.jsp
+Date: Fri Jun 17 18:01:12 CEST 2011
+st
+Date: Fri Jun 17 18:01:14 CEST 2011
+add web/WEB-INF/jsp/forms/cms/
+Date: Fri Jun 17 18:01:21 CEST 2011
+lg --full-diff web/WEB-INF/jsp/forms/cms/listtype.maintenancescreen2.jsp
+Date: Fri Jun 17 18:01:34 CEST 2011
+st
+Date: Fri Jun 17 18:01:35 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 17 18:01:36 CEST 2011
+df --cached
+Date: Fri Jun 17 18:01:37 CEST 2011
+ci
+Date: Fri Jun 17 18:01:57 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Fri Jun 17 18:02:10 CEST 2011
+svnci
+Date: Fri Jun 17 18:02:26 CEST 2011
+st
+Date: Fri Jun 24 09:48:41 CEST 2011
+st
+Date: Fri Jun 24 09:48:57 CEST 2011
+df
+Date: Fri Jun 24 09:49:06 CEST 2011
+svn fetch --fetch-all
+Date: Fri Jun 24 09:50:38 CEST 2011
+help -a
+Date: Fri Jun 24 11:48:30 CEST 2011
+st
+Date: Fri Jun 24 14:09:41 CEST 2011
+st
+Date: Fri Jun 24 14:10:03 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:07 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:07 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:07 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:12 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:12 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:12 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:12 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:12 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:12 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:12 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:13 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:13 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:13 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:13 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:13 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:13 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:16 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:16 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:16 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:16 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:16 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:16 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:18 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:18 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:18 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:18 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 14:10:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 14:10:19 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:10:19 CEST 2011
+st
+Date: Fri Jun 24 14:10:32 CEST 2011
+df
+Date: Fri Jun 24 14:10:55 CEST 2011
+add --patch
+Date: Fri Jun 24 14:11:08 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 24 14:11:11 CEST 2011
+df --cached
+Date: Fri Jun 24 14:11:11 CEST 2011
+ci
+Date: Fri Jun 24 14:15:50 CEST 2011
+st
+Date: Fri Jun 24 14:15:57 CEST 2011
+df
+Date: Fri Jun 24 14:16:03 CEST 2011
+st
+Date: Fri Jun 24 14:16:04 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 14:16:08 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:16:08 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 14:16:08 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:16:08 CEST 2011
+co gwt-project/src/
+Date: Fri Jun 24 14:16:09 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 14:16:10 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:16:10 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 14:16:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 14:16:11 CEST 2011
+co web/
+Date: Fri Jun 24 14:16:11 CEST 2011
+st
+Date: Fri Jun 24 14:16:12 CEST 2011
+svnci
+Date: Fri Jun 24 14:16:36 CEST 2011
+df
+Date: Fri Jun 24 14:16:42 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 15:42:20 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 15:42:20 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 15:42:22 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 15:42:22 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 15:42:22 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 15:42:23 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 15:42:23 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 15:42:23 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 15:42:24 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 15:42:24 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 15:42:24 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:12:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:12:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:12:14 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:12:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:12:14 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:12:15 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:12:16 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:12:16 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:12:16 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:12:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:12:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:12:17 CEST 2011
+lg web/pub/css/email.css
+Date: Fri Jun 24 16:21:10 CEST 2011
+blame gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Fri Jun 24 16:22:01 CEST 2011
+show cfe0b0a3
+Date: Fri Jun 24 16:22:03 CEST 2011
+blame gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Fri Jun 24 16:23:32 CEST 2011
+show dbaaafec
+Date: Fri Jun 24 16:24:48 CEST 2011
+svnup
+Date: Fri Jun 24 16:27:02 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:20 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:20 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:20 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:22 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:22 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:22 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:25 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:25 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:25 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:25 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:26 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:27 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:27 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:30 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:30 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:30 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:30 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:30 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:30 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:31 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:32 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:32 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:32 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:33 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:33 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:33 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:34 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:34 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:35 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:35 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:35 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:36 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:36 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:37 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:38 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:38 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:38 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:39 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:39 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:39 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:39 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:39 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:39 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:41 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:41 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:37:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:37:41 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 16:37:42 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:42:38 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:42:38 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:42:39 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:42:39 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:42:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:42:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:56:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:56:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:56:21 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:56:45 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jun 24 16:57:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:57:28 CEST 2011
+rev-parse --git-dir
+Date: Fri Jun 24 16:57:33 CEST 2011
+st
+Date: Fri Jun 24 17:43:48 CEST 2011
+df
+Date: Fri Jun 24 17:43:55 CEST 2011
+st
+Date: Fri Jun 24 17:44:48 CEST 2011
+df
+Date: Fri Jun 24 17:44:52 CEST 2011
+df
+Date: Fri Jun 24 17:44:59 CEST 2011
+add --patch
+Date: Fri Jun 24 17:45:07 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 24 17:45:10 CEST 2011
+df --cached
+Date: Fri Jun 24 17:45:11 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 24 17:45:54 CEST 2011
+df --cached
+Date: Fri Jun 24 17:45:54 CEST 2011
+st
+Date: Fri Jun 24 17:47:34 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Jun 24 17:47:35 CEST 2011
+df --cached
+Date: Fri Jun 24 17:47:35 CEST 2011
+ci
+Date: Fri Jun 24 17:51:50 CEST 2011
+svnci
+Date: Fri Jun 24 17:52:30 CEST 2011
+st
+Date: Fri Jun 24 17:53:47 CEST 2011
+df
+Date: Fri Jun 24 17:53:50 CEST 2011
+st
+Date: Fri Jun 24 17:53:51 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 17:53:53 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 17:53:53 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jun 24 17:53:53 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jun 24 17:53:54 CEST 2011
+co gwt-project/src/
+Date: Fri Jun 24 17:53:54 CEST 2011
+st
+Date: Fri Jul  1 09:09:23 CEST 2011
+stash list
+Date: Fri Jul  1 09:09:34 CEST 2011
+svn fetch --fetch-all
+Date: Fri Jul  1 09:16:05 CEST 2011
+log -n1 --grep=trunk@132138
+Date: Fri Jul  1 09:55:31 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jul  1 09:55:39 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jul  1 09:55:39 CEST 2011
+co -b t trunk
+Date: Fri Jul  1 09:55:57 CEST 2011
+log -n1 --grep=trunk@132138
+Date: Fri Jul  1 09:56:04 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Jul  1 09:56:37 CEST 2011
+rev-parse --git-dir
+Date: Fri Jul  1 09:56:37 CEST 2011
+svn find-rev r131955
+Date: Fri Jul  1 09:56:52 CEST 2011
+svn find-rev r131955
+Date: Fri Jul  1 09:57:03 CEST 2011
+help log
+Date: Fri Jul  1 09:58:23 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Jul  1 09:58:25 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Jul  1 09:58:25 CEST 2011
+co master
+Date: Fri Jul  1 09:58:27 CEST 2011
+svn find-rev r131955
+Date: Fri Jul  1 09:58:29 CEST 2011
+help log
+Date: Fri Jul  1 09:59:18 CEST 2011
+log -n1 --grep=trunk@132138
+Date: Fri Jul  1 09:59:32 CEST 2011
+log -n1 --grep=trunk@132138
+Date: Fri Jul  1 09:59:34 CEST 2011
+log -g -n1 --grep=trunk@132138
+Date: Fri Jul  1 09:59:38 CEST 2011
