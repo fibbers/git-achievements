@@ -510,3 +510,11 @@ Used git blame to annotates a file with information about how each line changed.
                     Added a .gitignore file to a repository.                    
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                         Apprentice Goldsmith (Level 1)                         
+           Reviewed patches before committing with git diff --cached.           
+********************************************************************************
+
