@@ -41152,3 +41152,507 @@ help diff
 Date: Thu Sep 29 11:06:29 CEST 2011
 diff --cached --patch-with-raw
 Date: Thu Sep 29 11:06:46 CEST 2011
+diff --cached --patch
+Date: Thu Sep 29 11:07:01 CEST 2011
+diff --cached --raw
+Date: Thu Sep 29 11:07:03 CEST 2011
+help diff
+Date: Thu Sep 29 11:11:13 CEST 2011
+help diff
+Date: Thu Sep 29 11:12:10 CEST 2011
+diff --cached --full-index
+Date: Thu Sep 29 11:12:22 CEST 2011
+diff --cached
+Date: Thu Sep 29 11:12:26 CEST 2011
+diff --cached --full-index
+Date: Thu Sep 29 11:12:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 11:12:39 CEST 2011
+diff --cached --full-index
+Date: Thu Sep 29 11:12:40 CEST 2011
+ci
+Date: Thu Sep 29 11:13:12 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 11:15:31 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Sep 29 11:15:32 CEST 2011
+br -d comet
+Date: Thu Sep 29 11:15:38 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Thu Sep 29 11:15:40 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Thu Sep 29 11:15:40 CEST 2011
+br -D comet_werkend
+Date: Thu Sep 29 11:15:45 CEST 2011
+co -b comet
+Date: Thu Sep 29 11:15:49 CEST 2011
+stash
+Date: Thu Sep 29 11:16:15 CEST 2011
+st
+Date: Thu Sep 29 11:27:13 CEST 2011
+stash pop
+Date: Thu Sep 29 11:27:16 CEST 2011
+st
+Date: Thu Sep 29 11:27:46 CEST 2011
+df java-src/nl/base/servlets/comet/CometMessage.java
+Date: Thu Sep 29 11:27:55 CEST 2011
+add java-src/nl/base/servlets/comet/CometMessage.java
+Date: Thu Sep 29 11:28:04 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Thu Sep 29 11:28:11 CEST 2011
+st
+Date: Thu Sep 29 11:28:12 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 11:33:28 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 11:33:48 CEST 2011
+st
+Date: Thu Sep 29 11:37:58 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 11:38:09 CEST 2011
+add java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 11:38:12 CEST 2011
+st
+Date: Thu Sep 29 11:38:14 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 11:38:17 CEST 2011
+df --cached
+Date: Thu Sep 29 11:38:28 CEST 2011
+ci
+Date: Thu Sep 29 11:38:41 CEST 2011
+st
+Date: Thu Sep 29 11:39:32 CEST 2011
+rm java-src/nl/base/servlets/IClientConnectionListener.java
+Date: Thu Sep 29 11:39:47 CEST 2011
+ci
+Date: Thu Sep 29 11:40:39 CEST 2011
+st
+Date: Thu Sep 29 11:40:44 CEST 2011
+stash
+Date: Thu Sep 29 11:40:49 CEST 2011
+stash pop
+Date: Thu Sep 29 11:41:05 CEST 2011
+stash
+Date: Thu Sep 29 11:46:10 CEST 2011
+help -a
+Date: Thu Sep 29 13:13:37 CEST 2011
+st
+Date: Thu Sep 29 13:47:40 CEST 2011
+rm java-src/nl/base/servlets/comet/CometTarget.java java-src/nl/base/servlets/comet/IClientConnectionComet.java java-src/nl/base/servlets/comet/IClientConnectionCometService.java
+Date: Thu Sep 29 13:47:59 CEST 2011
+st
+Date: Thu Sep 29 13:48:00 CEST 2011
+df
+Date: Thu Sep 29 13:48:38 CEST 2011
+st
+Date: Thu Sep 29 14:24:25 CEST 2011
+stash show
+Date: Thu Sep 29 14:24:46 CEST 2011
+stash show -p
+Date: Thu Sep 29 14:26:11 CEST 2011
+st
+Date: Thu Sep 29 14:47:58 CEST 2011
+stash show -p
+Date: Thu Sep 29 14:49:48 CEST 2011
+st
+Date: Thu Sep 29 14:50:04 CEST 2011
+st
+Date: Thu Sep 29 15:17:09 CEST 2011
+st
+Date: Thu Sep 29 17:11:33 CEST 2011
+df java-src/nl/base/servlets/comet/ClientConnectionComet.java
+Date: Thu Sep 29 17:12:00 CEST 2011
+st
+Date: Thu Sep 29 17:12:01 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Thu Sep 29 17:12:19 CEST 2011
+st
+Date: Thu Sep 29 17:12:21 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 17:16:13 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 17:16:27 CEST 2011
+add java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 17:16:29 CEST 2011
+st
+Date: Thu Sep 29 17:16:30 CEST 2011
+df java-src/nl/base/servlets/comet/ClientConnectionComet.java
+Date: Thu Sep 29 17:16:45 CEST 2011
+add java-src/nl/base/servlets/comet/ClientConnectionComet.java
+Date: Thu Sep 29 17:16:47 CEST 2011
+st
+Date: Thu Sep 29 17:16:48 CEST 2011
+add java-src/nl/base/servlets/comet/CometMessage.java java-src/nl/base/servlets/comet/CometPipe.java java-src/nl/base/servlets/comet/PostedCometMetaData.java java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Thu Sep 29 17:17:17 CEST 2011
+st
+Date: Thu Sep 29 17:17:18 CEST 2011
+add java-src/nl/base/servlets/ClientConnectionTarget.java
+Date: Thu Sep 29 17:17:27 CEST 2011
+st
+Date: Thu Sep 29 17:17:29 CEST 2011
+df gwt-project/src/nl/base/gwt/client/comet/CometClient.java
+Date: Thu Sep 29 17:18:07 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometClient.java
+Date: Thu Sep 29 17:18:12 CEST 2011
+st
+Date: Thu Sep 29 17:18:14 CEST 2011
+df gwt-project/src/nl/base/gwt/client/comet/CometHandler.java
+Date: Thu Sep 29 17:19:22 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometHandler.java
+Date: Thu Sep 29 17:19:38 CEST 2011
+st
+Date: Thu Sep 29 17:19:39 CEST 2011
+rm gwt-project/src/nl/base/gwt/client/comet/CometTarget.java
+Date: Thu Sep 29 17:19:58 CEST 2011
+df gwt-project/src/nl/base/gwt/client/comet/CometMessage.java
+Date: Thu Sep 29 17:20:06 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometMessage.java
+Date: Thu Sep 29 17:20:08 CEST 2011
+st
+Date: Thu Sep 29 17:20:09 CEST 2011
+df gwt-project/src/nl/base/gwt/client/crmchat/ChatController.java
+Date: Thu Sep 29 17:20:25 CEST 2011
+add gwt-project/src/nl/base/gwt/client/crmchat/ChatController.java
+Date: Thu Sep 29 17:20:27 CEST 2011
+st
+Date: Thu Sep 29 17:20:28 CEST 2011
+add gwt-project/src/nl/base/gwt/client/util/UUID.java
+Date: Thu Sep 29 17:20:38 CEST 2011
+ci
+Date: Thu Sep 29 17:20:55 CEST 2011
+st
+Date: Thu Sep 29 17:21:49 CEST 2011
+df
+Date: Thu Sep 29 17:22:00 CEST 2011
+st
+Date: Thu Sep 29 17:22:02 CEST 2011
+stash
+Date: Thu Sep 29 17:22:10 CEST 2011
+co master
+Date: Thu Sep 29 17:22:12 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:22:16 CEST 2011
+merge comet
+Date: Thu Sep 29 17:22:18 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:22:45 CEST 2011
+rebase -i HEAD~6
+Date: Thu Sep 29 17:23:21 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:23:29 CEST 2011
+rebase -i HEAD~5
+Date: Thu Sep 29 17:23:46 CEST 2011
+rebase -i HEAD~5
+Date: Thu Sep 29 17:24:37 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:24:42 CEST 2011
+st
+Date: Thu Sep 29 17:25:16 CEST 2011
+help -a
+Date: Thu Sep 29 17:25:20 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Sep 29 17:25:21 CEST 2011
+reset --soft HEAD
+Date: Thu Sep 29 17:25:25 CEST 2011
+st
+Date: Thu Sep 29 17:25:26 CEST 2011
+reset --soft HEAD^
+Date: Thu Sep 29 17:25:32 CEST 2011
+st
+Date: Thu Sep 29 17:25:34 CEST 2011
+stash
+Date: Thu Sep 29 17:25:46 CEST 2011
+st
+Date: Thu Sep 29 17:25:48 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:25:51 CEST 2011
+svn dcommit
+Date: Thu Sep 29 17:26:11 CEST 2011
+stash pop
+Date: Thu Sep 29 17:26:15 CEST 2011
+st
+Date: Thu Sep 29 17:26:21 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:26:54 CEST 2011
+diff --cached
+Date: Thu Sep 29 17:28:27 CEST 2011
+st
+Date: Thu Sep 29 17:28:28 CEST 2011
+df java-src/nl/base/servlets/comet/CometMessage.java
+Date: Thu Sep 29 17:28:43 CEST 2011
+st
+Date: Thu Sep 29 17:28:45 CEST 2011
+df gwt-project/src/nl/base/gwt/client/util/UUID.java
+Date: Thu Sep 29 17:29:05 CEST 2011
+st
+Date: Thu Sep 29 17:29:08 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/util/UUID.java
+Date: Thu Sep 29 17:29:39 CEST 2011
+st
+Date: Thu Sep 29 17:29:46 CEST 2011
+df java-src/nl/base/servlets/comet/CometPipe.java
+Date: Thu Sep 29 17:30:18 CEST 2011
+df --cached java-src/nl/base/servlets/comet/CometPipe.java
+Date: Thu Sep 29 17:30:41 CEST 2011
+st
+Date: Thu Sep 29 17:30:42 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:30:48 CEST 2011
+df --cached java-src/nl/base/servlets/comet/PostedCometMetaData.java
+Date: Thu Sep 29 17:31:01 CEST 2011
+st
+Date: Thu Sep 29 17:31:02 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:11 CEST 2011
+df --cached java-src/nl/base/servlets/IClientConnectionService.java
+Date: Thu Sep 29 17:31:34 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:44 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:44 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:44 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:44 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:45 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:45 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:45 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:45 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:48 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:48 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:31:48 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Sep 29 17:31:48 CEST 2011
+st
+Date: Thu Sep 29 17:31:52 CEST 2011
+df java-src/nl/base/servlets/IClientConnection.java
+Date: Thu Sep 29 17:32:17 CEST 2011
+st
+Date: Thu Sep 29 17:32:19 CEST 2011
+df java-src/nl/base/servlets/IClientConnection.java
+Date: Thu Sep 29 17:32:26 CEST 2011
+st
+Date: Thu Sep 29 17:32:27 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:32:33 CEST 2011
+df --cached java-src/nl/base/servlets/ClientConnectionTarget.java
+Date: Thu Sep 29 17:32:48 CEST 2011
+st
+Date: Thu Sep 29 17:32:49 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:32:58 CEST 2011
+df --cached
+Date: Thu Sep 29 17:33:40 CEST 2011
+st
+Date: Thu Sep 29 17:33:41 CEST 2011
+df java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Thu Sep 29 17:34:32 CEST 2011
+st
+Date: Thu Sep 29 17:34:33 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:34:42 CEST 2011
+df --cached java-src/nl/base/servlets/comet/ICometPipe.java
+Date: Thu Sep 29 17:34:45 CEST 2011
+st
+Date: Thu Sep 29 17:34:49 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:34:53 CEST 2011
+df --cached java-src/nl/base/servlets/comet/PostedCometMetaData.java
+Date: Thu Sep 29 17:35:28 CEST 2011
+reset HEAD --patch import nl.base.servlets.IClientConnection
+Date: Thu Sep 29 17:36:10 CEST 2011
+st
+Date: Thu Sep 29 17:36:13 CEST 2011
+reset --patch HEAD java-src/nl/base/servlets/comet/PostedCometMetaData.java
+Date: Thu Sep 29 17:36:57 CEST 2011
+st
+Date: Thu Sep 29 17:36:58 CEST 2011
+reset --patch HEAD java-src/nl/base/servlets/comet/PostedCometMetaData.java
+Date: Thu Sep 29 17:37:56 CEST 2011
+st
+Date: Thu Sep 29 17:37:57 CEST 2011
+add java-src/nl/base/servlets/comet/CometMessage.java
+Date: Thu Sep 29 17:38:51 CEST 2011
+rm java-src/nl/base/servlets/comet/CometTarget.java
+Date: Thu Sep 29 17:38:54 CEST 2011
+df java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Thu Sep 29 17:39:15 CEST 2011
+add java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Thu Sep 29 17:39:18 CEST 2011
+st
+Date: Thu Sep 29 17:39:19 CEST 2011
+add java-src/nl/base/servlets/IClientConnection.java
+Date: Thu Sep 29 17:39:26 CEST 2011
+rm java-src/nl/base/servlets/IClientConnectionListener.java
+Date: Thu Sep 29 17:39:30 CEST 2011
+st
+Date: Thu Sep 29 17:39:32 CEST 2011
+df java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 17:39:57 CEST 2011
+add java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 17:40:00 CEST 2011
+st
+Date: Thu Sep 29 17:40:01 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Thu Sep 29 17:40:24 CEST 2011
+add java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Thu Sep 29 17:40:27 CEST 2011
+st
+Date: Thu Sep 29 17:40:29 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:40:37 CEST 2011
+st
+Date: Thu Sep 29 17:40:45 CEST 2011
+ci
+Date: Thu Sep 29 17:52:57 CEST 2011
+df --cached
+Date: Thu Sep 29 17:53:00 CEST 2011
+st
+Date: Thu Sep 29 17:53:01 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometClient.java
+Date: Thu Sep 29 17:53:10 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometHandler.java gwt-project/src/nl/base/gwt/client/comet/CometMessage.java gwt-project/src/nl/base/gwt/client/crmchat/ChatController.java
+Date: Thu Sep 29 17:53:20 CEST 2011
+rm gwt-project/src/nl/base/gwt/client/comet/CometTarget.java
+Date: Thu Sep 29 17:53:24 CEST 2011
+st
+Date: Thu Sep 29 17:53:25 CEST 2011
+st
+Date: Thu Sep 29 17:53:43 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 17:53:51 CEST 2011
+ci
+Date: Thu Sep 29 17:57:13 CEST 2011
+df --cached
+Date: Thu Sep 29 17:57:18 CEST 2011
+st
+Date: Thu Sep 29 17:57:19 CEST 2011
+st
+Date: Thu Sep 29 17:57:32 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:57:34 CEST 2011
+st
+Date: Thu Sep 29 17:58:25 CEST 2011
+svn dcommit --dry-run
+Date: Thu Sep 29 17:58:28 CEST 2011
+svn dcommit -e
+Date: Thu Sep 29 17:58:57 CEST 2011
+st
+Date: Thu Sep 29 18:01:08 CEST 2011
+ci java-src/nl/base/rela/entities/Chat.java
+Date: Thu Sep 29 18:01:20 CEST 2011
+svn dcommit
+Date: Thu Sep 29 18:01:27 CEST 2011
+st
+Date: Thu Sep 29 18:01:51 CEST 2011
+stash list
+Date: Thu Sep 29 18:01:54 CEST 2011
+st
+Date: Thu Sep 29 18:12:28 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometMessage.java java-src/nl/base/servlets/comet/CometMessage.java
+Date: Thu Sep 29 18:12:36 CEST 2011
+st
+Date: Thu Sep 29 18:12:37 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Thu Sep 29 18:12:39 CEST 2011
+df --cached
+Date: Thu Sep 29 18:12:45 CEST 2011
+ci
+Date: Thu Sep 29 18:13:18 CEST 2011
+st
+Date: Thu Sep 29 18:13:46 CEST 2011
+df gwt-project/src/nl/base/gwt/client/comet/CometMessage.java
+Date: Thu Sep 29 18:13:52 CEST 2011
+st
+Date: Thu Sep 29 18:14:05 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/comet/CometMessage.java
+Date: Thu Sep 29 18:14:37 CEST 2011
+st
+Date: Thu Sep 29 18:14:43 CEST 2011
+svn dcommit
+Date: Thu Sep 29 18:14:50 CEST 2011
+st
+Date: Fri Sep 30 09:40:25 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:14:44 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:14:45 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:14:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:15:02 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:15:06 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:15:32 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:16:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Sep 30 10:21:55 CEST 2011
+st
+Date: Fri Sep 30 10:23:41 CEST 2011
+df
+Date: Fri Sep 30 10:24:08 CEST 2011
+st
+Date: Fri Sep 30 10:24:08 CEST 2011
+ci -a
+Date: Fri Sep 30 10:25:47 CEST 2011
+svn dcommit
+Date: Fri Sep 30 10:26:40 CEST 2011
+svn fetch --fetch-all
+Date: Fri Sep 30 10:29:26 CEST 2011
+st
+Date: Fri Sep 30 11:41:49 CEST 2011
+df
+Date: Fri Sep 30 11:42:48 CEST 2011
+df
+Date: Fri Sep 30 11:43:01 CEST 2011
+st
+Date: Fri Sep 30 12:18:51 CEST 2011
+df
+Date: Fri Sep 30 12:19:06 CEST 2011
+df
+Date: Fri Sep 30 12:19:15 CEST 2011
+st
+Date: Fri Sep 30 12:19:16 CEST 2011
+add java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java java-src/nl/base/rela/entities/Chat.java
+Date: Fri Sep 30 12:19:23 CEST 2011
+st
+Date: Fri Sep 30 12:19:28 CEST 2011
+ci
+Date: Fri Sep 30 12:21:53 CEST 2011
+--git-dir=.git config --get alias.ci
+Date: Fri Sep 30 12:22:04 CEST 2011
+ci --amend
+Date: Fri Sep 30 12:22:16 CEST 2011
+stash
+Date: Fri Sep 30 12:22:30 CEST 2011
+svn dcommit --dry-run
+Date: Fri Sep 30 12:22:32 CEST 2011
+svn dcommit
+Date: Fri Sep 30 12:22:42 CEST 2011
+stash pop
+Date: Fri Sep 30 12:22:44 CEST 2011
+diff --cached
+Date: Fri Sep 30 12:31:38 CEST 2011
