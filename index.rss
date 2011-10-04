@@ -2,6 +2,7 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Goldsmith (Level 5)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Master Traveler (Level 9)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Archivist (Level 3)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Traveler (Level 7)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 </channel></rss>
