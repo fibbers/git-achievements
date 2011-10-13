@@ -558,3 +558,11 @@ Used git blame to annotates a file with information about how each line changed.
            Reviewed patches before committing with git diff --cached.           
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                Butcher (Level 5)                                
+              Performed an interactive rebase using git rebase -i.              
+********************************************************************************
+

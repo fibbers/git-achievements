@@ -42336,3 +42336,2615 @@ diff --cached
 Date: Tue Oct  4 13:52:24 CEST 2011
 diff --cached --stat -p
 Date: Tue Oct  4 13:53:16 CEST 2011
+ci
+Date: Tue Oct  4 13:55:56 CEST 2011
+svn find-rev r136648
+Date: Tue Oct  4 14:13:18 CEST 2011
+svn find-rev r136648
+Date: Tue Oct  4 14:14:15 CEST 2011
+svn dcommit -e
+Date: Tue Oct  4 14:15:52 CEST 2011
+stash pop
+Date: Tue Oct  4 14:15:55 CEST 2011
+help -a
+Date: Tue Oct  4 14:16:05 CEST 2011
+svn find-rev r136648
+Date: Tue Oct  4 14:19:17 CEST 2011
+help log
+Date: Tue Oct  4 14:54:57 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct  4 14:54:57 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 14:54:57 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct  4 14:54:59 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 14:54:59 CEST 2011
+lg --author=willem --since=2011-08
+Date: Tue Oct  4 14:55:03 CEST 2011
+help log
+Date: Tue Oct  4 14:55:27 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct  4 14:55:30 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 14:55:30 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct  4 14:55:31 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 14:55:31 CEST 2011
+log --author=willem --since=2011-08-01 --reverse
+Date: Tue Oct  4 14:55:46 CEST 2011
+log --author=willem --since=2011-08-01 --reverse --stat
+Date: Tue Oct  4 15:12:14 CEST 2011
+help -a
+Date: Tue Oct  4 16:03:12 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:03:13 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:03:14 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:29 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:37 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:37 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:40 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:44 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:47 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:06:58 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:07 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:12 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:17 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:22 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:30 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:07:36 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:08:54 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:08:55 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:11:53 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:11:56 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:12:04 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:12:04 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:13:07 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:13:08 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:14:12 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:14:13 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:14:45 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:14:47 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:17:14 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:17:15 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:17:23 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:17:24 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:18:38 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:18:39 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:18:44 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:18:45 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:18:50 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:19:22 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:19:25 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:19:26 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:22:45 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:22:47 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:22:51 CEST 2011
+svn find-rev r135122
+Date: Tue Oct  4 16:23:03 CEST 2011
+svn find-rev r135122
+Date: Tue Oct  4 16:25:26 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:30:36 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:30:39 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:02 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:03 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:22 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:23 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:39 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:31:41 CEST 2011
+svn find-rev r135122
+Date: Tue Oct  4 16:32:03 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:32:26 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:07 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:08 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:21 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:22 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:56 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:38:57 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:42:43 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:42:45 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:43:57 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 16:43:58 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 17:32:50 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct  4 17:32:53 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:20 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:21 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:29 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:30 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:40 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:41 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:12:45 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:45:28 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 09:45:31 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:01:32 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:16:23 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:16:26 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:16:28 CEST 2011
+svn find-rev r135122
+Date: Wed Oct  5 10:16:33 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:50:06 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:50:11 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:50:16 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:50:42 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:51:30 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 10:54:52 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:14:03 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:14:05 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:14:58 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:14:59 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:15:22 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:15:44 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:16:11 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:17:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:19:37 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:19:38 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:20:43 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:23:45 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 11:23:47 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:16:39 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:16:41 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:17:40 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:18:24 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:18:27 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:19:34 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:19:38 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:19:40 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:19:56 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:21:24 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:22:17 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:22:18 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:22:22 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:22:45 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:22:56 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:23:42 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:23:46 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:26:39 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:26:41 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:29:10 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:29:39 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:30:50 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:30:52 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:30:59 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:31:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:44:21 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:44:44 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:50:58 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 12:51:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 13:01:49 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 13:51:54 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:13:05 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:13:07 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:16:37 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:17:21 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:20:31 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:29:04 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:30:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:30:02 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:32:35 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:33:29 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:34:13 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:35:46 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:38:15 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:40:48 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:43:45 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:44:07 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:44:10 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:49:32 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:50:08 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:51:44 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:53:59 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:55:40 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:57:39 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:58:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 14:58:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:03:06 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:03:23 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:05:14 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:07:42 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:10:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:10:16 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:10:19 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 15:10:19 CEST 2011
+st
+Date: Wed Oct  5 15:10:18 CEST 2011
+svnup
+Date: Wed Oct  5 15:10:43 CEST 2011
+help -a
+Date: Wed Oct  5 15:27:31 CEST 2011
+df
+Date: Wed Oct  5 15:38:22 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 17:33:33 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct  5 17:33:43 CEST 2011
+help log
+Date: Thu Oct  6 11:53:01 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:04:18 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:04:31 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:04:59 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:05:30 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:13:23 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:13:38 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:13:52 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:15:59 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:19:16 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:19:46 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:20:24 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:21:23 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:22:07 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:24:20 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:24:56 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:25:12 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:28:40 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:29:28 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:29:53 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:30:46 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:33:59 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:35:05 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:37:09 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:43:12 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:43:18 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:47:50 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:59:22 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 12:59:31 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:00:00 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:00:08 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:00:42 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:02:26 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:04:10 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:06:45 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:08:14 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:08:43 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:08:54 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:11:02 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:12:37 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:18:01 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:18:37 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:19:40 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:22:42 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:25:26 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:25:39 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:27:08 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:29:40 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:31:40 CEST 2011
+svn find-rev r136698
+Date: Thu Oct  6 13:32:59 CEST 2011
+svn find-rev r136698
+Date: Thu Oct  6 13:33:03 CEST 2011
+svn find-rev r136698
+Date: Thu Oct  6 13:33:35 CEST 2011
+svn find-rev r136698
+Date: Thu Oct  6 13:33:40 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:42:54 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:57:51 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:58:10 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:58:30 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 13:58:32 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:01:12 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:01:14 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:01:15 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:01:29 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:02:38 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:02:45 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:04:53 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:04:56 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:05:07 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:05:38 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:05:49 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:05:50 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:06:04 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:09:24 CEST 2011
+st
+Date: Thu Oct  6 14:09:21 CEST 2011
+svnup
+Date: Thu Oct  6 14:09:37 CEST 2011
+help -a
+Date: Thu Oct  6 14:11:30 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:33:53 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:33:54 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:33:58 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:33:58 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:34:01 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:35:39 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:36:07 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:45:01 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:45:41 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:48:20 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:48:25 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:48:37 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:49:13 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:49:47 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:49:54 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:50:54 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct  6 14:50:58 CEST 2011
+svn fetch --fetch-all
+Date: Thu Oct  6 14:59:57 CEST 2011
+help -a
+Date: Thu Oct  6 15:07:35 CEST 2011
+st
+Date: Thu Oct  6 15:28:37 CEST 2011
+help -a
+Date: Thu Oct  6 15:31:31 CEST 2011
+svn rebase
+Date: Thu Oct  6 15:52:15 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Oct  7 09:07:07 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 09:07:08 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Fri Oct  7 09:07:08 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Oct  7 09:07:08 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 09:07:08 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Fri Oct  7 09:07:08 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Oct  7 09:07:20 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 09:07:20 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Fri Oct  7 09:07:20 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Oct  7 09:07:21 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 09:07:21 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Fri Oct  7 09:07:21 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Fri Oct  7 09:07:21 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 09:07:21 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Fri Oct  7 09:07:21 CEST 2011
+co -b preview branch-72
+Date: Fri Oct  7 09:07:40 CEST 2011
+co master
+Date: Fri Oct  7 09:12:52 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Fri Oct  7 09:12:55 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Fri Oct  7 09:12:55 CEST 2011
+br -D preview
+Date: Fri Oct  7 09:12:58 CEST 2011
+br
+Date: Fri Oct  7 09:13:00 CEST 2011
+br -D rc
+Date: Fri Oct  7 09:13:05 CEST 2011
+br -D t
+Date: Fri Oct  7 09:13:06 CEST 2011
+br
+Date: Fri Oct  7 09:13:08 CEST 2011
+br -a
+Date: Fri Oct  7 09:13:09 CEST 2011
+st
+Date: Fri Oct  7 09:14:00 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:25:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:25:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:25:30 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:25:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:25:46 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:00 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:43 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:51 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:54 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:26:56 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:27:16 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:30:46 CEST 2011
+st
+Date: Fri Oct  7 09:30:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:30:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:30:58 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:31:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:31:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:31:50 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:31:51 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:31:58 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:41:40 CEST 2011
+st
+Date: Fri Oct  7 09:41:42 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:41:42 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:41:58 CEST 2011
+st
+Date: Fri Oct  7 09:42:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:42:11 CEST 2011
+add .
+Date: Fri Oct  7 09:42:13 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:42:13 CEST 2011
+st
+Date: Fri Oct  7 09:42:15 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:42:15 CEST 2011
+ci
+Date: Fri Oct  7 09:48:52 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:48:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:49:11 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:49:16 CEST 2011
+--git-dir=/usr/local/willem/git_reps/unix/.git config --get alias.ci
+Date: Fri Oct  7 09:49:16 CEST 2011
+ci --amend
+Date: Fri Oct  7 09:49:48 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:49:49 CEST 2011
+st
+Date: Fri Oct  7 09:50:40 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:50:40 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:50:49 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:25 CEST 2011
+st
+Date: Fri Oct  7 09:51:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:27 CEST 2011
+reset --soft HEAD^
+Date: Fri Oct  7 09:51:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:31 CEST 2011
+st
+Date: Fri Oct  7 09:51:32 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:32 CEST 2011
+reset HEAD diff-match-patch/diff_match_patch.pyc diff-match-patch/diff2html.pyc
+Date: Fri Oct  7 09:51:43 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:43 CEST 2011
+st
+Date: Fri Oct  7 09:51:44 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:51:44 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:53:00 CEST 2011
+reset HEAD diff-match-patch/__init__.py
+Date: Fri Oct  7 09:53:07 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:53:07 CEST 2011
+st
+Date: Fri Oct  7 09:53:10 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:53:10 CEST 2011
+reset HEAD diff-match-patch/diff_match_patch_test.py
+Date: Fri Oct  7 09:54:17 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:17 CEST 2011
+st
+Date: Fri Oct  7 09:54:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:28 CEST 2011
+st
+Date: Fri Oct  7 09:54:29 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:30 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:36 CEST 2011
+st
+Date: Fri Oct  7 09:54:37 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:54:37 CEST 2011
+ci
+Date: Fri Oct  7 09:55:33 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:55:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:55:40 CEST 2011
+st
+Date: Fri Oct  7 09:55:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:55:41 CEST 2011
+svn dcommit
+Date: Fri Oct  7 09:55:54 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 09:55:55 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:03:21 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:03:38 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:04:10 CEST 2011
+help -a
+Date: Fri Oct  7 10:05:13 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Fri Oct  7 10:07:03 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:07:03 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:08:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:08:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:08:57 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:10:46 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:10:46 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:21 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:22 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:24 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:24 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:33 CEST 2011
+st
+Date: Fri Oct  7 10:22:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:22:34 CEST 2011
+df
+Date: Fri Oct  7 10:23:34 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:23:34 CEST 2011
+ci -a
+Date: Fri Oct  7 10:24:23 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:24:24 CEST 2011
+svn dcommit
+Date: Fri Oct  7 10:24:31 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:24:31 CEST 2011
+help -a
+Date: Fri Oct  7 10:24:55 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:30:03 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 10:30:12 CEST 2011
+st
+Date: Fri Oct  7 10:57:04 CEST 2011
+df
+Date: Fri Oct  7 10:57:55 CEST 2011
+st
+Date: Fri Oct  7 10:57:56 CEST 2011
+co gwt-project/src/nl/base/gwt/client/email/EmailClientController.java gwt-project/src/nl/base/gwt/client/util/ServerCommunication.java
+Date: Fri Oct  7 10:58:05 CEST 2011
+svnup
+Date: Fri Oct  7 10:59:21 CEST 2011
+st
+Date: Fri Oct  7 11:30:38 CEST 2011
+df
+Date: Fri Oct  7 11:35:47 CEST 2011
+st
+Date: Fri Oct  7 11:35:48 CEST 2011
+co gwt-project/src/nl/base/gwt/client/DataSource.java
+Date: Fri Oct  7 11:35:52 CEST 2011
+df
+Date: Fri Oct  7 11:36:22 CEST 2011
+st
+Date: Fri Oct  7 11:36:23 CEST 2011
+co java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Fri Oct  7 11:36:26 CEST 2011
+df
+Date: Fri Oct  7 11:36:33 CEST 2011
+st
+Date: Fri Oct  7 11:37:57 CEST 2011
+add java-src/nl/base/rela/entities/ChatService.java
+Date: Fri Oct  7 11:38:14 CEST 2011
+rm java-src/nl/base/rela/entities/Chat.java
+Date: Fri Oct  7 11:38:19 CEST 2011
+st
+Date: Fri Oct  7 11:38:20 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 11:38:30 CEST 2011
+add --patch java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 11:38:49 CEST 2011
+st
+Date: Fri Oct  7 11:38:52 CEST 2011
+df java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 11:38:56 CEST 2011
+add --patch java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 11:39:11 CEST 2011
+st
+Date: Fri Oct  7 11:39:13 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Fri Oct  7 11:39:16 CEST 2011
+diff --cached
+Date: Fri Oct  7 11:39:39 CEST 2011
+ci
+Date: Fri Oct  7 11:42:18 CEST 2011
+st
+Date: Fri Oct  7 12:07:13 CEST 2011
+svnup
+Date: Fri Oct  7 12:07:28 CEST 2011
+stash
+Date: Fri Oct  7 12:07:36 CEST 2011
+svn dcommit --dry-run
+Date: Fri Oct  7 12:07:39 CEST 2011
+svn dcommit -e
+Date: Fri Oct  7 12:08:01 CEST 2011
+stash pop
+Date: Fri Oct  7 12:08:05 CEST 2011
+st
+Date: Fri Oct  7 12:08:10 CEST 2011
+st
+Date: Fri Oct  7 12:10:19 CEST 2011
+diff
+Date: Fri Oct  7 12:10:27 CEST 2011
+diff --stat -p
+Date: Fri Oct  7 12:11:25 CEST 2011
+st
+Date: Fri Oct  7 12:11:39 CEST 2011
+add java-src/nl/base/rela/entities/ChatService.java java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Fri Oct  7 12:11:48 CEST 2011
+df
+Date: Fri Oct  7 12:11:51 CEST 2011
+add java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java java-src/nl/base/rela/entities/ChatEntity.java
+Date: Fri Oct  7 12:11:59 CEST 2011
+st
+Date: Fri Oct  7 12:12:00 CEST 2011
+diff --cached --stat -p
+Date: Fri Oct  7 12:13:05 CEST 2011
+st
+Date: Fri Oct  7 12:13:06 CEST 2011
+st
+Date: Fri Oct  7 12:20:42 CEST 2011
+df java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 12:20:48 CEST 2011
+add java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 12:20:52 CEST 2011
+st
+Date: Fri Oct  7 12:20:53 CEST 2011
+ci
+Date: Fri Oct  7 12:23:34 CEST 2011
+svn dcommit -e
+Date: Fri Oct  7 12:24:04 CEST 2011
+st
+Date: Fri Oct  7 12:25:54 CEST 2011
+add java-src/nl/base/rela/entities/ChatService.java
+Date: Fri Oct  7 12:26:00 CEST 2011
+diff --cached
+Date: Fri Oct  7 12:26:04 CEST 2011
+ci
+Date: Fri Oct  7 12:26:41 CEST 2011
+st
+Date: Fri Oct  7 12:30:02 CEST 2011
+diff --cached java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 12:30:14 CEST 2011
+diff java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 12:30:18 CEST 2011
+st
+Date: Fri Oct  7 12:30:53 CEST 2011
+st
+Date: Fri Oct  7 12:31:16 CEST 2011
+add java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 12:31:22 CEST 2011
+st
+Date: Fri Oct  7 12:31:23 CEST 2011
+st
+Date: Fri Oct  7 12:31:29 CEST 2011
+st
+Date: Fri Oct  7 12:31:35 CEST 2011
+help -a
+Date: Fri Oct  7 12:32:15 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:14 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:16 CEST 2011
+st
+Date: Fri Oct  7 12:34:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:23 CEST 2011
+st
+Date: Fri Oct  7 12:34:24 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:25 CEST 2011
+df
+Date: Fri Oct  7 12:34:26 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:26 CEST 2011
+ci -a
+Date: Fri Oct  7 12:34:50 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:34:50 CEST 2011
+svn dcommit
+Date: Fri Oct  7 12:35:06 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:35:07 CEST 2011
+svn dcommit
+Date: Fri Oct  7 12:36:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:36:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 12:36:22 CEST 2011
+help -a
+Date: Fri Oct  7 12:36:44 CEST 2011
+lg --grep=review:
+Date: Fri Oct  7 12:51:16 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:00:26 CEST 2011
+lg --grep=Review
+Date: Fri Oct  7 13:01:30 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:39 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:40 CEST 2011
+st
+Date: Fri Oct  7 13:01:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:41 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:46 CEST 2011
+st
+Date: Fri Oct  7 13:01:47 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:48 CEST 2011
+df
+Date: Fri Oct  7 13:01:50 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:50 CEST 2011
+diff
+Date: Fri Oct  7 13:01:54 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:01:54 CEST 2011
+diff --stat -p
+Date: Fri Oct  7 13:02:01 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:02:02 CEST 2011
+ci -a
+Date: Fri Oct  7 13:02:45 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:02:46 CEST 2011
+svn dcommit
+Date: Fri Oct  7 13:02:51 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:02:51 CEST 2011
+st
+Date: Fri Oct  7 13:02:53 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:02:53 CEST 2011
+st
+Date: Fri Oct  7 13:02:56 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:03:08 CEST 2011
+help -a
+Date: Fri Oct  7 13:14:18 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:12 CEST 2011
+st
+Date: Fri Oct  7 13:21:13 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:13 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:18 CEST 2011
+st
+Date: Fri Oct  7 13:21:19 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:19 CEST 2011
+df
+Date: Fri Oct  7 13:21:22 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:22 CEST 2011
+diff
+Date: Fri Oct  7 13:21:27 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:27 CEST 2011
+st
+Date: Fri Oct  7 13:21:28 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:21:29 CEST 2011
+ci -a
+Date: Fri Oct  7 13:23:04 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:23:04 CEST 2011
+svn dcommit
+Date: Fri Oct  7 13:23:07 CEST 2011
+rev-parse --git-dir
+Date: Fri Oct  7 13:23:08 CEST 2011
+st
+Date: Fri Oct  7 13:23:10 CEST 2011
+svnup
+Date: Fri Oct  7 13:27:38 CEST 2011
+st
+Date: Fri Oct  7 13:34:19 CEST 2011
+st
+Date: Fri Oct  7 13:34:37 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 13:34:46 CEST 2011
+st
+Date: Fri Oct  7 13:34:59 CEST 2011
+add java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 13:35:04 CEST 2011
+rm java-src/nl/base/servlets/comet/EntityChangeAction.java
+Date: Fri Oct  7 13:35:09 CEST 2011
+st
+Date: Fri Oct  7 13:35:10 CEST 2011
+df
+Date: Fri Oct  7 13:35:21 CEST 2011
+diff --cached --stat -p
+Date: Fri Oct  7 13:35:26 CEST 2011
+st
+Date: Fri Oct  7 13:35:28 CEST 2011
+ci
+Date: Fri Oct  7 13:36:15 CEST 2011
+st
+Date: Fri Oct  7 13:37:24 CEST 2011
+st
+Date: Fri Oct  7 14:06:16 CEST 2011
+add java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 14:06:22 CEST 2011
+add java-src/nl/base/servlets/comet/EntityChangeAction.java
+Date: Fri Oct  7 14:06:31 CEST 2011
+st
+Date: Fri Oct  7 14:06:32 CEST 2011
+df
+Date: Fri Oct  7 14:06:41 CEST 2011
+st
+Date: Fri Oct  7 14:06:41 CEST 2011
+diff --cached --stat -p
+Date: Fri Oct  7 14:08:18 CEST 2011
+st
+Date: Fri Oct  7 14:08:20 CEST 2011
+ci
+Date: Fri Oct  7 14:09:54 CEST 2011
+svnci
+Date: Fri Oct  7 14:10:09 CEST 2011
+st
+Date: Fri Oct  7 15:07:26 CEST 2011
+st
+Date: Fri Oct  7 15:18:40 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 15:18:52 CEST 2011
+st
+Date: Fri Oct  7 15:18:53 CEST 2011
+st
+Date: Fri Oct  7 15:22:21 CEST 2011
+df java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 15:22:34 CEST 2011
+diff --stat -p java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 15:24:26 CEST 2011
+st
+Date: Fri Oct  7 15:24:27 CEST 2011
+add java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 15:24:32 CEST 2011
+st
+Date: Fri Oct  7 15:24:33 CEST 2011
+df java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 15:24:37 CEST 2011
+st
+Date: Fri Oct  7 15:24:44 CEST 2011
+df java-src/nl/base/rela/entities/ChatService.java
+Date: Fri Oct  7 15:24:47 CEST 2011
+co java-src/nl/base/rela/entities/ChatService.java
+Date: Fri Oct  7 15:24:51 CEST 2011
+st
+Date: Fri Oct  7 15:24:53 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 15:24:59 CEST 2011
+st
+Date: Fri Oct  7 15:25:00 CEST 2011
+ci
+Date: Fri Oct  7 15:25:52 CEST 2011
+svnci
+Date: Fri Oct  7 15:26:10 CEST 2011
+st
+Date: Fri Oct  7 15:26:53 CEST 2011
+df java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 15:26:58 CEST 2011
+co java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java
+Date: Fri Oct  7 15:27:00 CEST 2011
+st
+Date: Fri Oct  7 15:27:01 CEST 2011
+df java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 15:27:05 CEST 2011
+co java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 15:27:08 CEST 2011
+st
+Date: Fri Oct  7 15:27:12 CEST 2011
+st
+Date: Fri Oct  7 15:27:42 CEST 2011
+add java-src/nl/base/servlets/comet/EntityChangeAction.java java-src/nl/base/servlets/comet/EntityChangeService.java
+Date: Fri Oct  7 15:27:54 CEST 2011
+st
+Date: Fri Oct  7 15:27:55 CEST 2011
+add java-src/nl/base/bootstrap/CommonFrameworkBootStrap.java java-src/nl/base/rela/entities/ChatEntity.java java-src/nl/base/rela/entities/ChatService.java java-src/nl/base/servlets/ConfigInit.java
+Date: Fri Oct  7 15:28:07 CEST 2011
+diff --stat -p --cached
+Date: Fri Oct  7 15:28:27 CEST 2011
+ci
+Date: Fri Oct  7 15:28:52 CEST 2011
+st
+Date: Fri Oct  7 15:29:04 CEST 2011
+svn dcommit -e
+Date: Fri Oct  7 15:29:15 CEST 2011
+stash pop
+Date: Fri Oct  7 15:29:18 CEST 2011
+df gwt-project/src/nl/base/gwt/client/comet/CometClient.java
+Date: Fri Oct  7 15:34:36 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/comet/CometClient.java
+Date: Fri Oct  7 15:36:06 CEST 2011
+st
+Date: Fri Oct  7 15:36:11 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Fri Oct  7 15:37:35 CEST 2011
+st
+Date: Fri Oct  7 15:40:17 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Fri Oct  7 15:40:21 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Fri Oct  7 15:40:21 CEST 2011
+df gwt-project/
+Date: Fri Oct  7 15:40:26 CEST 2011
+st
+Date: Fri Oct  7 15:40:55 CEST 2011
+add gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Fri Oct  7 15:41:01 CEST 2011
+st
+Date: Fri Oct  7 15:41:02 CEST 2011
+diff --cached --stat -p
+Date: Fri Oct  7 15:41:24 CEST 2011
+st
+Date: Fri Oct  7 15:41:25 CEST 2011
+ci
+Date: Fri Oct  7 15:43:03 CEST 2011
+svnci
+Date: Fri Oct  7 15:44:11 CEST 2011
+svnup
+Date: Fri Oct  7 16:11:02 CEST 2011
+st
+Date: Mon Oct 10 09:05:36 CEST 2011
+st
+Date: Mon Oct 10 09:05:58 CEST 2011
+svn fetch --fetch-all
+Date: Mon Oct 10 09:07:15 CEST 2011
+help -a
+Date: Mon Oct 10 09:29:24 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:22:38 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:22:39 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:22:45 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:22:46 CEST 2011
+st
+Date: Mon Oct 10 10:22:56 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:22:56 CEST 2011
+diff --patch --stat
+Date: Mon Oct 10 10:23:23 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:23:23 CEST 2011
+st
+Date: Mon Oct 10 10:23:24 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:23:24 CEST 2011
+add commit-email-google.sh
+Date: Mon Oct 10 10:23:28 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:23:28 CEST 2011
+ci
+Date: Mon Oct 10 10:25:32 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:25:33 CEST 2011
+svn dcommit
+Date: Mon Oct 10 10:25:44 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:25:45 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:39:43 CEST 2011
+st
+Date: Mon Oct 10 10:39:44 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:39:44 CEST 2011
+diff --patch --stat
+Date: Mon Oct 10 10:39:57 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:39:57 CEST 2011
+ci -a
+Date: Mon Oct 10 10:41:09 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:41:09 CEST 2011
+svn dcommit
+Date: Mon Oct 10 10:41:12 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:41:13 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:51:40 CEST 2011
+df
+Date: Mon Oct 10 10:51:41 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:51:41 CEST 2011
+ci -a
+Date: Mon Oct 10 10:53:38 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:38 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:41 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:43 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:46 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:52 CEST 2011
+svn dcommit
+Date: Mon Oct 10 10:53:55 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 10:53:55 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:03:15 CEST 2011
+diff
+Date: Mon Oct 10 11:03:25 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:03:25 CEST 2011
+ci -a
+Date: Mon Oct 10 11:04:25 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:04:25 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:04:51 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:04:53 CEST 2011
+--git-dir=/usr/local/willem/git_reps/unix/.git config --get alias.ci
+Date: Mon Oct 10 11:04:53 CEST 2011
+ci --amend
+Date: Mon Oct 10 11:05:05 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:05:05 CEST 2011
+svn dcommit
+Date: Mon Oct 10 11:05:08 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:05:08 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:05:33 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:22:56 CEST 2011
+st
+Date: Mon Oct 10 11:22:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:22:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:59:14 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:59:16 CEST 2011
+st
+Date: Mon Oct 10 11:59:17 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:59:17 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 11:59:43 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:59:43 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 11:59:45 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:00:34 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:00:34 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:00:36 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:01:13 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:01:13 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:01:14 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:02:02 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:02:02 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:02:04 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:02:12 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:02:12 CEST 2011
+ci -a
+Date: Mon Oct 10 12:03:05 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:03:05 CEST 2011
+svn dcommit
+Date: Mon Oct 10 12:03:09 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:03:09 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:03:23 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:05:14 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:05:24 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:05:24 CEST 2011
+ci -a
+Date: Mon Oct 10 12:06:18 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:06:18 CEST 2011
+svn dcommit
+Date: Mon Oct 10 12:06:21 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:06:21 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:43:36 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 12:43:39 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:43:39 CEST 2011
+ci -a
+Date: Mon Oct 10 12:44:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:44:58 CEST 2011
+svn dcommit
+Date: Mon Oct 10 12:45:02 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:45:02 CEST 2011
+help -a
+Date: Mon Oct 10 12:57:21 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 12:57:55 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:20:05 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 13:20:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:20:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:21:06 CEST 2011
+diff --stat -p
+Date: Mon Oct 10 13:21:11 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:21:11 CEST 2011
+ci -a
+Date: Mon Oct 10 13:21:58 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:21:59 CEST 2011
+svn dcommit
+Date: Mon Oct 10 13:22:02 CEST 2011
+rev-parse --git-dir
+Date: Mon Oct 10 13:22:02 CEST 2011
+st
+Date: Mon Oct 10 13:49:39 CEST 2011
+df
+Date: Mon Oct 10 13:49:41 CEST 2011
+stash show
+Date: Mon Oct 10 13:50:52 CEST 2011
+stash show -p
+Date: Mon Oct 10 13:51:11 CEST 2011
+st
+Date: Mon Oct 10 13:51:13 CEST 2011
+help -a
+Date: Tue Oct 11 09:43:06 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:49:40 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:49:44 CEST 2011
+diff
+Date: Tue Oct 11 09:50:08 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:50:08 CEST 2011
+ci -a
+Date: Tue Oct 11 09:51:17 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:51:19 CEST 2011
+svn dcommit
+Date: Tue Oct 11 09:51:29 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:51:29 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:57:24 CEST 2011
+diff
+Date: Tue Oct 11 09:57:27 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:57:27 CEST 2011
+ci -a
+Date: Tue Oct 11 09:59:01 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:59:02 CEST 2011
+svn dcommit
+Date: Tue Oct 11 09:59:06 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 09:59:06 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct 11 10:06:09 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:06:09 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:14:29 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:14:29 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:14:31 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:14:32 CEST 2011
+help -a
+Date: Tue Oct 11 10:15:16 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:19:10 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:19:11 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:19:25 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:20:03 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:20:52 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:20:55 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:21:49 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:22:00 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:22:40 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:22:46 CEST 2011
+st
+Date: Tue Oct 11 10:22:47 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:22:47 CEST 2011
+diff
+Date: Tue Oct 11 10:22:49 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:22:49 CEST 2011
+ci -a
+Date: Tue Oct 11 10:23:52 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:23:53 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:24:08 CEST 2011
+svn dcommit
+Date: Tue Oct 11 10:24:13 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 10:24:13 CEST 2011
+st
+Date: Tue Oct 11 10:43:58 CEST 2011
+df
+Date: Tue Oct 11 11:07:42 CEST 2011
+df
+Date: Tue Oct 11 11:43:04 CEST 2011
+st
+Date: Tue Oct 11 11:43:07 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/GridCache.java
+Date: Tue Oct 11 11:43:14 CEST 2011
+co gwt-project/src/nl/base/gwt/client/grid/GridCache.java
+Date: Tue Oct 11 11:43:16 CEST 2011
+st
+Date: Tue Oct 11 11:43:17 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CachedSearchResult.java
+Date: Tue Oct 11 11:43:25 CEST 2011
+co gwt-project/src/nl/base/gwt/client/grid/CachedSearchResult.java
+Date: Tue Oct 11 11:43:28 CEST 2011
+st
+Date: Tue Oct 11 11:43:29 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:45:45 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:46:02 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:46:16 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:47:00 CEST 2011
+add gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:47:03 CEST 2011
+add --patch gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:47:21 CEST 2011
+st
+Date: Tue Oct 11 11:47:23 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Tue Oct 11 11:47:25 CEST 2011
+df --cached
+Date: Tue Oct 11 11:47:28 CEST 2011
+ci
+Date: Tue Oct 11 11:50:45 CEST 2011
+st
+Date: Tue Oct 11 11:52:41 CEST 2011
+add --patch gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 11:52:53 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Tue Oct 11 11:52:54 CEST 2011
+df --cached
+Date: Tue Oct 11 11:52:55 CEST 2011
+ci
+Date: Tue Oct 11 11:54:50 CEST 2011
+svn dcommit -e
+Date: Tue Oct 11 11:56:13 CEST 2011
+stash pop
+Date: Tue Oct 11 11:56:20 CEST 2011
+st
+Date: Tue Oct 11 12:12:25 CEST 2011
+df java-src/nl/base/rela/entities/ChatService.java
+Date: Tue Oct 11 12:12:30 CEST 2011
+df java-src/nl/base/rela/entities/ChatService.java
+Date: Tue Oct 11 12:12:50 CEST 2011
+ci java-src/nl/base/rela/entities/ChatService.java
+Date: Tue Oct 11 12:13:27 CEST 2011
+svnci
+Date: Tue Oct 11 12:13:37 CEST 2011
+help -a
+Date: Tue Oct 11 12:18:55 CEST 2011
+help -a
+Date: Tue Oct 11 12:26:53 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:46:01 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:46:05 CEST 2011
+st
+Date: Tue Oct 11 12:46:07 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:46:07 CEST 2011
+df
+Date: Tue Oct 11 12:46:08 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:46:08 CEST 2011
+ci -a
+Date: Tue Oct 11 12:48:18 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:48:18 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:48:22 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:48:24 CEST 2011
+--git-dir=/usr/local/willem/git_reps/unix/.git config --get alias.ci
+Date: Tue Oct 11 12:48:24 CEST 2011
+ci --amend
+Date: Tue Oct 11 12:48:30 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:48:31 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:49:11 CEST 2011
+svn dcommit
+Date: Tue Oct 11 12:49:17 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:49:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct 11 12:56:13 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:56:14 CEST 2011
+lg --author=WILLEM
+Date: Tue Oct 11 12:56:17 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct 11 12:56:21 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:56:21 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 12:56:42 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:49:07 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:54:38 CEST 2011
+df
+Date: Tue Oct 11 13:55:41 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:55:41 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:55:44 CEST 2011
+df
+Date: Tue Oct 11 13:56:15 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:56:15 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:56:16 CEST 2011
+df
+Date: Tue Oct 11 13:59:25 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:59:25 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:59:26 CEST 2011
+df
+Date: Tue Oct 11 13:59:52 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:59:52 CEST 2011
+st
+Date: Tue Oct 11 13:59:54 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 13:59:54 CEST 2011
+ci -a
+Date: Tue Oct 11 14:02:08 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 14:02:08 CEST 2011
+svn dcommit
+Date: Tue Oct 11 14:02:13 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 14:02:13 CEST 2011
+st
+Date: Tue Oct 11 14:16:59 CEST 2011
+add java-src/nl/base/rela/entities/ChatService.java
+Date: Tue Oct 11 14:17:05 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Tue Oct 11 14:17:07 CEST 2011
+df --cached
+Date: Tue Oct 11 14:17:07 CEST 2011
+st
+Date: Tue Oct 11 14:17:16 CEST 2011
+ci
+Date: Tue Oct 11 14:17:51 CEST 2011
+reset --soft HEAD^
+Date: Tue Oct 11 14:25:37 CEST 2011
+st
+Date: Tue Oct 11 14:25:38 CEST 2011
+add java-src/nl/base/rela/entities/ChatService.java java-src/nl/base/servlets/comet/ClientConnectionComet.java
+Date: Tue Oct 11 14:25:47 CEST 2011
+diff --cached
+Date: Tue Oct 11 14:26:01 CEST 2011
+st
+Date: Tue Oct 11 14:26:02 CEST 2011
+ci
+Date: Tue Oct 11 14:26:46 CEST 2011
+svnci
+Date: Tue Oct 11 14:27:51 CEST 2011
+help -a
+Date: Tue Oct 11 14:45:32 CEST 2011
+diff
+Date: Tue Oct 11 15:54:51 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:54:57 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:55:00 CEST 2011
+diff
+Date: Tue Oct 11 15:55:01 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:55:01 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:55:37 CEST 2011
+diff
+Date: Tue Oct 11 15:55:38 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:55:38 CEST 2011
+ci -a
+Date: Tue Oct 11 15:57:03 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:57:04 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:57:19 CEST 2011
+svn dcommit
+Date: Tue Oct 11 15:57:24 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 15:57:24 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 16:14:01 CEST 2011
+help log
+Date: Tue Oct 11 16:14:40 CEST 2011
+help log
+Date: Tue Oct 11 16:15:43 CEST 2011
+help log
+Date: Tue Oct 11 16:15:52 CEST 2011
+help log
+Date: Tue Oct 11 16:17:09 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct 11 16:20:25 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 16:20:25 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Oct 11 16:25:24 CEST 2011
+rev-parse --git-dir
+Date: Tue Oct 11 16:25:24 CEST 2011
+st
+Date: Tue Oct 11 16:36:12 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 16:36:20 CEST 2011
+st
+Date: Tue Oct 11 17:20:36 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 17:20:55 CEST 2011
+st
+Date: Tue Oct 11 17:21:00 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 17:21:03 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 17:24:03 CEST 2011
+st
+Date: Tue Oct 11 17:33:11 CEST 2011
+reset --soft HEAD^
+Date: Tue Oct 11 17:33:16 CEST 2011
+st
+Date: Tue Oct 11 17:34:29 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 17:34:33 CEST 2011
+add gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 17:34:36 CEST 2011
+st
+Date: Tue Oct 11 17:34:38 CEST 2011
+ci
+Date: Tue Oct 11 17:35:13 CEST 2011
+st
+Date: Tue Oct 11 17:35:20 CEST 2011
+st
+Date: Tue Oct 11 17:37:30 CEST 2011
+svn rebase
+Date: Tue Oct 11 17:37:36 CEST 2011
+svn dcommit --dry-run
+Date: Tue Oct 11 17:37:39 CEST 2011
+svn dcommit -e
+Date: Tue Oct 11 17:38:06 CEST 2011
+st
+Date: Tue Oct 11 18:24:51 CEST 2011
+stash pop
+Date: Tue Oct 11 18:24:58 CEST 2011
+df
+Date: Tue Oct 11 18:25:00 CEST 2011
+st
+Date: Tue Oct 11 18:34:11 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 18:34:22 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 18:34:29 CEST 2011
+st
+Date: Tue Oct 11 18:34:36 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 18:34:40 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Tue Oct 11 18:35:36 CEST 2011
+svnci
+Date: Tue Oct 11 18:35:53 CEST 2011
+st
+Date: Wed Oct 12 09:17:47 CEST 2011
+st
+Date: Wed Oct 12 09:27:11 CEST 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Wed Oct 12 09:27:16 CEST 2011
+ci gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Wed Oct 12 09:28:51 CEST 2011
+svnci
+Date: Wed Oct 12 09:29:09 CEST 2011
+st
+Date: Wed Oct 12 09:32:27 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:32:32 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:32:33 CEST 2011
+df .classpath
+Date: Wed Oct 12 09:32:33 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:32:40 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:32:40 CEST 2011
+df gwt-project/
+Date: Wed Oct 12 09:32:40 CEST 2011
+st
+Date: Wed Oct 12 09:34:42 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:34:43 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:34:43 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:34:47 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:34:47 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:34:48 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:34:48 CEST 2011
+df gwt-project/.classpath
+Date: Wed Oct 12 09:34:48 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:38:50 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:38:59 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:19 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:52 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:39:54 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:40:02 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:40:03 CEST 2011
+st
+Date: Wed Oct 12 09:40:59 CEST 2011
+st
+Date: Wed Oct 12 09:43:55 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:43:57 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:43:57 CEST 2011
+df .classpath
+Date: Wed Oct 12 09:43:58 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:44:09 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:44:09 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 09:44:11 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 09:44:12 CEST 2011
+df gwt-project/
+Date: Wed Oct 12 09:44:13 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:44:25 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:44:25 CEST 2011
+st
+Date: Wed Oct 12 09:59:26 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 09:59:26 CEST 2011
+st
+Date: Wed Oct 12 09:59:29 CEST 2011
+st
+Date: Wed Oct 12 10:02:15 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:21 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:21 CEST 2011
+df .classpath
+Date: Wed Oct 12 10:02:22 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:26 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:26 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:27 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:27 CEST 2011
+df gwt-project/build.xml
+Date: Wed Oct 12 10:02:27 CEST 2011
+st
+Date: Wed Oct 12 10:02:30 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:34 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:34 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:36 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:36 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:37 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:37 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:38 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:38 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:39 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:39 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:41 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:41 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:02:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:02:42 CEST 2011
+df gwt-project/src/nl/base/gwt/crm.gwt.xml
+Date: Wed Oct 12 10:02:43 CEST 2011
+st
+Date: Wed Oct 12 10:07:22 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:07:25 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:07:25 CEST 2011
+df .classpath
+Date: Wed Oct 12 10:07:26 CEST 2011
+st
+Date: Wed Oct 12 10:08:43 CEST 2011
+df
+Date: Wed Oct 12 10:08:58 CEST 2011
+st
+Date: Wed Oct 12 10:08:59 CEST 2011
+add gwt-project/src-shared/ gwt-project/src/nl/base/gwt/shared
+Date: Wed Oct 12 10:09:09 CEST 2011
+st
+Date: Wed Oct 12 10:09:11 CEST 2011
+add gwt-project/src/nl/base/gwt/client/comet/CometMessage.java .classpath gwt-project/src/nl/base/gwt/crm.gwt.xml java-src/nl/base/servlets/comet/CometMessage.java
+Date: Wed Oct 12 10:09:37 CEST 2011
+st
+Date: Wed Oct 12 10:09:38 CEST 2011
+df
+Date: Wed Oct 12 10:09:58 CEST 2011
+st
+Date: Wed Oct 12 10:10:00 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:10:04 CEST 2011
+df --cached
+Date: Wed Oct 12 10:10:35 CEST 2011
+st
+Date: Wed Oct 12 10:10:36 CEST 2011
+st
+Date: Wed Oct 12 10:16:50 CEST 2011
+df build.xml
+Date: Wed Oct 12 10:16:54 CEST 2011
+st
+Date: Wed Oct 12 10:18:44 CEST 2011
+st
+Date: Wed Oct 12 10:18:57 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:19:00 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:19:00 CEST 2011
+df build.xml
+Date: Wed Oct 12 10:19:01 CEST 2011
+add build.xml
+Date: Wed Oct 12 10:19:03 CEST 2011
+st
+Date: Wed Oct 12 10:19:14 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 10:19:19 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 10:19:19 CEST 2011
+df gwt-project/
+Date: Wed Oct 12 10:19:20 CEST 2011
+st
+Date: Wed Oct 12 10:19:22 CEST 2011
+st
+Date: Wed Oct 12 10:19:47 CEST 2011
+diff --cached --stat -p
+Date: Wed Oct 12 10:19:57 CEST 2011
+diff --cached --stat -p
+Date: Wed Oct 12 10:21:48 CEST 2011
+st
+Date: Wed Oct 12 10:21:48 CEST 2011
+diff --cached --stat -p
+Date: Wed Oct 12 10:22:01 CEST 2011
+ci
+Date: Wed Oct 12 10:26:06 CEST 2011
+stash
+Date: Wed Oct 12 10:26:30 CEST 2011
+svn dcommit -e
+Date: Wed Oct 12 10:27:09 CEST 2011
+stash pop
+Date: Wed Oct 12 10:27:16 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Wed Oct 12 10:28:48 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 10:28:48 CEST 2011
+st
+Date: Wed Oct 12 10:41:46 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 10:46:17 CEST 2011
+st
+Date: Wed Oct 12 10:52:55 CEST 2011
+stash
+Date: Wed Oct 12 10:53:00 CEST 2011
+revert 4837528a6d61c31543050b016a25fb1795fc46e8
+Date: Wed Oct 12 10:53:44 CEST 2011
+st
+Date: Wed Oct 12 10:53:45 CEST 2011
+svn dcommit -e
+Date: Wed Oct 12 10:54:35 CEST 2011
+st
+Date: Wed Oct 12 10:55:40 CEST 2011
+st
+Date: Wed Oct 12 11:42:52 CEST 2011
+revert c6e6df74c86384fb5f393786664f265176747adc
+Date: Wed Oct 12 11:43:11 CEST 2011
+st
+Date: Wed Oct 12 11:43:12 CEST 2011
+help -a
+Date: Wed Oct 12 11:43:15 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 11:43:15 CEST 2011
+reset --soft HEAD^
+Date: Wed Oct 12 11:43:19 CEST 2011
+st
+Date: Wed Oct 12 11:43:21 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 11:43:25 CEST 2011
+st
+Date: Wed Oct 12 11:44:17 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:45:09 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:45:10 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:45:13 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:45:25 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:46:25 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:47:50 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:47:59 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:48:53 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:48:57 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:51:35 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:53:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 11:53:15 CEST 2011
+st
+Date: Wed Oct 12 12:00:16 CEST 2011
+df gwt-project/src/nl/base/gwt/crm.gwt.xml
+Date: Wed Oct 12 12:00:23 CEST 2011
+add gwt-project/src/nl/base/gwt/crm.gwt.xml
+Date: Wed Oct 12 12:00:25 CEST 2011
+st
+Date: Wed Oct 12 12:00:27 CEST 2011
+rm gwt-project/src/nl/base/gwt/shared
+Date: Wed Oct 12 12:00:36 CEST 2011
+st
+Date: Wed Oct 12 12:00:38 CEST 2011
+df gwt-project/.classpath
+Date: Wed Oct 12 12:00:44 CEST 2011
+add gwt-project/.classpath
+Date: Wed Oct 12 12:00:46 CEST 2011
+st
+Date: Wed Oct 12 12:00:48 CEST 2011
+df gwt-project/build.xml
+Date: Wed Oct 12 12:00:53 CEST 2011
+--git-dir=.git config --get alias.lg
+Date: Wed Oct 12 12:01:05 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 12:01:05 CEST 2011
+st
+Date: Wed Oct 12 12:02:34 CEST 2011
+df build.xml
+Date: Wed Oct 12 12:02:41 CEST 2011
+add build.xml
+Date: Wed Oct 12 12:02:44 CEST 2011
+diff --cached
+Date: Wed Oct 12 12:03:02 CEST 2011
+st
+Date: Wed Oct 12 12:03:03 CEST 2011
+ci
+Date: Wed Oct 12 12:05:53 CEST 2011
+st
+Date: Wed Oct 12 12:06:04 CEST 2011
+df
+Date: Wed Oct 12 12:06:06 CEST 2011
+svnci
+Date: Wed Oct 12 12:06:16 CEST 2011
+st
+Date: Wed Oct 12 12:06:24 CEST 2011
+st
+Date: Wed Oct 12 12:07:17 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Wed Oct 12 12:07:24 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 12:07:24 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Wed Oct 12 12:07:24 CEST 2011
+co gwt-project/
+Date: Wed Oct 12 12:07:24 CEST 2011
+svn rebase
+Date: Wed Oct 12 12:07:40 CEST 2011
+st
+Date: Wed Oct 12 12:07:51 CEST 2011
+st
+Date: Wed Oct 12 12:36:31 CEST 2011
+df
+Date: Wed Oct 12 12:36:33 CEST 2011
+st
+Date: Wed Oct 12 12:48:28 CEST 2011
+stash
+Date: Wed Oct 12 12:48:31 CEST 2011
+revert 0750526ab270be419daa4126ef94311eedc87a78
+Date: Wed Oct 12 12:49:25 CEST 2011
+st
+Date: Wed Oct 12 12:49:30 CEST 2011
+st
+Date: Wed Oct 12 12:49:41 CEST 2011
+svn dcommit --dry-run
+Date: Wed Oct 12 12:49:43 CEST 2011
+svn dcommit -e
+Date: Wed Oct 12 12:50:47 CEST 2011
+st
+Date: Wed Oct 12 12:50:50 CEST 2011
+st
+Date: Wed Oct 12 12:51:27 CEST 2011
+revert 544a529a057f9771facb65505ef88d1a15ed26dd
+Date: Wed Oct 12 12:51:38 CEST 2011
+help -a
+Date: Wed Oct 12 12:51:40 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 12:51:40 CEST 2011
+reset --soft HEAD^
+Date: Wed Oct 12 12:51:43 CEST 2011
+st
+Date: Wed Oct 12 12:51:44 CEST 2011
+st
+Date: Wed Oct 12 13:19:08 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 13:21:55 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 13:21:58 CEST 2011
+st
+Date: Wed Oct 12 13:23:45 CEST 2011
+add gwt-project/src-shared/nl/base/gwt/Shared.gwt.xml
+Date: Wed Oct 12 13:23:53 CEST 2011
+df gwt-project/src/nl/base/gwt/crm.gwt.xml
+Date: Wed Oct 12 13:23:58 CEST 2011
+add gwt-project/src/nl/base/gwt/crm.gwt.xml
+Date: Wed Oct 12 13:24:02 CEST 2011
+df gwt-project/build.xml
+Date: Wed Oct 12 13:24:06 CEST 2011
+add --patch gwt-project/build.xml
+Date: Wed Oct 12 13:24:14 CEST 2011
+st
+Date: Wed Oct 12 13:24:15 CEST 2011
+diff --cached --stat -p
+Date: Wed Oct 12 13:24:47 CEST 2011
+st
+Date: Wed Oct 12 13:24:49 CEST 2011
+ci
+Date: Wed Oct 12 13:26:46 CEST 2011
+svnci
+Date: Wed Oct 12 13:28:45 CEST 2011
+st
+Date: Wed Oct 12 14:02:13 CEST 2011
+df
+Date: Wed Oct 12 14:02:15 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Wed Oct 12 14:02:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:02:18 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Wed Oct 12 14:02:18 CEST 2011
+--git-dir=.git config --get alias.co
+Date: Wed Oct 12 14:02:20 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:02:20 CEST 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Wed Oct 12 14:02:20 CEST 2011
+co gwt-project/
+Date: Wed Oct 12 14:02:21 CEST 2011
+st
+Date: Wed Oct 12 14:02:22 CEST 2011
+st
+Date: Wed Oct 12 14:02:49 CEST 2011
+st
+Date: Wed Oct 12 14:03:01 CEST 2011
+st
+Date: Wed Oct 12 14:03:12 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:03:58 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:03:58 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:00 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:24 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:25 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:26 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:37 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:39 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:41 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:48 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:04:53 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:05:02 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:05:09 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 14:05:12 CEST 2011
+st
+Date: Wed Oct 12 14:05:17 CEST 2011
+st
+Date: Wed Oct 12 14:05:26 CEST 2011
+st
+Date: Wed Oct 12 14:05:32 CEST 2011
+st
+Date: Wed Oct 12 14:05:39 CEST 2011
+st
+Date: Wed Oct 12 14:05:52 CEST 2011
+br
+Date: Wed Oct 12 14:05:54 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:00 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Wed Oct 12 14:06:00 CEST 2011
+br -D gwt-19988-project-18465
+Date: Wed Oct 12 14:06:04 CEST 2011
+br -D comet
+Date: Wed Oct 12 14:06:09 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:10 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:10 CEST 2011
+br -D conversations-12575
+Date: Wed Oct 12 14:06:11 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:16 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:16 CEST 2011
+br -D 14031-objectmedia-cyclorama-velden
+Date: Wed Oct 12 14:06:17 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:22 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:22 CEST 2011
+br -D 15335-labelsearch-new-icon-altijd-tonen
+Date: Wed Oct 12 14:06:23 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:27 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:27 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:28 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:28 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:28 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:28 CEST 2011
+br -D 17051-back-vanuit-email
+Date: Wed Oct 12 14:06:29 CEST 2011
+br
+Date: Wed Oct 12 14:06:30 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:40 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:40 CEST 2011
+br -D 17807-taxatierapport-bijlages
+Date: Wed Oct 12 14:06:41 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:45 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:45 CEST 2011
+br -D 19635-herhaalafspraken-agenda
+Date: Wed Oct 12 14:06:45 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:48 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:48 CEST 2011
+br -D prettyprint
+Date: Wed Oct 12 14:06:49 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:51 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:51 CEST 2011
+br -D revert-nieuwe-jqgrids-18944-19988
+Date: Wed Oct 12 14:06:52 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:54 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:54 CEST 2011
+br -D session-hijacking-17079
+Date: Wed Oct 12 14:06:56 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:06:59 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:06:59 CEST 2011
+br -D sorttype
+Date: Wed Oct 12 14:07:00 CEST 2011
+br -D testje
+Date: Wed Oct 12 14:07:02 CEST 2011
+br
+Date: Wed Oct 12 14:07:03 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:07 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:07 CEST 2011
+br -D 19353-unsupported-characterset-exception
+Date: Wed Oct 12 14:07:08 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:13 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:13 CEST 2011
+br -D 18180-12792-attachments-als-losse-correspondentie-stukken
+Date: Wed Oct 12 14:07:13 CEST 2011
+br
+Date: Wed Oct 12 14:07:15 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:17 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:17 CEST 2011
+br -D multiselect
+Date: Wed Oct 12 14:07:17 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:20 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:20 CEST 2011
+br -D scroll-fixen
+Date: Wed Oct 12 14:07:20 CEST 2011
+br
+Date: Wed Oct 12 14:07:21 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:25 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:25 CEST 2011
+br -D 19702-printen-mail
+Date: Wed Oct 12 14:07:26 CEST 2011
+br
+Date: Wed Oct 12 14:07:28 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:07:31 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:31 CEST 2011
+br -D basealert-23961
+Date: Wed Oct 12 14:07:32 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 14:07:41 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:42 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:43 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:45 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:07:46 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 14:08:00 CEST 2011
+rebase --abort
+Date: Wed Oct 12 14:08:01 CEST 2011
+co master
+Date: Wed Oct 12 14:08:07 CEST 2011
+st
+Date: Wed Oct 12 14:08:08 CEST 2011
+svn dcommit --dry-run
+Date: Wed Oct 12 14:08:13 CEST 2011
+br
+Date: Wed Oct 12 14:08:15 CEST 2011
+help rebase
+Date: Wed Oct 12 14:09:16 CEST 2011
+st
+Date: Wed Oct 12 14:09:17 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 14:09:18 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:09:19 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:09:20 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 14:10:17 CEST 2011
+rebase --abort
+Date: Wed Oct 12 14:10:21 CEST 2011
+st
+Date: Wed Oct 12 14:10:24 CEST 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Wed Oct 12 14:10:57 CEST 2011
+rebase --abort
+Date: Wed Oct 12 14:10:59 CEST 2011
+co master
+Date: Wed Oct 12 14:11:01 CEST 2011
+br
+Date: Wed Oct 12 14:11:03 CEST 2011
+--git-dir=.git config --get alias.br
+Date: Wed Oct 12 14:11:06 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 14:11:06 CEST 2011
+br -D 17471-inline-plaatjes-en-bijlages
+Date: Wed Oct 12 14:11:06 CEST 2011
+st
+Date: Wed Oct 12 14:11:08 CEST 2011
+br
+Date: Wed Oct 12 14:11:09 CEST 2011
+br -a
+Date: Wed Oct 12 14:11:11 CEST 2011
+stash list
+Date: Wed Oct 12 14:11:15 CEST 2011
+st
+Date: Wed Oct 12 14:11:21 CEST 2011
+df
+Date: Wed Oct 12 14:11:23 CEST 2011
+st
+Date: Wed Oct 12 14:11:27 CEST 2011
+co .
+Date: Wed Oct 12 14:11:33 CEST 2011
+st
+Date: Wed Oct 12 14:11:34 CEST 2011
+co .
+Date: Wed Oct 12 14:11:40 CEST 2011
+st
+Date: Wed Oct 12 14:11:41 CEST 2011
+st
+Date: Wed Oct 12 14:11:50 CEST 2011
+co .
+Date: Wed Oct 12 14:11:54 CEST 2011
+st
+Date: Wed Oct 12 14:11:55 CEST 2011
+st
+Date: Wed Oct 12 14:12:00 CEST 2011
+stash list
+Date: Wed Oct 12 14:12:05 CEST 2011
+co .
+Date: Wed Oct 12 14:12:09 CEST 2011
+stash list
+Date: Wed Oct 12 14:12:12 CEST 2011
+co .
+Date: Wed Oct 12 14:12:20 CEST 2011
+st
+Date: Wed Oct 12 14:12:21 CEST 2011
+stash drop
+Date: Wed Oct 12 14:12:22 CEST 2011
+stash pop
+Date: Wed Oct 12 14:12:25 CEST 2011
+st
+Date: Wed Oct 12 14:12:26 CEST 2011
+df
+Date: Wed Oct 12 14:12:28 CEST 2011
+stash list
+Date: Wed Oct 12 14:12:31 CEST 2011
+stash show
+Date: Wed Oct 12 14:12:33 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:12:42 CEST 2011
+stash drop
+Date: Wed Oct 12 14:12:44 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:12:50 CEST 2011
+stash drop
+Date: Wed Oct 12 14:12:52 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:12:55 CEST 2011
+stash drop
+Date: Wed Oct 12 14:12:56 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:12:59 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:00 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:01 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:12 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:20 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:21 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:25 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:26 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:29 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:30 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:32 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:35 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:41 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:48 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:54 CEST 2011
+stash drop
+Date: Wed Oct 12 14:13:55 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:13:57 CEST 2011
+stash drop
+Date: Wed Oct 12 14:14:04 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:14:36 CEST 2011
+stash drop
+Date: Wed Oct 12 14:14:38 CEST 2011
+stash show -p
+Date: Wed Oct 12 14:14:44 CEST 2011
+stash drop
+Date: Wed Oct 12 14:14:45 CEST 2011
+stash
+Date: Wed Oct 12 14:14:49 CEST 2011
+stash pop
+Date: Wed Oct 12 14:14:53 CEST 2011
+stash list
+Date: Wed Oct 12 14:14:55 CEST 2011
+st
+Date: Wed Oct 12 14:54:34 CEST 2011
+st
+Date: Wed Oct 12 14:54:37 CEST 2011
+st
+Date: Wed Oct 12 16:19:49 CEST 2011
+co -b inline-plaatjes
+Date: Wed Oct 12 16:20:06 CEST 2011
+st
+Date: Wed Oct 12 16:20:15 CEST 2011
+stash --patch
+Date: Wed Oct 12 16:21:32 CEST 2011
+st
+Date: Wed Oct 12 16:21:33 CEST 2011
+co master
+Date: Wed Oct 12 16:21:35 CEST 2011
+st
+Date: Wed Oct 12 16:46:45 CEST 2011
+df java-src/nl/base/servlets/login/FalseLoginCounter.java
+Date: Wed Oct 12 16:46:49 CEST 2011
+co java-src/nl/base/servlets/login/FalseLoginCounter.java
+Date: Wed Oct 12 16:46:53 CEST 2011
+st
+Date: Wed Oct 12 17:41:13 CEST 2011
+--git-dir=.git config --get alias.df
+Date: Wed Oct 12 17:41:22 CEST 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Oct 12 17:41:22 CEST 2011
+df java-src/
+Date: Wed Oct 12 17:41:34 CEST 2011
+st
+Date: Wed Oct 12 17:41:36 CEST 2011
+--git-dir=.git config --get alias.ci
+Date: Wed Oct 12 17:41:37 CEST 2011
+ci java-src/
+Date: Wed Oct 12 17:43:43 CEST 2011
+st
+Date: Wed Oct 12 17:47:41 CEST 2011
+rev-parse --git-dir
+Date: Wed Oct 12 17:48:58 CEST 2011
+rev-parse --git-dir
+Date: Thu Oct 13 09:55:46 CEST 2011
+st
+Date: Thu Oct 13 09:57:21 CEST 2011
+st
+Date: Thu Oct 13 10:28:07 CEST 2011
+df
+Date: Thu Oct 13 10:28:10 CEST 2011
+ci -a
+Date: Thu Oct 13 10:29:05 CEST 2011
+rebase -i HEAD~2
+Date: Thu Oct 13 10:31:35 CEST 2011
