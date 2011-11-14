@@ -50304,3 +50304,241 @@ df gwt-project/
 Date: Fri Nov 11 16:41:24 CET 2011
 stash
 Date: Fri Nov 11 16:41:29 CET 2011
+svn dcommit --dry-run
+Date: Fri Nov 11 16:41:39 CET 2011
+st
+Date: Fri Nov 11 16:41:42 CET 2011
+st
+Date: Fri Nov 11 16:42:48 CET 2011
+st
+Date: Fri Nov 11 16:42:59 CET 2011
+format-patch -1
+Date: Fri Nov 11 16:43:07 CET 2011
+st
+Date: Fri Nov 11 16:43:13 CET 2011
+st
+Date: Fri Nov 11 16:43:46 CET 2011
+st
+Date: Fri Nov 11 17:05:02 CET 2011
+df
+Date: Fri Nov 11 17:05:13 CET 2011
+st
+Date: Fri Nov 11 17:05:14 CET 2011
+ci -a
+Date: Fri Nov 11 17:05:33 CET 2011
+st
+Date: Fri Nov 11 17:05:39 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Fri Nov 11 17:05:45 CET 2011
+rebase -i HEAD~2
+Date: Fri Nov 11 17:06:46 CET 2011
+--git-dir=.git config --get alias.ci
+Date: Fri Nov 11 17:07:32 CET 2011
+ci --amend
+Date: Fri Nov 11 17:08:57 CET 2011
+st
+Date: Fri Nov 11 17:09:44 CET 2011
+diff master
+Date: Fri Nov 11 17:10:12 CET 2011
+help diff
+Date: Fri Nov 11 17:10:31 CET 2011
+diff master
+Date: Fri Nov 11 17:10:40 CET 2011
+help diff
+Date: Fri Nov 11 17:13:12 CET 2011
+help svn
+Date: Fri Nov 11 17:13:27 CET 2011
+help svn
+Date: Fri Nov 11 17:13:47 CET 2011
+st
+Date: Fri Nov 11 17:18:18 CET 2011
+stash show
+Date: Fri Nov 11 17:18:19 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Mon Nov 14 09:20:19 CET 2011
+rev-parse --git-dir
+Date: Mon Nov 14 09:20:19 CET 2011
+lg --author=willem --since=2011-11-01
+Date: Mon Nov 14 10:04:59 CET 2011
+st
+Date: Mon Nov 14 10:05:01 CET 2011
+co master
+Date: Mon Nov 14 10:05:21 CET 2011
+st
+Date: Mon Nov 14 10:09:26 CET 2011
+df
+Date: Mon Nov 14 10:09:28 CET 2011
+ci -a
+Date: Mon Nov 14 10:13:22 CET 2011
+svn dcommit -e
+Date: Mon Nov 14 10:13:52 CET 2011
+help -a
+Date: Mon Nov 14 10:13:54 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Mon Nov 14 10:13:54 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 10:13:55 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 10:13:55 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 10:13:56 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 10:13:56 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 10:13:57 CET 2011
+rebase master default_setting_type
+Date: Mon Nov 14 10:13:59 CET 2011
+svn dcommit --dry-run
+Date: Mon Nov 14 10:14:02 CET 2011
+stash list
+Date: Mon Nov 14 10:14:26 CET 2011
+stash show
+Date: Mon Nov 14 10:14:29 CET 2011
+stash show -p
+Date: Mon Nov 14 10:14:33 CET 2011
+--git-dir=.git stash list
+Date: Mon Nov 14 10:14:37 CET 2011
+--git-dir=.git stash list
+Date: Mon Nov 14 10:14:38 CET 2011
+stash show -p stash@{1}
+Date: Mon Nov 14 10:14:41 CET 2011
+st
+Date: Mon Nov 14 13:02:38 CET 2011
+co master
+Date: Mon Nov 14 13:02:42 CET 2011
+st
+Date: Mon Nov 14 13:02:44 CET 2011
+--git-dir=.git config --get alias.df
+Date: Mon Nov 14 13:02:56 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 13:02:56 CET 2011
+--git-dir=.git config --get alias.df
+Date: Mon Nov 14 13:02:57 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 13:02:57 CET 2011
+--git-dir=.git config --get alias.df
+Date: Mon Nov 14 13:02:58 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Mon Nov 14 13:02:58 CET 2011
+df java-src/database.xml
+Date: Mon Nov 14 13:02:58 CET 2011
+st
+Date: Mon Nov 14 13:03:01 CET 2011
+st
+Date: Mon Nov 14 13:03:11 CET 2011
+ci
+Date: Mon Nov 14 13:04:22 CET 2011
+svnci
+Date: Mon Nov 14 13:04:33 CET 2011
+st
+Date: Mon Nov 14 13:08:04 CET 2011
+add gwt-project/src-shared/nl/base/gwt/shared/EntityChange.java
+Date: Mon Nov 14 13:08:50 CET 2011
+diff --cached --stat -p
+Date: Mon Nov 14 13:08:54 CET 2011
+st
+Date: Mon Nov 14 13:09:02 CET 2011
+st
+Date: Mon Nov 14 13:09:39 CET 2011
+st
+Date: Mon Nov 14 13:09:51 CET 2011
+st
+Date: Mon Nov 14 13:14:13 CET 2011
+st
+Date: Mon Nov 14 14:01:16 CET 2011
+st
+Date: Mon Nov 14 14:17:17 CET 2011
+reset HEAD
+Date: Mon Nov 14 14:17:41 CET 2011
+st
+Date: Mon Nov 14 14:17:42 CET 2011
+df java-src/nl/base/servlets/comet/CometMessage.java
+Date: Mon Nov 14 14:17:49 CET 2011
+df java-src/nl/base/servlets/comet/CometMessage.java
+Date: Mon Nov 14 14:18:20 CET 2011
+ci java-src/nl/base/servlets/comet/CometMessage.java
+Date: Mon Nov 14 14:18:54 CET 2011
+svnci
+Date: Mon Nov 14 14:19:03 CET 2011
+st
+Date: Mon Nov 14 14:19:09 CET 2011
+stash
+Date: Mon Nov 14 14:19:12 CET 2011
+st
+Date: Mon Nov 14 14:22:20 CET 2011
+df
+Date: Mon Nov 14 14:22:21 CET 2011
+ci -a
+Date: Mon Nov 14 14:23:19 CET 2011
+svn dcommit
+Date: Mon Nov 14 14:23:26 CET 2011
+st
+Date: Mon Nov 14 14:37:51 CET 2011
+stash list
+Date: Mon Nov 14 14:49:49 CET 2011
+stash show
+Date: Mon Nov 14 14:49:51 CET 2011
+stash pop
+Date: Mon Nov 14 14:49:56 CET 2011
+st
+Date: Mon Nov 14 16:21:51 CET 2011
+df gwt-project/src/nl/base/gwt/client/util/Utils.java
+Date: Mon Nov 14 16:21:56 CET 2011
+co gwt-project/src/nl/base/gwt/client/util/Utils.java
+Date: Mon Nov 14 16:21:58 CET 2011
+st
+Date: Mon Nov 14 16:21:59 CET 2011
+df gwt-project/src/nl/base/gwt/client/DataSource.java
+Date: Mon Nov 14 16:22:06 CET 2011
+co gwt-project/src/nl/base/gwt/client/DataSource.java
+Date: Mon Nov 14 16:22:11 CET 2011
+st
+Date: Mon Nov 14 16:22:12 CET 2011
+st
+Date: Mon Nov 14 16:22:20 CET 2011
+st
+Date: Mon Nov 14 16:41:14 CET 2011
+st
+Date: Mon Nov 14 16:44:43 CET 2011
+add gwt-project/src-shared/nl/base/gwt/shared/EntityChange.java gwt-project/src/nl/base/gwt/client/util/JsonConverter.java
+Date: Mon Nov 14 16:44:52 CET 2011
+st
+Date: Mon Nov 14 16:44:54 CET 2011
+ci
+Date: Mon Nov 14 16:48:25 CET 2011
+svnci
+Date: Mon Nov 14 16:48:35 CET 2011
+df java-src/nl/base/servlets/comet/CometPipe.java
+Date: Mon Nov 14 16:49:11 CET 2011
+co java-src/nl/base/servlets/comet/CometPipe.java
+Date: Mon Nov 14 16:49:16 CET 2011
+df java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Mon Nov 14 16:49:20 CET 2011
+co java-src/nl/base/servlets/comet/TomcatAbstractCometServlet.java
+Date: Mon Nov 14 16:49:23 CET 2011
+st
+Date: Mon Nov 14 16:49:23 CET 2011
+df gwt-project/src/nl/base/gwt/client/grid/CoolGrid.java
+Date: Mon Nov 14 16:49:58 CET 2011
+st
+Date: Mon Nov 14 16:50:09 CET 2011
+df java-src/database.xml
+Date: Mon Nov 14 16:50:24 CET 2011
+df web/WEB-INF/bin/fillRealworksTestDB.sh.addendum/fillRealworksTestDB.sh.addendum.sql
+Date: Mon Nov 14 16:50:34 CET 2011
+st
+Date: Mon Nov 14 16:52:39 CET 2011
+add java-src/nl/base/servlets/comet/EntityChangeConnection.java java-src/database.xml
+Date: Mon Nov 14 16:54:47 CET 2011
+st
+Date: Mon Nov 14 16:54:48 CET 2011
+diff --cached
+Date: Mon Nov 14 16:54:52 CET 2011
+diff --cached --stat -p
+Date: Mon Nov 14 16:55:32 CET 2011
+st
+Date: Mon Nov 14 16:55:33 CET 2011
+add web/WEB-INF/bin/fillRealworksTestDB.sh.addendum/fillRealworksTestDB.sh.addendum.sql
+Date: Mon Nov 14 16:55:40 CET 2011
+diff --cached --stat -p
+Date: Mon Nov 14 16:56:00 CET 2011
