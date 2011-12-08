@@ -58136,3 +58136,803 @@ st
 Date: Tue Dec  6 15:47:43 CET 2011
 add gwt-project/src/nl/base/gwt/client/util/JsonConverter.java
 Date: Tue Dec  6 15:47:48 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Tue Dec  6 15:48:01 CET 2011
+fd --cached
+Date: Tue Dec  6 15:48:14 CET 2011
+st
+Date: Tue Dec  6 15:48:16 CET 2011
+ci
+Date: Tue Dec  6 15:49:42 CET 2011
+st
+Date: Tue Dec  6 16:02:06 CET 2011
+stash
+Date: Tue Dec  6 16:02:09 CET 2011
+svn dcommit -n
+Date: Tue Dec  6 16:02:12 CET 2011
+svn dcommit
+Date: Tue Dec  6 16:02:46 CET 2011
+stash pop
+Date: Tue Dec  6 16:02:49 CET 2011
+st
+Date: Tue Dec  6 17:23:41 CET 2011
+fd
+Date: Tue Dec  6 17:23:44 CET 2011
+stash
+Date: Tue Dec  6 17:23:45 CET 2011
+svn dcommit -n
+Date: Tue Dec  6 17:23:47 CET 2011
+stash pop
+Date: Tue Dec  6 17:23:54 CET 2011
+fd
+Date: Tue Dec  6 17:28:52 CET 2011
+svnup
+Date: Tue Dec  6 17:28:58 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Dec  6 17:29:21 CET 2011
+rev-parse --git-dir
+Date: Tue Dec  6 17:29:21 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:29:21 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Dec  6 17:29:22 CET 2011
+rev-parse --git-dir
+Date: Tue Dec  6 17:29:22 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:29:22 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Dec  6 17:29:24 CET 2011
+rev-parse --git-dir
+Date: Tue Dec  6 17:29:24 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:29:24 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Dec  6 17:29:24 CET 2011
+rev-parse --git-dir
+Date: Tue Dec  6 17:29:24 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:29:24 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Tue Dec  6 17:29:25 CET 2011
+rev-parse --git-dir
+Date: Tue Dec  6 17:29:25 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:29:25 CET 2011
+st
+Date: Tue Dec  6 17:42:06 CET 2011
+stash
+Date: Tue Dec  6 17:42:08 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Tue Dec  6 17:42:10 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:42:10 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:42:11 CET 2011
+rebase master select
+Date: Tue Dec  6 17:42:12 CET 2011
+st
+Date: Tue Dec  6 17:47:39 CET 2011
+svn dcommit -n
+Date: Tue Dec  6 17:52:02 CET 2011
+svn dcommit -e
+Date: Tue Dec  6 17:52:35 CET 2011
+co master
+Date: Tue Dec  6 17:52:48 CET 2011
+svn rebase
+Date: Tue Dec  6 17:52:49 CET 2011
+br -d select
+Date: Tue Dec  6 17:52:52 CET 2011
+br
+Date: Tue Dec  6 17:52:54 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Tue Dec  6 17:53:02 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:53:03 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:53:05 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Tue Dec  6 17:53:07 CET 2011
+rebase master email_select
+Date: Tue Dec  6 17:53:10 CET 2011
+svn dcommit -n
+Date: Tue Dec  6 17:53:13 CET 2011
+co master
+Date: Tue Dec  6 17:53:17 CET 2011
+--git-dir=.git config --get alias.br
+Date: Tue Dec  6 17:53:20 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/heads
+Date: Tue Dec  6 17:53:20 CET 2011
+br -D email_select
+Date: Tue Dec  6 17:53:23 CET 2011
+br
+Date: Tue Dec  6 17:53:26 CET 2011
+st
+Date: Tue Dec  6 17:53:33 CET 2011
+st
+Date: Tue Dec  6 17:54:01 CET 2011
+stash
+Date: Tue Dec  6 17:54:03 CET 2011
+st
+Date: Tue Dec  6 18:01:30 CET 2011
+stash show
+Date: Tue Dec  6 18:01:33 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:29:19 CET 2011
+st
+Date: Wed Dec  7 11:39:13 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:39:14 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:40:43 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 11:42:39 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:20:56 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:20:56 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:20:56 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:26:03 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:26:03 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:26:03 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:48 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:48 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:49 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:52 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:54 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:54 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:55 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:55 CET 2011
+st
+Date: Wed Dec  7 12:44:58 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:44:58 CET 2011
+st
+Date: Wed Dec  7 12:45:00 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 12:45:00 CET 2011
+st
+Date: Wed Dec  7 13:04:07 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:31:50 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:31:59 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:32:06 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:32:08 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:32:12 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:32:16 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 13:32:28 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 15:13:31 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 15:13:36 CET 2011
+rev-parse --git-dir
+Date: Wed Dec  7 15:13:46 CET 2011
+st
+Date: Wed Dec  7 15:58:49 CET 2011
+fd
+Date: Wed Dec  7 15:58:51 CET 2011
+stash show
+Date: Wed Dec  7 15:58:55 CET 2011
+svnup
+Date: Wed Dec  7 15:59:52 CET 2011
+st
+Date: Wed Dec  7 16:07:55 CET 2011
+fd
+Date: Wed Dec  7 16:07:56 CET 2011
+stash show
+Date: Wed Dec  7 16:08:01 CET 2011
+stash show -p
+Date: Wed Dec  7 16:16:53 CET 2011
+st
+Date: Wed Dec  7 16:16:54 CET 2011
+fd
+Date: Wed Dec  7 16:16:55 CET 2011
+co .
+Date: Wed Dec  7 16:16:56 CET 2011
+svn dcommit -n
+Date: Wed Dec  7 16:17:00 CET 2011
+st
+Date: Wed Dec  7 16:17:24 CET 2011
+fd
+Date: Wed Dec  7 16:17:26 CET 2011
+ci -a
+Date: Wed Dec  7 16:17:37 CET 2011
+br
+Date: Wed Dec  7 16:17:53 CET 2011
+co -b entity_change_comet_select
+Date: Wed Dec  7 16:18:43 CET 2011
+co master
+Date: Wed Dec  7 16:18:47 CET 2011
+reset --hard HEAD^
+Date: Wed Dec  7 16:18:50 CET 2011
+svn dcommit -n
+Date: Wed Dec  7 16:18:52 CET 2011
+--git-dir=.git config --get alias.co
+Date: Wed Dec  7 16:18:54 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Wed Dec  7 16:18:54 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Wed Dec  7 16:18:55 CET 2011
+co entity_change_comet_select
+Date: Wed Dec  7 16:18:55 CET 2011
+st
+Date: Wed Dec  7 16:36:46 CET 2011
+fd
+Date: Wed Dec  7 16:36:47 CET 2011
+st
+Date: Wed Dec  7 16:37:27 CET 2011
+fd
+Date: Wed Dec  7 16:55:40 CET 2011
+st
+Date: Wed Dec  7 16:55:41 CET 2011
+fd
+Date: Wed Dec  7 16:56:02 CET 2011
+st
+Date: Wed Dec  7 16:56:27 CET 2011
+st
+Date: Wed Dec  7 16:56:38 CET 2011
+fd
+Date: Wed Dec  7 17:00:56 CET 2011
+st
+Date: Wed Dec  7 17:00:57 CET 2011
+st
+Date: Wed Dec  7 17:37:18 CET 2011
+fd
+Date: Wed Dec  7 17:37:19 CET 2011
+pull
+Date: Wed Dec  7 17:37:32 CET 2011
+st
+Date: Wed Dec  7 17:37:33 CET 2011
+fd
+Date: Wed Dec  7 17:49:04 CET 2011
+st
+Date: Wed Dec  7 17:49:05 CET 2011
+fd
+Date: Wed Dec  7 17:49:15 CET 2011
+st
+Date: Wed Dec  7 17:49:22 CET 2011
+fd
+Date: Wed Dec  7 17:49:27 CET 2011
+st
+Date: Thu Dec  8 12:19:47 CET 2011
+fd
+Date: Thu Dec  8 12:19:51 CET 2011
+st
+Date: Thu Dec  8 12:19:54 CET 2011
+add .
+Date: Thu Dec  8 12:19:57 CET 2011
+st
+Date: Thu Dec  8 12:19:58 CET 2011
+stash
+Date: Thu Dec  8 12:20:04 CET 2011
+st
+Date: Thu Dec  8 12:20:06 CET 2011
+--git-dir=.git config --get alias.co
+Date: Thu Dec  8 12:20:08 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:20:08 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Dec  8 12:20:08 CET 2011
+co master
+Date: Thu Dec  8 12:20:09 CET 2011
+svn rebase
+Date: Thu Dec  8 12:21:04 CET 2011
+st
+Date: Thu Dec  8 12:21:07 CET 2011
+br
+Date: Thu Dec  8 12:21:09 CET 2011
+stash show
+Date: Thu Dec  8 12:21:14 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:16 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:16 CET 2011
+stash show stash@{1}
+Date: Thu Dec  8 12:21:17 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:19 CET 2011
+stash show stash@{2}
+Date: Thu Dec  8 12:21:20 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:21 CET 2011
+stash show stash@{3}
+Date: Thu Dec  8 12:21:22 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:26 CET 2011
+stash show stash@{4}
+Date: Thu Dec  8 12:21:26 CET 2011
+stash list
+Date: Thu Dec  8 12:21:30 CET 2011
+--git-dir=.git stash list
+Date: Thu Dec  8 12:21:34 CET 2011
+stash show stash@{5}
+Date: Thu Dec  8 12:21:34 CET 2011
+stash show stash@{5} -p
+Date: Thu Dec  8 12:21:55 CET 2011
+stash pop stash@{5}
+Date: Thu Dec  8 12:22:02 CET 2011
+fd
+Date: Thu Dec  8 12:22:07 CET 2011
+fd
+Date: Thu Dec  8 12:27:23 CET 2011
+st
+Date: Thu Dec  8 12:28:01 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:36 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:36 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:36 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:39 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:39 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:39 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:40 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:40 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:40 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:40 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:40 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:40 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:53 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:53 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:53 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:54 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:54 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:54 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:55 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:55 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:55 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 12:29:59 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 12:29:59 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 12:29:59 CET 2011
+lg java-src/nl/realworks/apps/pieter/css/
+Date: Thu Dec  8 12:30:08 CET 2011
+st
+Date: Thu Dec  8 12:32:31 CET 2011
+fd
+Date: Thu Dec  8 13:03:40 CET 2011
+st
+Date: Thu Dec  8 13:03:41 CET 2011
+fd
+Date: Thu Dec  8 13:03:46 CET 2011
+fd
+Date: Thu Dec  8 13:05:03 CET 2011
+st
+Date: Thu Dec  8 14:03:58 CET 2011
+fd
+Date: Thu Dec  8 14:04:01 CET 2011
+svnup
+Date: Thu Dec  8 14:04:08 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:04:09 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:04:09 CET 2011
+st
+Date: Thu Dec  8 14:04:44 CET 2011
+fd
+Date: Thu Dec  8 14:04:47 CET 2011
+st
+Date: Thu Dec  8 14:04:50 CET 2011
+fd
+Date: Thu Dec  8 14:05:21 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:05:22 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:05:22 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:05:22 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:05:23 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:05:23 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:05:23 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:05:24 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:05:24 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:05:24 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:05:25 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:05:25 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:05:25 CET 2011
+st
+Date: Thu Dec  8 14:05:33 CET 2011
+co java-src/nl/realworks/apps/pieter/css/LocateCssRulesFromBaseRecursive.java
+Date: Thu Dec  8 14:05:38 CET 2011
+fd
+Date: Thu Dec  8 14:08:29 CET 2011
+st
+Date: Thu Dec  8 14:08:31 CET 2011
+fd
+Date: Thu Dec  8 14:09:01 CET 2011
+st
+Date: Thu Dec  8 14:20:21 CET 2011
+df web/pub/js/classes/telefonie/SwyxManagerImpl.js
+Date: Thu Dec  8 14:20:31 CET 2011
+fd web/pub/js/classes/telefonie/SwyxManagerImpl.js
+Date: Thu Dec  8 14:34:04 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:21 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:21 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:21 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:21 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:22 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:22 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:22 CET 2011
+st
+Date: Thu Dec  8 14:34:41 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:43 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:43 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:43 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:34:45 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:34:45 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:45 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 14:34:54 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:54 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 14:34:54 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:34:54 CET 2011
+fd web/pub/
+Date: Thu Dec  8 14:40:47 CET 2011
+st
+Date: Thu Dec  8 14:40:48 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:04 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:04 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:04 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:05 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:05 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:05 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:06 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:06 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:06 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:06 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:06 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:06 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:06 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:07 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:07 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:41:07 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:41:07 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:41:07 CET 2011
+st
+Date: Thu Dec  8 14:42:34 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:42:44 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:42:44 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:42:44 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 14:42:45 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 14:42:45 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:42:45 CET 2011
+br
+Date: Thu Dec  8 14:42:55 CET 2011
+co -b index_jsp_doctype
+Date: Thu Dec  8 14:43:12 CET 2011
+st
+Date: Thu Dec  8 14:43:13 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 14:43:15 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:43:15 CET 2011
+fd web/
+Date: Thu Dec  8 14:43:16 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 14:43:17 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:43:17 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 14:43:18 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 14:43:18 CET 2011
+fd web/index.jsp
+Date: Thu Dec  8 14:43:23 CET 2011
+ci web/index.jsp
+Date: Thu Dec  8 15:16:09 CET 2011
+st
+Date: Thu Dec  8 15:16:14 CET 2011
+fd
+Date: Thu Dec  8 15:16:16 CET 2011
+stash
+Date: Thu Dec  8 15:16:31 CET 2011
+--git-dir=.git config --get alias.ci
+Date: Thu Dec  8 15:22:42 CET 2011
+ci --amend
+Date: Thu Dec  8 15:22:55 CET 2011
+st
+Date: Thu Dec  8 15:26:48 CET 2011
+stash show -p
+Date: Thu Dec  8 15:27:07 CET 2011
+svn rebase
+Date: Thu Dec  8 15:27:12 CET 2011
+--git-dir=.git config --get alias.lg
+Date: Thu Dec  8 15:27:14 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 15:27:14 CET 2011
+st
+Date: Thu Dec  8 15:27:23 CET 2011
+co master
+Date: Thu Dec  8 15:27:30 CET 2011
+svn rebase
+Date: Thu Dec  8 15:27:31 CET 2011
+stash pop
+Date: Thu Dec  8 15:27:35 CET 2011
+fd
+Date: Thu Dec  8 15:27:45 CET 2011
+st
+Date: Thu Dec  8 15:27:47 CET 2011
+--git-dir=.git config --get alias.fl
+Date: Thu Dec  8 15:27:56 CET 2011
+rev-parse --git-dir
+Date: Thu Dec  8 15:27:56 CET 2011
+ci -a
+Date: Thu Dec  8 15:30:44 CET 2011
+svn dcommit -n
+Date: Thu Dec  8 15:30:48 CET 2011
+st
+Date: Thu Dec  8 15:34:55 CET 2011
+st
+Date: Thu Dec  8 15:35:11 CET 2011
+reset --soft HEAD^
+Date: Thu Dec  8 15:35:16 CET 2011
+st
+Date: Thu Dec  8 15:35:17 CET 2011
+fd
+Date: Thu Dec  8 15:35:18 CET 2011
+st
+Date: Thu Dec  8 15:35:21 CET 2011
+add web/
+Date: Thu Dec  8 15:35:23 CET 2011
+--git-dir=.git config --get alias.fd
+Date: Thu Dec  8 15:35:24 CET 2011
+fd --cached
+Date: Thu Dec  8 15:35:44 CET 2011
+st
+Date: Thu Dec  8 15:35:45 CET 2011
+ci
+Date: Thu Dec  8 15:35:56 CET 2011
+st
+Date: Thu Dec  8 15:35:59 CET 2011
+st
+Date: Thu Dec  8 15:36:10 CET 2011
+reset --soft HEAD^
+Date: Thu Dec  8 15:36:15 CET 2011
+st
+Date: Thu Dec  8 15:36:20 CET 2011
+add web/
+Date: Thu Dec  8 15:36:22 CET 2011
+ci
+Date: Thu Dec  8 15:36:30 CET 2011
+st
+Date: Thu Dec  8 15:36:34 CET 2011
+st
+Date: Thu Dec  8 15:36:46 CET 2011
+svn dcommit -n
+Date: Thu Dec  8 15:36:49 CET 2011
+svn dcommit
+Date: Thu Dec  8 15:36:54 CET 2011
+st
+Date: Thu Dec  8 15:36:56 CET 2011
+help -a
+Date: Thu Dec  8 15:36:57 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 15:36:57 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 15:36:57 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 15:36:59 CET 2011
+rebase master index_jsp_doctype
+Date: Thu Dec  8 15:37:00 CET 2011
+svn dcommit -n
+Date: Thu Dec  8 15:37:02 CET 2011
+st
+Date: Thu Dec  8 15:37:03 CET 2011
+st
+Date: Thu Dec  8 15:39:33 CET 2011
+st
+Date: Thu Dec  8 16:43:33 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:43:47 CET 2011
+show
+Date: Thu Dec  8 16:43:51 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:43:56 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:44:06 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:44:15 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:44:38 CET 2011
+show
+Date: Thu Dec  8 16:44:41 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:44:44 CET 2011
+svn fetch --fetch-all
+Date: Thu Dec  8 16:45:09 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:45:15 CET 2011
+help svn
+Date: Thu Dec  8 16:45:28 CET 2011
+--git-dir=.git config --get alias.co
+Date: Thu Dec  8 16:45:35 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 16:45:35 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Dec  8 16:45:35 CET 2011
+--git-dir=.git config --get alias.co
+Date: Thu Dec  8 16:45:41 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 16:45:41 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Dec  8 16:45:41 CET 2011
+co -b 80 branch-80
+Date: Thu Dec  8 16:45:44 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:45:49 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 16:45:56 CET 2011
+st
+Date: Thu Dec  8 17:02:06 CET 2011
+help bisect
+Date: Thu Dec  8 17:04:19 CET 2011
+st
+Date: Thu Dec  8 17:05:14 CET 2011
+svn find-rev r139578
+Date: Thu Dec  8 17:05:44 CET 2011
+show 78535ed1ef75626c044ec2ba0a30a9712b31de21
+Date: Thu Dec  8 17:05:52 CET 2011
+co -b grid-wijzigingen 78535ed1ef75626c044ec2ba0a30a9712b31de21
+Date: Thu Dec  8 17:06:08 CET 2011
+st
+Date: Thu Dec  8 17:06:13 CET 2011
+st
+Date: Thu Dec  8 17:12:49 CET 2011
+reset --hard HEAD^
+Date: Thu Dec  8 17:12:57 CET 2011
+help bisect
+Date: Thu Dec  8 17:15:45 CET 2011
+log
+Date: Thu Dec  8 17:15:56 CET 2011
+svn find-rev r139035
+Date: Thu Dec  8 17:16:26 CET 2011
+show ce7c958c4ddd464ac1bc516ed6577594da87473c
+Date: Thu Dec  8 17:16:30 CET 2011
+co -b startpunt-branch ce7c958c4ddd464ac1bc516ed6577594da87473c
+Date: Thu Dec  8 17:16:42 CET 2011
+--git-dir=.git config --get alias.co
+Date: Thu Dec  8 17:17:15 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 17:17:15 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Dec  8 17:17:15 CET 2011
+--git-dir=.git config --get alias.co
+Date: Thu Dec  8 17:17:16 CET 2011
+--git-dir=.git for-each-ref --format=%(refname:short) refs/tags refs/heads refs/remotes
+Date: Thu Dec  8 17:17:16 CET 2011
+--git-dir=.git for-each-ref --shell --format=ref=%(refname:short) refs/remotes/
+Date: Thu Dec  8 17:17:16 CET 2011
+st
+Date: Thu Dec  8 17:18:48 CET 2011
+help -a
+Date: Thu Dec  8 17:20:36 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 17:20:36 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 17:20:37 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 17:20:37 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 17:20:37 CET 2011
+--git-dir=.git config --get-regexp alias\..*
+Date: Thu Dec  8 17:20:38 CET 2011
+bisect help
+Date: Thu Dec  8 17:20:49 CET 2011
