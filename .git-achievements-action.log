@@ -59022,3 +59022,31 @@ bisect bad 106022163777b64b6309a1f8bd6f7ce3e10a2f5c
 Date: Fri Dec  9 09:38:24 CET 2011
 bisect reset
 Date: Fri Dec  9 09:39:08 CET 2011
+br
+Date: Fri Dec  9 09:39:17 CET 2011
+co -b t trunk
+Date: Fri Dec  9 09:39:22 CET 2011
+svn find-rev r139837
+Date: Fri Dec  9 09:39:30 CET 2011
+bisect start
+Date: Fri Dec  9 09:39:37 CET 2011
+bisect bad aa16275df5f370a29497a74f8475722668fc3727
+Date: Fri Dec  9 09:39:41 CET 2011
+svn find-rev r2
+Date: Fri Dec  9 09:39:46 CET 2011
+svn find-rev r139619
+Date: Fri Dec  9 09:40:06 CET 2011
+bisect good 513ad6a87c12fcc30db02f5894dab327000b9d64
+Date: Fri Dec  9 09:40:16 CET 2011
+bisect help
+Date: Fri Dec  9 09:40:33 CET 2011
+bisect visualize
+Date: Fri Dec  9 09:42:36 CET 2011
+bisect visualize -p
+Date: Fri Dec  9 09:43:40 CET 2011
+show 78535ed1ef75626c044ec2ba0a30a9712b31de21
+Date: Fri Dec  9 09:44:54 CET 2011
+bisect help
+Date: Fri Dec  9 09:45:34 CET 2011
+bisect reset
+Date: Fri Dec  9 09:48:13 CET 2011
