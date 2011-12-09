@@ -2,6 +2,7 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Investigator (Level 7)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 </channel></rss>
