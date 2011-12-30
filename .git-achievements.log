@@ -646,3 +646,11 @@ Used git bisect to perform a binary search to find which change introduced a bug
           Streamed changes between another rcs with git svn or git p4.          
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                Hunter (Level 6)                                
+Used git bisect to perform a binary search to find which change introduced a bug.
+********************************************************************************
+
