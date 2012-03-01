@@ -2,6 +2,7 @@
 <title>Willem Fibbe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 <item><title>Fisherman (Level 6)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Fisherman (Level 5)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Traveler (Level 9)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 </channel></rss>

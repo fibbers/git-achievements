@@ -678,3 +678,11 @@ Used git bisect to perform a binary search to find which change introduced a bug
       Look for specified patterns in the current repository with git grep.      
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                                    Librarian                                    
+       Looked for change that introduce or remove a string with git log -S       
+********************************************************************************
+
